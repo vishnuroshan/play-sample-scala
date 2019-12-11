@@ -1,0 +1,1888 @@
+INFO  time: initialize in 0.9s
+WARN  no build target: /home/vishnu/Downloads/play-sample/app/controllers/dataController.scala
+INFO  running '/usr/lib/jvm/java-8-openjdk-amd64/jre/bin/java -Djline.terminal=jline.UnsupportedTerminal -Dsbt.log.noformat=true -Dfile.encoding=UTF-8 -jar /tmp/metals13640830794192138/sbt-launch.jar metalsEnable bloopInstall'
+INFO  [info] Loading settings for project global-plugins from metals.sbt ...
+INFO  [info] Loading global plugins from /home/vishnu/.sbt/1.0/plugins
+INFO  [info] Loading settings for project play-sample-build from plugins.sbt ...
+INFO  [info] Loading project definition from /home/vishnu/Downloads/play-sample/project
+INFO  [warn] There may be incompatibilities among your library dependencies; run 'evicted' to see detailed eviction warnings.
+INFO  [success] Generated .bloop/play-sample-build.json
+INFO  [success] Total time: 3 s, completed 3 Dec, 2019 6:19:24 PM
+INFO  [warn] There may be incompatibilities among your library dependencies; run 'evicted' to see detailed eviction warnings.
+INFO  [info] Loading settings for project root from build.sbt ...
+INFO  [info] Set current project to play-scala-starter-example (in build file:/home/vishnu/Downloads/play-sample/)
+INFO  [info] Set current project to play-scala-starter-example (in build file:/home/vishnu/Downloads/play-sample/)
+INFO  [info] semanticdb-scalac is enabled
+INFO  [warn] There may be incompatibilities among your library dependencies; run 'evicted' to see detailed eviction warnings.
+INFO  [warn] There may be incompatibilities among your library dependencies; run 'evicted' to see detailed eviction warnings.
+INFO  [success] Generated .bloop/root.json
+INFO  [success] Generated .bloop/root-test.json
+INFO  [success] Total time: 46 s, completed 3 Dec, 2019 6:20:17 PM
+INFO  build tool exit: 0
+INFO  time: ran 'sbt bloopInstall' in 1m27s
+INFO  running embedded 'bloop bsp --protocol local --socket /tmp/bsp5623097130371554910/-lfc338a39oc8.socket'
+Downloading https://repo1.maven.org/maven2/ch/epfl/scala/bloop-frontend_2.12/1.3.2/bloop-frontend_2.12-1.3.2.pom
+Downloading https://repo1.maven.org/maven2/ch/epfl/scala/bloop-frontend_2.12/1.3.2/bloop-frontend_2.12-1.3.2.pom.sha1
+Downloaded https://repo1.maven.org/maven2/ch/epfl/scala/bloop-frontend_2.12/1.3.2/bloop-frontend_2.12-1.3.2.pom.sha1
+Downloaded https://repo1.maven.org/maven2/ch/epfl/scala/bloop-frontend_2.12/1.3.2/bloop-frontend_2.12-1.3.2.pom
+Downloading https://repo1.maven.org/maven2/ch/epfl/scala/bloop-frontend_2.12/1.3.2/
+Downloaded https://repo1.maven.org/maven2/ch/epfl/scala/bloop-frontend_2.12/1.3.2/
+Downloading https://repo1.maven.org/maven2/ch/epfl/scala/bloop-backend_2.12/1.3.2/bloop-backend_2.12-1.3.2.pom
+Downloading https://repo1.maven.org/maven2/ch/epfl/scala/bloop-backend_2.12/1.3.2/bloop-backend_2.12-1.3.2.pom.sha1
+Downloading https://repo1.maven.org/maven2/com/zaxxer/nuprocess/1.2.4/nuprocess-1.2.4.pom.sha1
+Downloading https://repo1.maven.org/maven2/ch/epfl/scala/bloop-config_2.12/1.3.2/bloop-config_2.12-1.3.2.pom.sha1
+Downloading https://repo1.maven.org/maven2/io/monix/monix_2.12/2.3.3/monix_2.12-2.3.3.pom
+Downloading https://repo1.maven.org/maven2/io/monix/monix_2.12/2.3.3/monix_2.12-2.3.3.pom.sha1
+Downloaded https://repo1.maven.org/maven2/ch/epfl/scala/bloop-backend_2.12/1.3.2/bloop-backend_2.12-1.3.2.pom
+Downloading https://repo1.maven.org/maven2/org/scala-lang/scala-library/2.12.10/scala-library-2.12.10.pom.sha1
+Downloaded https://repo1.maven.org/maven2/org/scala-lang/scala-library/2.12.10/scala-library-2.12.10.pom.sha1
+Downloading https://repo1.maven.org/maven2/ch/epfl/scala/case-app_2.12/1.2.0-faster-compile-time/case-app_2.12-1.2.0-faster-compile-time.pom
+Downloaded https://repo1.maven.org/maven2/ch/epfl/scala/bloop-backend_2.12/1.3.2/bloop-backend_2.12-1.3.2.pom.sha1
+Downloading https://repo1.maven.org/maven2/ch/epfl/scala/case-app_2.12/1.2.0-faster-compile-time/case-app_2.12-1.2.0-faster-compile-time.pom.sha1
+Downloaded https://repo1.maven.org/maven2/com/zaxxer/nuprocess/1.2.4/nuprocess-1.2.4.pom.sha1
+Downloaded https://repo1.maven.org/maven2/ch/epfl/scala/case-app_2.12/1.2.0-faster-compile-time/case-app_2.12-1.2.0-faster-compile-time.pom
+Downloading https://repo1.maven.org/maven2/org/scalaz/scalaz-core_2.12/7.2.20/scalaz-core_2.12-7.2.20.pom
+Downloading https://repo1.maven.org/maven2/ch/epfl/scala/sockets/1.3.2/sockets-1.3.2.pom
+Downloaded https://repo1.maven.org/maven2/io/monix/monix_2.12/2.3.3/monix_2.12-2.3.3.pom.sha1
+Downloading https://repo1.maven.org/maven2/org/scalaz/scalaz-core_2.12/7.2.20/scalaz-core_2.12-7.2.20.pom.sha1
+Downloaded https://repo1.maven.org/maven2/ch/epfl/scala/bloop-config_2.12/1.3.2/bloop-config_2.12-1.3.2.pom.sha1
+Downloading https://repo1.maven.org/maven2/ch/epfl/scala/sockets/1.3.2/sockets-1.3.2.pom.sha1
+Downloaded https://repo1.maven.org/maven2/io/monix/monix_2.12/2.3.3/monix_2.12-2.3.3.pom
+Downloading https://repo1.maven.org/maven2/io/monix/monix_2.12/2.3.3/
+Downloaded https://repo1.maven.org/maven2/ch/epfl/scala/case-app_2.12/1.2.0-faster-compile-time/case-app_2.12-1.2.0-faster-compile-time.pom.sha1
+Downloading https://repo1.maven.org/maven2/ch/epfl/scala/bloop-backend_2.12/1.3.2/
+Downloaded https://repo1.maven.org/maven2/org/scalaz/scalaz-core_2.12/7.2.20/scalaz-core_2.12-7.2.20.pom
+Downloading https://repo1.maven.org/maven2/org/scala-lang/scala-library/2.12.10/
+Downloaded https://repo1.maven.org/maven2/ch/epfl/scala/sockets/1.3.2/sockets-1.3.2.pom.sha1
+Downloading https://repo1.maven.org/maven2/ch/epfl/scala/bloop-config_2.12/1.3.2/
+Downloaded https://repo1.maven.org/maven2/org/scalaz/scalaz-core_2.12/7.2.20/scalaz-core_2.12-7.2.20.pom.sha1
+Downloading https://repo1.maven.org/maven2/com/zaxxer/nuprocess/1.2.4/
+Downloaded https://repo1.maven.org/maven2/ch/epfl/scala/sockets/1.3.2/sockets-1.3.2.pom
+Downloaded https://repo1.maven.org/maven2/io/monix/monix_2.12/2.3.3/
+Downloading https://repo1.maven.org/maven2/ch/epfl/scala/case-app_2.12/1.2.0-faster-compile-time/
+Downloading https://repo1.maven.org/maven2/ch/epfl/scala/sockets/1.3.2/
+Downloaded https://repo1.maven.org/maven2/ch/epfl/scala/bloop-backend_2.12/1.3.2/
+Downloading https://repo1.maven.org/maven2/org/scalaz/scalaz-core_2.12/7.2.20/
+Downloaded https://repo1.maven.org/maven2/org/scala-lang/scala-library/2.12.10/
+Downloaded https://repo1.maven.org/maven2/ch/epfl/scala/case-app_2.12/1.2.0-faster-compile-time/
+Downloaded https://repo1.maven.org/maven2/com/zaxxer/nuprocess/1.2.4/
+Downloaded https://repo1.maven.org/maven2/ch/epfl/scala/bloop-config_2.12/1.3.2/
+Downloaded https://repo1.maven.org/maven2/ch/epfl/scala/sockets/1.3.2/
+Downloaded https://repo1.maven.org/maven2/org/scalaz/scalaz-core_2.12/7.2.20/
+Downloading https://repo1.maven.org/maven2/org/sonatype/oss/oss-parent/7/oss-parent-7.pom.sha1
+Downloaded https://repo1.maven.org/maven2/org/sonatype/oss/oss-parent/7/oss-parent-7.pom.sha1
+Downloading https://repo1.maven.org/maven2/org/sonatype/oss/oss-parent/7/
+Downloaded https://repo1.maven.org/maven2/org/sonatype/oss/oss-parent/7/
+Downloading https://repo1.maven.org/maven2/ch/epfl/scala/case-app-util_2.12/1.2.0-faster-compile-time/case-app-util_2.12-1.2.0-faster-compile-time.pom
+Downloading https://repo1.maven.org/maven2/ch/epfl/scala/case-app-util_2.12/1.2.0-faster-compile-time/case-app-util_2.12-1.2.0-faster-compile-time.pom.sha1
+Downloading https://repo1.maven.org/maven2/io/monix/monix-eval_2.12/2.3.3/monix-eval_2.12-2.3.3.pom
+Downloading https://repo1.maven.org/maven2/io/monix/monix-eval_2.12/2.3.3/monix-eval_2.12-2.3.3.pom.sha1
+Downloading https://repo1.maven.org/maven2/ch/epfl/scala/bsp4s_2.12/2.0.0-M4/bsp4s_2.12-2.0.0-M4.pom.sha1
+Downloading https://repo1.maven.org/maven2/net/java/dev/jna/jna/4.5.1/jna-4.5.1.pom.sha1
+Downloaded https://repo1.maven.org/maven2/ch/epfl/scala/case-app-util_2.12/1.2.0-faster-compile-time/case-app-util_2.12-1.2.0-faster-compile-time.pom.sha1
+Downloading https://repo1.maven.org/maven2/ch/epfl/scala/bsp4s_2.12/2.0.0-M4/bsp4s_2.12-2.0.0-M4.pom
+Downloaded https://repo1.maven.org/maven2/ch/epfl/scala/case-app-util_2.12/1.2.0-faster-compile-time/case-app-util_2.12-1.2.0-faster-compile-time.pom
+Downloaded https://repo1.maven.org/maven2/ch/epfl/scala/bsp4s_2.12/2.0.0-M4/bsp4s_2.12-2.0.0-M4.pom.sha1
+Downloading https://repo1.maven.org/maven2/io/circe/circe-parser_2.12/0.9.3/circe-parser_2.12-0.9.3.pom.sha1
+Downloading https://repo1.maven.org/maven2/io/zipkin/brave/brave/5.6.1/brave-5.6.1.pom.sha1
+Downloaded https://repo1.maven.org/maven2/io/monix/monix-eval_2.12/2.3.3/monix-eval_2.12-2.3.3.pom.sha1
+Downloading https://repo1.maven.org/maven2/io/zipkin/brave/brave/5.6.1/brave-5.6.1.pom
+Downloaded https://repo1.maven.org/maven2/io/monix/monix-eval_2.12/2.3.3/monix-eval_2.12-2.3.3.pom
+Downloading https://repo1.maven.org/maven2/io/github/soc/directories/10/directories-10.pom
+Downloaded https://repo1.maven.org/maven2/io/circe/circe-parser_2.12/0.9.3/circe-parser_2.12-0.9.3.pom.sha1
+Downloading https://repo1.maven.org/maven2/io/monix/monix-types_2.12/2.3.3/monix-types_2.12-2.3.3.pom
+Downloaded https://repo1.maven.org/maven2/io/github/soc/directories/10/directories-10.pom
+Downloading https://repo1.maven.org/maven2/io/circe/circe-derivation_2.12/0.9.0-M3/circe-derivation_2.12-0.9.0-M3.pom.sha1
+Downloaded https://repo1.maven.org/maven2/io/zipkin/brave/brave/5.6.1/brave-5.6.1.pom
+Downloading https://repo1.maven.org/maven2/io/github/soc/directories/10/directories-10.pom.sha1
+Downloaded https://repo1.maven.org/maven2/ch/epfl/scala/bsp4s_2.12/2.0.0-M4/bsp4s_2.12-2.0.0-M4.pom
+Downloading https://repo1.maven.org/maven2/io/monix/monix-types_2.12/2.3.3/monix-types_2.12-2.3.3.pom.sha1
+Downloaded https://repo1.maven.org/maven2/io/zipkin/brave/brave/5.6.1/brave-5.6.1.pom.sha1
+Downloading https://repo1.maven.org/maven2/com/lihaoyi/sourcecode_2.12/0.1.4/sourcecode_2.12-0.1.4.pom
+Downloaded https://repo1.maven.org/maven2/net/java/dev/jna/jna/4.5.1/jna-4.5.1.pom.sha1
+Downloading https://repo1.maven.org/maven2/org/ow2/asm/asm/6.0/asm-6.0.pom
+Downloaded https://repo1.maven.org/maven2/io/circe/circe-derivation_2.12/0.9.0-M3/circe-derivation_2.12-0.9.0-M3.pom.sha1
+Downloading https://repo1.maven.org/maven2/com/lihaoyi/sourcecode_2.12/0.1.4/sourcecode_2.12-0.1.4.pom.sha1
+Downloaded https://repo1.maven.org/maven2/io/monix/monix-types_2.12/2.3.3/monix-types_2.12-2.3.3.pom
+Downloading https://repo1.maven.org/maven2/org/ow2/asm/asm/6.0/asm-6.0.pom.sha1
+Downloaded https://repo1.maven.org/maven2/com/lihaoyi/sourcecode_2.12/0.1.4/sourcecode_2.12-0.1.4.pom
+Downloading https://repo1.maven.org/maven2/ch/epfl/scala/case-app-annotations_2.12/1.2.0-faster-compile-time/case-app-annotations_2.12-1.2.0-faster-compile-time.pom
+Downloaded https://repo1.maven.org/maven2/io/monix/monix-types_2.12/2.3.3/monix-types_2.12-2.3.3.pom.sha1
+Downloading https://repo1.maven.org/maven2/ch/epfl/scala/case-app-annotations_2.12/1.2.0-faster-compile-time/case-app-annotations_2.12-1.2.0-faster-compile-time.pom.sha1
+Downloaded https://repo1.maven.org/maven2/io/github/soc/directories/10/directories-10.pom.sha1
+Downloading https://repo1.maven.org/maven2/com/googlecode/java-diff-utils/diffutils/1.3.0/diffutils-1.3.0.pom.sha1
+Downloaded https://repo1.maven.org/maven2/org/ow2/asm/asm/6.0/asm-6.0.pom
+Downloading https://repo1.maven.org/maven2/ch/epfl/scala/nailgun-server/ee3c4343/nailgun-server-ee3c4343.pom
+Downloaded https://repo1.maven.org/maven2/com/lihaoyi/sourcecode_2.12/0.1.4/sourcecode_2.12-0.1.4.pom.sha1
+Downloading https://repo1.maven.org/maven2/ch/epfl/scala/nailgun-server/ee3c4343/nailgun-server-ee3c4343.pom.sha1
+Downloaded https://repo1.maven.org/maven2/org/ow2/asm/asm/6.0/asm-6.0.pom.sha1
+Downloading https://repo1.maven.org/maven2/net/java/dev/jna/jna-platform/4.5.0/jna-platform-4.5.0.pom.sha1
+Downloaded https://repo1.maven.org/maven2/ch/epfl/scala/case-app-annotations_2.12/1.2.0-faster-compile-time/case-app-annotations_2.12-1.2.0-faster-compile-time.pom
+Downloading https://repo1.maven.org/maven2/com/lihaoyi/pprint_2.12/0.5.3/pprint_2.12-0.5.3.pom
+Downloaded https://repo1.maven.org/maven2/com/googlecode/java-diff-utils/diffutils/1.3.0/diffutils-1.3.0.pom.sha1
+Downloaded https://repo1.maven.org/maven2/ch/epfl/scala/case-app-annotations_2.12/1.2.0-faster-compile-time/case-app-annotations_2.12-1.2.0-faster-compile-time.pom.sha1
+Downloading https://repo1.maven.org/maven2/org/scala-sbt/librarymanagement-ivy_2.12/1.0.0/librarymanagement-ivy_2.12-1.0.0.pom
+Downloading https://repo1.maven.org/maven2/com/lihaoyi/pprint_2.12/0.5.3/pprint_2.12-0.5.3.pom.sha1
+Downloaded https://repo1.maven.org/maven2/ch/epfl/scala/nailgun-server/ee3c4343/nailgun-server-ee3c4343.pom
+Downloading https://repo1.maven.org/maven2/org/scala-sbt/librarymanagement-ivy_2.12/1.0.0/librarymanagement-ivy_2.12-1.0.0.pom.sha1
+Downloaded https://repo1.maven.org/maven2/net/java/dev/jna/jna-platform/4.5.0/jna-platform-4.5.0.pom.sha1
+Downloading https://repo1.maven.org/maven2/io/get-coursier/coursier-cache_2.12/1.1.0-M14-4/coursier-cache_2.12-1.1.0-M14-4.pom
+Downloaded https://repo1.maven.org/maven2/ch/epfl/scala/nailgun-server/ee3c4343/nailgun-server-ee3c4343.pom.sha1
+Downloading https://repo1.maven.org/maven2/io/get-coursier/coursier-cache_2.12/1.1.0-M14-4/coursier-cache_2.12-1.1.0-M14-4.pom.sha1
+Downloaded https://repo1.maven.org/maven2/com/lihaoyi/pprint_2.12/0.5.3/pprint_2.12-0.5.3.pom
+Downloading https://repo1.maven.org/maven2/org/scala-sbt/test-interface/1.0/test-interface-1.0.pom.sha1
+Downloaded https://repo1.maven.org/maven2/org/scala-sbt/librarymanagement-ivy_2.12/1.0.0/librarymanagement-ivy_2.12-1.0.0.pom
+Downloaded https://repo1.maven.org/maven2/com/lihaoyi/pprint_2.12/0.5.3/pprint_2.12-0.5.3.pom.sha1
+Downloading https://repo1.maven.org/maven2/org/ow2/asm/asm-util/6.0/asm-util-6.0.pom
+Downloading https://repo1.maven.org/maven2/org/zeroturnaround/zt-zip/1.13/zt-zip-1.13.pom
+Downloaded https://repo1.maven.org/maven2/org/scala-sbt/librarymanagement-ivy_2.12/1.0.0/librarymanagement-ivy_2.12-1.0.0.pom.sha1
+Downloading https://repo1.maven.org/maven2/org/zeroturnaround/zt-zip/1.13/zt-zip-1.13.pom.sha1
+Downloaded https://repo1.maven.org/maven2/io/get-coursier/coursier-cache_2.12/1.1.0-M14-4/coursier-cache_2.12-1.1.0-M14-4.pom
+Downloading https://repo1.maven.org/maven2/ch/epfl/scala/zinc_2.12/1.3.0-M4+22-4704d479/zinc_2.12-1.3.0-M4+22-4704d479.pom
+Downloaded https://repo1.maven.org/maven2/io/get-coursier/coursier-cache_2.12/1.1.0-M14-4/coursier-cache_2.12-1.1.0-M14-4.pom.sha1
+Downloading https://repo1.maven.org/maven2/org/ow2/asm/asm-util/6.0/asm-util-6.0.pom.sha1
+Downloaded https://repo1.maven.org/maven2/org/scala-sbt/test-interface/1.0/test-interface-1.0.pom.sha1
+Downloading https://repo1.maven.org/maven2/ch/epfl/scala/zinc_2.12/1.3.0-M4+22-4704d479/zinc_2.12-1.3.0-M4+22-4704d479.pom.sha1
+Downloaded https://repo1.maven.org/maven2/org/ow2/asm/asm-util/6.0/asm-util-6.0.pom
+Downloading https://repo1.maven.org/maven2/io/monix/monix-reactive_2.12/2.3.3/monix-reactive_2.12-2.3.3.pom
+Downloaded https://repo1.maven.org/maven2/org/zeroturnaround/zt-zip/1.13/zt-zip-1.13.pom
+Downloading https://repo1.maven.org/maven2/io/monix/monix-reactive_2.12/2.3.3/monix-reactive_2.12-2.3.3.pom.sha1
+Downloaded https://repo1.maven.org/maven2/org/zeroturnaround/zt-zip/1.13/zt-zip-1.13.pom.sha1
+Downloading https://repo1.maven.org/maven2/ch/epfl/scala/directory-watcher/0.8.0+6-f651bd93/directory-watcher-0.8.0+6-f651bd93.pom
+Downloaded https://repo1.maven.org/maven2/ch/epfl/scala/zinc_2.12/1.3.0-M4+22-4704d479/zinc_2.12-1.3.0-M4+22-4704d479.pom
+Downloading https://repo1.maven.org/maven2/ch/epfl/scala/directory-watcher/0.8.0+6-f651bd93/directory-watcher-0.8.0+6-f651bd93.pom.sha1
+Downloaded https://repo1.maven.org/maven2/org/ow2/asm/asm-util/6.0/asm-util-6.0.pom.sha1
+Downloading https://repo1.maven.org/maven2/net/jpountz/lz4/lz4/1.3.0/lz4-1.3.0.pom
+Downloaded https://repo1.maven.org/maven2/ch/epfl/scala/zinc_2.12/1.3.0-M4+22-4704d479/zinc_2.12-1.3.0-M4+22-4704d479.pom.sha1
+Downloading https://repo1.maven.org/maven2/net/jpountz/lz4/lz4/1.3.0/lz4-1.3.0.pom.sha1
+Downloaded https://repo1.maven.org/maven2/io/monix/monix-reactive_2.12/2.3.3/monix-reactive_2.12-2.3.3.pom
+Downloading https://repo1.maven.org/maven2/org/scala-sbt/test-agent/1.0.4/test-agent-1.0.4.pom
+Downloaded https://repo1.maven.org/maven2/io/monix/monix-reactive_2.12/2.3.3/monix-reactive_2.12-2.3.3.pom.sha1
+Downloading https://repo1.maven.org/maven2/org/scala-sbt/test-agent/1.0.4/test-agent-1.0.4.pom.sha1
+Downloaded https://repo1.maven.org/maven2/ch/epfl/scala/directory-watcher/0.8.0+6-f651bd93/directory-watcher-0.8.0+6-f651bd93.pom
+Downloaded https://repo1.maven.org/maven2/ch/epfl/scala/directory-watcher/0.8.0+6-f651bd93/directory-watcher-0.8.0+6-f651bd93.pom.sha1
+Downloading https://repo1.maven.org/maven2/io/get-coursier/coursier_2.12/1.1.0-M14-4/coursier_2.12-1.1.0-M14-4.pom
+Downloading https://repo1.maven.org/maven2/io/get-coursier/coursier_2.12/1.1.0-M14-4/coursier_2.12-1.1.0-M14-4.pom.sha1
+Downloaded https://repo1.maven.org/maven2/net/jpountz/lz4/lz4/1.3.0/lz4-1.3.0.pom
+Downloading https://repo1.maven.org/maven2/org/scalaz/scalaz-concurrent_2.12/7.2.20/scalaz-concurrent_2.12-7.2.20.pom.sha1
+Downloaded https://repo1.maven.org/maven2/net/jpountz/lz4/lz4/1.3.0/lz4-1.3.0.pom.sha1
+Downloading https://repo1.maven.org/maven2/org/scalaz/scalaz-concurrent_2.12/7.2.20/scalaz-concurrent_2.12-7.2.20.pom
+Downloaded https://repo1.maven.org/maven2/org/scala-sbt/test-agent/1.0.4/test-agent-1.0.4.pom
+Downloading https://repo1.maven.org/maven2/io/zipkin/reporter2/zipkin-sender-urlconnection/2.7.15/zipkin-sender-urlconnection-2.7.15.pom
+Downloaded https://repo1.maven.org/maven2/org/scala-sbt/test-agent/1.0.4/test-agent-1.0.4.pom.sha1
+Downloading https://repo1.maven.org/maven2/io/zipkin/reporter2/zipkin-sender-urlconnection/2.7.15/zipkin-sender-urlconnection-2.7.15.pom.sha1
+Downloaded https://repo1.maven.org/maven2/io/get-coursier/coursier_2.12/1.1.0-M14-4/coursier_2.12-1.1.0-M14-4.pom.sha1
+Downloaded https://repo1.maven.org/maven2/io/get-coursier/coursier_2.12/1.1.0-M14-4/coursier_2.12-1.1.0-M14-4.pom
+Downloaded https://repo1.maven.org/maven2/org/scalaz/scalaz-concurrent_2.12/7.2.20/scalaz-concurrent_2.12-7.2.20.pom.sha1
+Downloading https://repo1.maven.org/maven2/ch/epfl/scala/case-app-util_2.12/1.2.0-faster-compile-time/
+Downloading https://repo1.maven.org/maven2/io/monix/monix-execution_2.12/2.3.3/monix-execution_2.12-2.3.3.pom.sha1
+Downloading https://repo1.maven.org/maven2/io/monix/monix-execution_2.12/2.3.3/monix-execution_2.12-2.3.3.pom
+Downloaded https://repo1.maven.org/maven2/org/scalaz/scalaz-concurrent_2.12/7.2.20/scalaz-concurrent_2.12-7.2.20.pom
+Downloading https://repo1.maven.org/maven2/io/zipkin/brave/brave/5.6.1/
+Downloaded https://repo1.maven.org/maven2/io/zipkin/reporter2/zipkin-sender-urlconnection/2.7.15/zipkin-sender-urlconnection-2.7.15.pom
+Downloading https://repo1.maven.org/maven2/ch/epfl/scala/bsp4s_2.12/2.0.0-M4/
+Downloaded https://repo1.maven.org/maven2/io/zipkin/reporter2/zipkin-sender-urlconnection/2.7.15/zipkin-sender-urlconnection-2.7.15.pom.sha1
+Downloading https://repo1.maven.org/maven2/io/monix/monix-eval_2.12/2.3.3/
+Downloaded https://repo1.maven.org/maven2/io/monix/monix-execution_2.12/2.3.3/monix-execution_2.12-2.3.3.pom.sha1
+Downloading https://repo1.maven.org/maven2/io/circe/circe-parser_2.12/0.9.3/
+Downloaded https://repo1.maven.org/maven2/io/monix/monix-execution_2.12/2.3.3/monix-execution_2.12-2.3.3.pom
+Downloading https://repo1.maven.org/maven2/io/circe/circe-derivation_2.12/0.9.0-M3/
+Downloaded https://repo1.maven.org/maven2/ch/epfl/scala/case-app-util_2.12/1.2.0-faster-compile-time/
+Downloading https://repo1.maven.org/maven2/net/java/dev/jna/jna/4.5.1/
+Downloaded https://repo1.maven.org/maven2/io/zipkin/brave/brave/5.6.1/
+Downloading https://repo1.maven.org/maven2/io/monix/monix-types_2.12/2.3.3/
+Downloaded https://repo1.maven.org/maven2/ch/epfl/scala/bsp4s_2.12/2.0.0-M4/
+Downloading https://repo1.maven.org/maven2/io/github/soc/directories/10/
+Downloaded https://repo1.maven.org/maven2/io/monix/monix-eval_2.12/2.3.3/
+Downloading https://repo1.maven.org/maven2/org/ow2/asm/asm/6.0/
+Downloaded https://repo1.maven.org/maven2/net/java/dev/jna/jna/4.5.1/
+Downloading https://repo1.maven.org/maven2/ch/epfl/scala/case-app-annotations_2.12/1.2.0-faster-compile-time/
+Downloaded https://repo1.maven.org/maven2/io/circe/circe-parser_2.12/0.9.3/
+Downloading https://repo1.maven.org/maven2/com/lihaoyi/sourcecode_2.12/0.1.4/
+Downloaded https://repo1.maven.org/maven2/io/circe/circe-derivation_2.12/0.9.0-M3/
+Downloading https://repo1.maven.org/maven2/com/googlecode/java-diff-utils/diffutils/1.3.0/
+Downloaded https://repo1.maven.org/maven2/io/monix/monix-types_2.12/2.3.3/
+Downloading https://repo1.maven.org/maven2/net/java/dev/jna/jna-platform/4.5.0/
+Downloaded https://repo1.maven.org/maven2/io/github/soc/directories/10/
+Downloading https://repo1.maven.org/maven2/ch/epfl/scala/nailgun-server/ee3c4343/
+Downloaded https://repo1.maven.org/maven2/org/ow2/asm/asm/6.0/
+Downloading https://repo1.maven.org/maven2/com/lihaoyi/pprint_2.12/0.5.3/
+Downloaded https://repo1.maven.org/maven2/com/googlecode/java-diff-utils/diffutils/1.3.0/
+Downloading https://repo1.maven.org/maven2/org/scala-sbt/librarymanagement-ivy_2.12/1.0.0/
+Downloaded https://repo1.maven.org/maven2/ch/epfl/scala/case-app-annotations_2.12/1.2.0-faster-compile-time/
+Downloading https://repo1.maven.org/maven2/io/get-coursier/coursier-cache_2.12/1.1.0-M14-4/
+Downloaded https://repo1.maven.org/maven2/com/lihaoyi/sourcecode_2.12/0.1.4/
+Downloading https://repo1.maven.org/maven2/org/scala-sbt/test-interface/1.0/
+Downloaded https://repo1.maven.org/maven2/net/java/dev/jna/jna-platform/4.5.0/
+Downloading https://repo1.maven.org/maven2/org/ow2/asm/asm-util/6.0/
+Downloaded https://repo1.maven.org/maven2/ch/epfl/scala/nailgun-server/ee3c4343/
+Downloaded https://repo1.maven.org/maven2/com/lihaoyi/pprint_2.12/0.5.3/
+Downloading https://repo1.maven.org/maven2/io/monix/monix-reactive_2.12/2.3.3/
+Downloading https://repo1.maven.org/maven2/org/zeroturnaround/zt-zip/1.13/
+INFO  no build target: using presentation compiler with only scala-library
+Downloaded https://repo1.maven.org/maven2/org/scala-sbt/librarymanagement-ivy_2.12/1.0.0/
+Downloading https://repo1.maven.org/maven2/ch/epfl/scala/directory-watcher/0.8.0+6-f651bd93/
+Downloaded https://repo1.maven.org/maven2/org/scala-sbt/test-interface/1.0/
+Downloading https://repo1.maven.org/maven2/ch/epfl/scala/zinc_2.12/1.3.0-M4+22-4704d479/
+Downloaded https://repo1.maven.org/maven2/io/get-coursier/coursier-cache_2.12/1.1.0-M14-4/
+Downloading https://repo1.maven.org/maven2/org/scala-sbt/test-agent/1.0.4/
+Downloaded https://repo1.maven.org/maven2/org/ow2/asm/asm-util/6.0/
+Downloading https://repo1.maven.org/maven2/net/jpountz/lz4/lz4/1.3.0/
+Downloaded https://repo1.maven.org/maven2/org/zeroturnaround/zt-zip/1.13/
+Downloading https://repo1.maven.org/maven2/io/get-coursier/coursier_2.12/1.1.0-M14-4/
+Downloaded https://repo1.maven.org/maven2/io/monix/monix-reactive_2.12/2.3.3/
+Downloading https://repo1.maven.org/maven2/org/scalaz/scalaz-concurrent_2.12/7.2.20/
+Downloaded https://repo1.maven.org/maven2/ch/epfl/scala/directory-watcher/0.8.0+6-f651bd93/
+Downloading https://repo1.maven.org/maven2/io/zipkin/reporter2/zipkin-sender-urlconnection/2.7.15/
+Downloaded https://repo1.maven.org/maven2/ch/epfl/scala/zinc_2.12/1.3.0-M4+22-4704d479/
+Downloading https://repo1.maven.org/maven2/io/monix/monix-execution_2.12/2.3.3/
+Downloaded https://repo1.maven.org/maven2/org/scala-sbt/test-agent/1.0.4/
+Downloaded https://repo1.maven.org/maven2/net/jpountz/lz4/lz4/1.3.0/
+Downloaded https://repo1.maven.org/maven2/io/get-coursier/coursier_2.12/1.1.0-M14-4/
+Downloaded https://repo1.maven.org/maven2/org/scalaz/scalaz-concurrent_2.12/7.2.20/
+Downloaded https://repo1.maven.org/maven2/io/zipkin/reporter2/zipkin-sender-urlconnection/2.7.15/
+Downloaded https://repo1.maven.org/maven2/io/monix/monix-execution_2.12/2.3.3/
+Downloading https://repo1.maven.org/maven2/io/zipkin/reporter2/zipkin-reporter-parent/2.7.15/zipkin-reporter-parent-2.7.15.pom
+Downloading https://repo1.maven.org/maven2/io/zipkin/reporter2/zipkin-reporter-parent/2.7.15/zipkin-reporter-parent-2.7.15.pom.sha1
+Downloading https://repo1.maven.org/maven2/io/zipkin/brave/brave-parent/5.6.1/brave-parent-5.6.1.pom
+Downloading https://repo1.maven.org/maven2/io/zipkin/brave/brave-parent/5.6.1/brave-parent-5.6.1.pom.sha1
+Downloading https://repo1.maven.org/maven2/org/ow2/asm/asm-parent/6.0/asm-parent-6.0.pom
+Downloading https://repo1.maven.org/maven2/org/ow2/asm/asm-parent/6.0/asm-parent-6.0.pom.sha1
+Downloaded https://repo1.maven.org/maven2/org/ow2/asm/asm-parent/6.0/asm-parent-6.0.pom
+Downloaded https://repo1.maven.org/maven2/io/zipkin/brave/brave-parent/5.6.1/brave-parent-5.6.1.pom.sha1
+Downloaded https://repo1.maven.org/maven2/io/zipkin/reporter2/zipkin-reporter-parent/2.7.15/zipkin-reporter-parent-2.7.15.pom.sha1
+Downloaded https://repo1.maven.org/maven2/io/zipkin/brave/brave-parent/5.6.1/brave-parent-5.6.1.pom
+Downloading https://repo1.maven.org/maven2/io/zipkin/brave/brave-parent/5.6.1/
+Downloaded https://repo1.maven.org/maven2/io/zipkin/reporter2/zipkin-reporter-parent/2.7.15/zipkin-reporter-parent-2.7.15.pom
+Downloading https://repo1.maven.org/maven2/io/zipkin/reporter2/zipkin-reporter-parent/2.7.15/
+Downloaded https://repo1.maven.org/maven2/org/ow2/asm/asm-parent/6.0/asm-parent-6.0.pom.sha1
+Downloading https://repo1.maven.org/maven2/org/ow2/asm/asm-parent/6.0/
+Downloaded https://repo1.maven.org/maven2/io/zipkin/brave/brave-parent/5.6.1/
+Downloaded https://repo1.maven.org/maven2/io/zipkin/reporter2/zipkin-reporter-parent/2.7.15/
+Downloaded https://repo1.maven.org/maven2/org/ow2/asm/asm-parent/6.0/
+Downloading https://repo1.maven.org/maven2/org/ow2/ow2/1.3/ow2-1.3.pom.sha1
+Downloaded https://repo1.maven.org/maven2/org/ow2/ow2/1.3/ow2-1.3.pom.sha1
+Downloading https://repo1.maven.org/maven2/org/ow2/ow2/1.3/
+Downloaded https://repo1.maven.org/maven2/org/ow2/ow2/1.3/
+Downloading https://repo1.maven.org/maven2/com/google/protobuf/protobuf-java/3.7.0/protobuf-java-3.7.0.pom.sha1
+Downloading https://repo1.maven.org/maven2/ch/epfl/scala/zinc-compile-core_2.12/1.3.0-M4+22-4704d479/zinc-compile-core_2.12-1.3.0-M4+22-4704d479.pom
+Downloading https://repo1.maven.org/maven2/ch/epfl/scala/zinc-compile-core_2.12/1.3.0-M4+22-4704d479/zinc-compile-core_2.12-1.3.0-M4+22-4704d479.pom.sha1
+Downloading https://repo1.maven.org/maven2/org/ow2/asm/asm-tree/6.0/asm-tree-6.0.pom
+Downloading https://repo1.maven.org/maven2/org/ow2/asm/asm-tree/6.0/asm-tree-6.0.pom.sha1
+Downloading https://repo1.maven.org/maven2/org/jctools/jctools-core/2.0.1/jctools-core-2.0.1.pom
+Downloaded https://repo1.maven.org/maven2/com/google/protobuf/protobuf-java/3.7.0/protobuf-java-3.7.0.pom.sha1
+Downloading https://repo1.maven.org/maven2/org/jctools/jctools-core/2.0.1/jctools-core-2.0.1.pom.sha1
+Downloaded https://repo1.maven.org/maven2/org/ow2/asm/asm-tree/6.0/asm-tree-6.0.pom
+Downloading https://repo1.maven.org/maven2/com/eed3si9n/sjson-new-core_2.12/0.8.0/sjson-new-core_2.12-0.8.0.pom
+Downloaded https://repo1.maven.org/maven2/org/ow2/asm/asm-tree/6.0/asm-tree-6.0.pom.sha1
+Downloading https://repo1.maven.org/maven2/com/eed3si9n/sjson-new-core_2.12/0.8.0/sjson-new-core_2.12-0.8.0.pom.sha1
+Downloaded https://repo1.maven.org/maven2/ch/epfl/scala/zinc-compile-core_2.12/1.3.0-M4+22-4704d479/zinc-compile-core_2.12-1.3.0-M4+22-4704d479.pom.sha1
+Downloading https://repo1.maven.org/maven2/org/typelevel/macro-compat_2.12/1.1.1/macro-compat_2.12-1.1.1.pom
+Downloaded https://repo1.maven.org/maven2/ch/epfl/scala/zinc-compile-core_2.12/1.3.0-M4+22-4704d479/zinc-compile-core_2.12-1.3.0-M4+22-4704d479.pom
+Downloading https://repo1.maven.org/maven2/org/typelevel/macro-compat_2.12/1.1.1/macro-compat_2.12-1.1.1.pom.sha1
+Downloaded https://repo1.maven.org/maven2/com/eed3si9n/sjson-new-core_2.12/0.8.0/sjson-new-core_2.12-0.8.0.pom
+Downloaded https://repo1.maven.org/maven2/org/typelevel/macro-compat_2.12/1.1.1/macro-compat_2.12-1.1.1.pom.sha1
+Downloading https://repo1.maven.org/maven2/org/scala-sbt/ivy/ivy/2.3.0-sbt-a3314352b638afbf0dca19f127e8263ed6f898bd/ivy-2.3.0-sbt-a3314352b638afbf0dca19f127e8263ed6f898bd.pom
+Downloading https://repo1.maven.org/maven2/org/scala-sbt/ivy/ivy/2.3.0-sbt-a3314352b638afbf0dca19f127e8263ed6f898bd/ivy-2.3.0-sbt-a3314352b638afbf0dca19f127e8263ed6f898bd.pom.sha1
+Downloaded https://repo1.maven.org/maven2/org/jctools/jctools-core/2.0.1/jctools-core-2.0.1.pom.sha1
+Downloaded https://repo1.maven.org/maven2/org/typelevel/macro-compat_2.12/1.1.1/macro-compat_2.12-1.1.1.pom
+Downloading https://repo1.maven.org/maven2/io/get-coursier/coursier-core_2.12/1.1.0-M14-4/coursier-core_2.12-1.1.0-M14-4.pom
+Downloaded https://repo1.maven.org/maven2/com/eed3si9n/sjson-new-core_2.12/0.8.0/sjson-new-core_2.12-0.8.0.pom.sha1
+Downloading https://repo1.maven.org/maven2/io/get-coursier/coursier-core_2.12/1.1.0-M14-4/coursier-core_2.12-1.1.0-M14-4.pom.sha1
+Downloading https://repo1.maven.org/maven2/ch/epfl/scala/zinc-classfile_2.12/1.3.0-M4+22-4704d479/zinc-classfile_2.12-1.3.0-M4+22-4704d479.pom
+Downloaded https://repo1.maven.org/maven2/org/jctools/jctools-core/2.0.1/jctools-core-2.0.1.pom
+Downloading https://repo1.maven.org/maven2/ch/epfl/scala/zinc-classfile_2.12/1.3.0-M4+22-4704d479/zinc-classfile_2.12-1.3.0-M4+22-4704d479.pom.sha1
+Downloaded https://repo1.maven.org/maven2/org/scala-sbt/ivy/ivy/2.3.0-sbt-a3314352b638afbf0dca19f127e8263ed6f898bd/ivy-2.3.0-sbt-a3314352b638afbf0dca19f127e8263ed6f898bd.pom
+Downloading https://repo1.maven.org/maven2/org/scalameta/lsp4s_2.12/0.2.0/lsp4s_2.12-0.2.0.pom
+Downloaded https://repo1.maven.org/maven2/org/scala-sbt/ivy/ivy/2.3.0-sbt-a3314352b638afbf0dca19f127e8263ed6f898bd/ivy-2.3.0-sbt-a3314352b638afbf0dca19f127e8263ed6f898bd.pom.sha1
+Downloading https://repo1.maven.org/maven2/org/scalameta/lsp4s_2.12/0.2.0/lsp4s_2.12-0.2.0.pom.sha1
+Downloaded https://repo1.maven.org/maven2/io/get-coursier/coursier-core_2.12/1.1.0-M14-4/coursier-core_2.12-1.1.0-M14-4.pom
+Downloading https://repo1.maven.org/maven2/ch/epfl/scala/zinc-core_2.12/1.3.0-M4+22-4704d479/zinc-core_2.12-1.3.0-M4+22-4704d479.pom
+Downloaded https://repo1.maven.org/maven2/io/get-coursier/coursier-core_2.12/1.1.0-M14-4/coursier-core_2.12-1.1.0-M14-4.pom.sha1
+Downloading https://repo1.maven.org/maven2/com/chuusai/shapeless_2.12/2.3.2/shapeless_2.12-2.3.2.pom
+Downloaded https://repo1.maven.org/maven2/ch/epfl/scala/zinc-classfile_2.12/1.3.0-M4+22-4704d479/zinc-classfile_2.12-1.3.0-M4+22-4704d479.pom
+Downloading https://repo1.maven.org/maven2/com/chuusai/shapeless_2.12/2.3.2/shapeless_2.12-2.3.2.pom.sha1
+Downloaded https://repo1.maven.org/maven2/ch/epfl/scala/zinc-classfile_2.12/1.3.0-M4+22-4704d479/zinc-classfile_2.12-1.3.0-M4+22-4704d479.pom.sha1
+Downloading https://repo1.maven.org/maven2/ch/epfl/scala/zinc-core_2.12/1.3.0-M4+22-4704d479/zinc-core_2.12-1.3.0-M4+22-4704d479.pom.sha1
+Downloaded https://repo1.maven.org/maven2/org/scalameta/lsp4s_2.12/0.2.0/lsp4s_2.12-0.2.0.pom.sha1
+Downloaded https://repo1.maven.org/maven2/org/scalameta/lsp4s_2.12/0.2.0/lsp4s_2.12-0.2.0.pom
+Downloading https://repo1.maven.org/maven2/io/circe/circe-core_2.12/0.9.3/circe-core_2.12-0.9.3.pom.sha1
+Downloaded https://repo1.maven.org/maven2/ch/epfl/scala/zinc-core_2.12/1.3.0-M4+22-4704d479/zinc-core_2.12-1.3.0-M4+22-4704d479.pom
+Downloading https://repo1.maven.org/maven2/io/zipkin/reporter2/zipkin-reporter/2.7.15/zipkin-reporter-2.7.15.pom.sha1
+Downloaded https://repo1.maven.org/maven2/com/chuusai/shapeless_2.12/2.3.2/shapeless_2.12-2.3.2.pom
+Downloading https://repo1.maven.org/maven2/io/zipkin/reporter2/zipkin-reporter/2.7.15/zipkin-reporter-2.7.15.pom
+Downloading https://repo1.maven.org/maven2/io/zipkin/zipkin2/zipkin/2.12.1/zipkin-2.12.1.pom
+Downloaded https://repo1.maven.org/maven2/com/chuusai/shapeless_2.12/2.3.2/shapeless_2.12-2.3.2.pom.sha1
+Downloading https://repo1.maven.org/maven2/io/zipkin/zipkin2/zipkin/2.12.1/zipkin-2.12.1.pom.sha1
+Downloaded https://repo1.maven.org/maven2/ch/epfl/scala/zinc-core_2.12/1.3.0-M4+22-4704d479/zinc-core_2.12-1.3.0-M4+22-4704d479.pom.sha1
+Downloading https://repo1.maven.org/maven2/org/scala-sbt/librarymanagement-core_2.12/1.0.0/librarymanagement-core_2.12-1.0.0.pom
+Downloaded https://repo1.maven.org/maven2/io/zipkin/reporter2/zipkin-reporter/2.7.15/zipkin-reporter-2.7.15.pom.sha1
+Downloaded https://repo1.maven.org/maven2/io/zipkin/reporter2/zipkin-reporter/2.7.15/zipkin-reporter-2.7.15.pom
+Downloading https://repo1.maven.org/maven2/io/circe/circe-jawn_2.12/0.9.3/circe-jawn_2.12-0.9.3.pom.sha1
+Downloading https://repo1.maven.org/maven2/org/scala-sbt/librarymanagement-core_2.12/1.0.0/librarymanagement-core_2.12-1.0.0.pom.sha1
+Downloaded https://repo1.maven.org/maven2/io/circe/circe-core_2.12/0.9.3/circe-core_2.12-0.9.3.pom.sha1
+Downloading https://repo1.maven.org/maven2/net/java/dev/jna/jna/4.5.2/jna-4.5.2.pom
+Downloaded https://repo1.maven.org/maven2/io/zipkin/zipkin2/zipkin/2.12.1/zipkin-2.12.1.pom
+Downloading https://repo1.maven.org/maven2/net/java/dev/jna/jna/4.5.2/jna-4.5.2.pom.sha1
+Downloaded https://repo1.maven.org/maven2/io/zipkin/zipkin2/zipkin/2.12.1/zipkin-2.12.1.pom.sha1
+Downloading https://repo1.maven.org/maven2/org/slf4j/slf4j-api/1.7.26/slf4j-api-1.7.26.pom.sha1
+Downloaded https://repo1.maven.org/maven2/org/scala-sbt/librarymanagement-core_2.12/1.0.0/librarymanagement-core_2.12-1.0.0.pom
+Downloading https://repo1.maven.org/maven2/ch/epfl/scala/zinc-persist_2.12/1.3.0-M4+22-4704d479/zinc-persist_2.12-1.3.0-M4+22-4704d479.pom
+Downloaded https://repo1.maven.org/maven2/io/circe/circe-jawn_2.12/0.9.3/circe-jawn_2.12-0.9.3.pom.sha1
+Downloading https://repo1.maven.org/maven2/ch/epfl/scala/zinc-persist_2.12/1.3.0-M4+22-4704d479/zinc-persist_2.12-1.3.0-M4+22-4704d479.pom.sha1
+Downloaded https://repo1.maven.org/maven2/org/scala-sbt/librarymanagement-core_2.12/1.0.0/librarymanagement-core_2.12-1.0.0.pom.sha1
+Downloading https://repo1.maven.org/maven2/com/google/protobuf/protobuf-java/3.7.0/
+Downloaded https://repo1.maven.org/maven2/net/java/dev/jna/jna/4.5.2/jna-4.5.2.pom.sha1
+Downloading https://repo1.maven.org/maven2/org/ow2/asm/asm-tree/6.0/
+Downloaded https://repo1.maven.org/maven2/net/java/dev/jna/jna/4.5.2/jna-4.5.2.pom
+Downloading https://repo1.maven.org/maven2/com/lihaoyi/fansi_2.12/0.2.5/fansi_2.12-0.2.5.pom
+Downloaded https://repo1.maven.org/maven2/org/slf4j/slf4j-api/1.7.26/slf4j-api-1.7.26.pom.sha1
+Downloading https://repo1.maven.org/maven2/com/lihaoyi/fansi_2.12/0.2.5/fansi_2.12-0.2.5.pom.sha1
+Downloaded https://repo1.maven.org/maven2/ch/epfl/scala/zinc-persist_2.12/1.3.0-M4+22-4704d479/zinc-persist_2.12-1.3.0-M4+22-4704d479.pom
+Downloading https://repo1.maven.org/maven2/org/reactivestreams/reactive-streams/1.0.0/reactive-streams-1.0.0.pom
+Downloaded https://repo1.maven.org/maven2/ch/epfl/scala/zinc-persist_2.12/1.3.0-M4+22-4704d479/zinc-persist_2.12-1.3.0-M4+22-4704d479.pom.sha1
+Downloading https://repo1.maven.org/maven2/org/reactivestreams/reactive-streams/1.0.0/reactive-streams-1.0.0.pom.sha1
+Downloaded https://repo1.maven.org/maven2/com/google/protobuf/protobuf-java/3.7.0/
+Downloaded https://repo1.maven.org/maven2/org/ow2/asm/asm-tree/6.0/
+Downloading https://repo1.maven.org/maven2/com/github/alexarchambault/argonaut-shapeless_6.2_2.12/1.2.0-M11/argonaut-shapeless_6.2_2.12-1.2.0-M11.pom
+Downloading https://repo1.maven.org/maven2/com/github/alexarchambault/argonaut-shapeless_6.2_2.12/1.2.0-M11/argonaut-shapeless_6.2_2.12-1.2.0-M11.pom.sha1
+Downloaded https://repo1.maven.org/maven2/com/lihaoyi/fansi_2.12/0.2.5/fansi_2.12-0.2.5.pom
+Downloading https://repo1.maven.org/maven2/org/scalaz/scalaz-effect_2.12/7.2.20/scalaz-effect_2.12-7.2.20.pom
+Downloaded https://repo1.maven.org/maven2/com/lihaoyi/fansi_2.12/0.2.5/fansi_2.12-0.2.5.pom.sha1
+Downloading https://repo1.maven.org/maven2/org/scalaz/scalaz-effect_2.12/7.2.20/scalaz-effect_2.12-7.2.20.pom.sha1
+Downloaded https://repo1.maven.org/maven2/org/reactivestreams/reactive-streams/1.0.0/reactive-streams-1.0.0.pom
+Downloading https://repo1.maven.org/maven2/ch/epfl/scala/zinc-compile-core_2.12/1.3.0-M4+22-4704d479/
+Downloaded https://repo1.maven.org/maven2/org/reactivestreams/reactive-streams/1.0.0/reactive-streams-1.0.0.pom.sha1
+Downloading https://repo1.maven.org/maven2/io/circe/circe-derivation_2.12/0.9.0-M4/circe-derivation_2.12-0.9.0-M4.pom
+Downloaded https://repo1.maven.org/maven2/com/github/alexarchambault/argonaut-shapeless_6.2_2.12/1.2.0-M11/argonaut-shapeless_6.2_2.12-1.2.0-M11.pom.sha1
+Downloaded https://repo1.maven.org/maven2/com/github/alexarchambault/argonaut-shapeless_6.2_2.12/1.2.0-M11/argonaut-shapeless_6.2_2.12-1.2.0-M11.pom
+Downloading https://repo1.maven.org/maven2/io/circe/circe-derivation_2.12/0.9.0-M4/circe-derivation_2.12-0.9.0-M4.pom.sha1
+Downloading https://repo1.maven.org/maven2/com/eed3si9n/sjson-new-core_2.12/0.8.0/
+Downloaded https://repo1.maven.org/maven2/org/scalaz/scalaz-effect_2.12/7.2.20/scalaz-effect_2.12-7.2.20.pom
+Downloading https://repo1.maven.org/maven2/org/typelevel/macro-compat_2.12/1.1.1/
+Downloaded https://repo1.maven.org/maven2/org/scalaz/scalaz-effect_2.12/7.2.20/scalaz-effect_2.12-7.2.20.pom.sha1
+Downloading https://repo1.maven.org/maven2/org/jctools/jctools-core/2.0.1/
+Downloaded https://repo1.maven.org/maven2/ch/epfl/scala/zinc-compile-core_2.12/1.3.0-M4+22-4704d479/
+Downloading https://repo1.maven.org/maven2/org/scala-sbt/ivy/ivy/2.3.0-sbt-a3314352b638afbf0dca19f127e8263ed6f898bd/
+Downloaded https://repo1.maven.org/maven2/io/circe/circe-derivation_2.12/0.9.0-M4/circe-derivation_2.12-0.9.0-M4.pom
+Downloaded https://repo1.maven.org/maven2/io/circe/circe-derivation_2.12/0.9.0-M4/circe-derivation_2.12-0.9.0-M4.pom.sha1
+Downloading https://repo1.maven.org/maven2/io/get-coursier/coursier-core_2.12/1.1.0-M14-4/
+Downloading https://repo1.maven.org/maven2/ch/epfl/scala/zinc-classfile_2.12/1.3.0-M4+22-4704d479/
+Downloaded https://repo1.maven.org/maven2/org/jctools/jctools-core/2.0.1/
+Downloading https://repo1.maven.org/maven2/org/scalameta/lsp4s_2.12/0.2.0/
+Downloaded https://repo1.maven.org/maven2/org/scala-sbt/ivy/ivy/2.3.0-sbt-a3314352b638afbf0dca19f127e8263ed6f898bd/
+Downloading https://repo1.maven.org/maven2/com/chuusai/shapeless_2.12/2.3.2/
+Downloaded https://repo1.maven.org/maven2/io/get-coursier/coursier-core_2.12/1.1.0-M14-4/
+Downloading https://repo1.maven.org/maven2/ch/epfl/scala/zinc-core_2.12/1.3.0-M4+22-4704d479/
+Downloaded https://repo1.maven.org/maven2/ch/epfl/scala/zinc-classfile_2.12/1.3.0-M4+22-4704d479/
+Downloading https://repo1.maven.org/maven2/io/zipkin/reporter2/zipkin-reporter/2.7.15/
+Downloaded https://repo1.maven.org/maven2/org/scalameta/lsp4s_2.12/0.2.0/
+Downloading https://repo1.maven.org/maven2/io/circe/circe-core_2.12/0.9.3/
+Downloaded https://repo1.maven.org/maven2/com/chuusai/shapeless_2.12/2.3.2/
+Downloading https://repo1.maven.org/maven2/org/scala-sbt/librarymanagement-core_2.12/1.0.0/
+Downloaded https://repo1.maven.org/maven2/ch/epfl/scala/zinc-core_2.12/1.3.0-M4+22-4704d479/
+Downloading https://repo1.maven.org/maven2/io/zipkin/zipkin2/zipkin/2.12.1/
+Downloaded https://repo1.maven.org/maven2/io/zipkin/reporter2/zipkin-reporter/2.7.15/
+Downloading https://repo1.maven.org/maven2/io/circe/circe-jawn_2.12/0.9.3/
+Downloaded https://repo1.maven.org/maven2/io/circe/circe-core_2.12/0.9.3/
+Downloading https://repo1.maven.org/maven2/org/slf4j/slf4j-api/1.7.26/
+Downloaded https://repo1.maven.org/maven2/org/typelevel/macro-compat_2.12/1.1.1/
+Downloading https://repo1.maven.org/maven2/net/java/dev/jna/jna/4.5.2/
+Downloaded https://repo1.maven.org/maven2/com/eed3si9n/sjson-new-core_2.12/0.8.0/
+Downloading https://repo1.maven.org/maven2/ch/epfl/scala/zinc-persist_2.12/1.3.0-M4+22-4704d479/
+Downloaded https://repo1.maven.org/maven2/org/scala-sbt/librarymanagement-core_2.12/1.0.0/
+Downloading https://repo1.maven.org/maven2/com/lihaoyi/fansi_2.12/0.2.5/
+Downloaded https://repo1.maven.org/maven2/io/zipkin/zipkin2/zipkin/2.12.1/
+Downloading https://repo1.maven.org/maven2/org/reactivestreams/reactive-streams/1.0.0/
+Downloaded https://repo1.maven.org/maven2/io/circe/circe-jawn_2.12/0.9.3/
+Downloading https://repo1.maven.org/maven2/com/github/alexarchambault/argonaut-shapeless_6.2_2.12/1.2.0-M11/
+Downloaded https://repo1.maven.org/maven2/org/slf4j/slf4j-api/1.7.26/
+Downloading https://repo1.maven.org/maven2/org/scalaz/scalaz-effect_2.12/7.2.20/
+Downloaded https://repo1.maven.org/maven2/net/java/dev/jna/jna/4.5.2/
+Downloading https://repo1.maven.org/maven2/io/circe/circe-derivation_2.12/0.9.0-M4/
+Downloaded https://repo1.maven.org/maven2/ch/epfl/scala/zinc-persist_2.12/1.3.0-M4+22-4704d479/
+Downloaded https://repo1.maven.org/maven2/com/lihaoyi/fansi_2.12/0.2.5/
+Downloaded https://repo1.maven.org/maven2/org/reactivestreams/reactive-streams/1.0.0/
+Downloaded https://repo1.maven.org/maven2/org/scalaz/scalaz-effect_2.12/7.2.20/
+Downloaded https://repo1.maven.org/maven2/com/github/alexarchambault/argonaut-shapeless_6.2_2.12/1.2.0-M11/
+Downloaded https://repo1.maven.org/maven2/io/circe/circe-derivation_2.12/0.9.0-M4/
+Downloading https://repo1.maven.org/maven2/com/google/protobuf/protobuf-parent/3.7.0/protobuf-parent-3.7.0.pom.sha1
+Downloading https://repo1.maven.org/maven2/org/slf4j/slf4j-parent/1.7.26/slf4j-parent-1.7.26.pom.sha1
+Downloading https://repo1.maven.org/maven2/io/zipkin/zipkin2/parent/2.12.1/parent-2.12.1.pom.sha1
+Downloading https://repo1.maven.org/maven2/io/zipkin/zipkin2/parent/2.12.1/parent-2.12.1.pom
+Downloaded https://repo1.maven.org/maven2/io/zipkin/zipkin2/parent/2.12.1/parent-2.12.1.pom.sha1
+Downloaded https://repo1.maven.org/maven2/org/slf4j/slf4j-parent/1.7.26/slf4j-parent-1.7.26.pom.sha1
+Downloaded https://repo1.maven.org/maven2/com/google/protobuf/protobuf-parent/3.7.0/protobuf-parent-3.7.0.pom.sha1
+Downloading https://repo1.maven.org/maven2/org/slf4j/slf4j-parent/1.7.26/
+Downloading https://repo1.maven.org/maven2/com/google/protobuf/protobuf-parent/3.7.0/
+Downloaded https://repo1.maven.org/maven2/io/zipkin/zipkin2/parent/2.12.1/parent-2.12.1.pom
+Downloading https://repo1.maven.org/maven2/io/zipkin/zipkin2/parent/2.12.1/
+Downloaded https://repo1.maven.org/maven2/com/google/protobuf/protobuf-parent/3.7.0/
+Downloaded https://repo1.maven.org/maven2/org/slf4j/slf4j-parent/1.7.26/
+Downloaded https://repo1.maven.org/maven2/io/zipkin/zipkin2/parent/2.12.1/
+Downloading https://repo1.maven.org/maven2/com/google/protobuf/protobuf-bom/3.7.0/protobuf-bom-3.7.0.pom.sha1
+Downloaded https://repo1.maven.org/maven2/com/google/protobuf/protobuf-bom/3.7.0/protobuf-bom-3.7.0.pom.sha1
+Downloading https://repo1.maven.org/maven2/com/google/protobuf/protobuf-bom/3.7.0/
+Downloaded https://repo1.maven.org/maven2/com/google/protobuf/protobuf-bom/3.7.0/
+Downloading https://repo1.maven.org/maven2/org/scala-lang/modules/scala-xml_2.12/1.2.0/scala-xml_2.12-1.2.0.pom.sha1
+Downloading https://repo1.maven.org/maven2/org/scala-lang/scala-reflect/2.12.10/scala-reflect-2.12.10.pom.sha1
+Downloading https://repo1.maven.org/maven2/com/beachape/enumeratum-circe_2.12/1.5.17/enumeratum-circe_2.12-1.5.17.pom
+Downloading https://repo1.maven.org/maven2/com/beachape/enumeratum-circe_2.12/1.5.17/enumeratum-circe_2.12-1.5.17.pom.sha1
+Downloading https://repo1.maven.org/maven2/org/scala-lang/scala-compiler/2.12.10/scala-compiler-2.12.10.pom.sha1
+Downloading https://repo1.maven.org/maven2/com/eed3si9n/gigahorse-okhttp_2.12/0.3.0/gigahorse-okhttp_2.12-0.3.0.pom
+Downloaded https://repo1.maven.org/maven2/org/scala-lang/modules/scala-xml_2.12/1.2.0/scala-xml_2.12-1.2.0.pom.sha1
+Downloading https://repo1.maven.org/maven2/com/eed3si9n/gigahorse-okhttp_2.12/0.3.0/gigahorse-okhttp_2.12-0.3.0.pom.sha1
+Downloaded https://repo1.maven.org/maven2/com/beachape/enumeratum-circe_2.12/1.5.17/enumeratum-circe_2.12-1.5.17.pom.sha1
+Downloading https://repo1.maven.org/maven2/org/scala-sbt/util-logging_2.12/1.2.1/util-logging_2.12-1.2.1.pom.sha1
+Downloaded https://repo1.maven.org/maven2/com/beachape/enumeratum-circe_2.12/1.5.17/enumeratum-circe_2.12-1.5.17.pom
+Downloading https://repo1.maven.org/maven2/org/typelevel/cats-core_2.12/1.0.1/cats-core_2.12-1.0.1.pom.sha1
+Downloaded https://repo1.maven.org/maven2/org/scala-lang/scala-reflect/2.12.10/scala-reflect-2.12.10.pom.sha1
+Downloaded https://repo1.maven.org/maven2/org/scala-lang/scala-compiler/2.12.10/scala-compiler-2.12.10.pom.sha1
+Downloading https://repo1.maven.org/maven2/org/scala-sbt/util-logging_2.12/1.2.1/util-logging_2.12-1.2.1.pom
+Downloading https://repo1.maven.org/maven2/io/argonaut/argonaut_2.12/6.2.3/argonaut_2.12-6.2.3.pom.sha1
+Downloaded https://repo1.maven.org/maven2/com/eed3si9n/gigahorse-okhttp_2.12/0.3.0/gigahorse-okhttp_2.12-0.3.0.pom.sha1
+Downloading https://repo1.maven.org/maven2/io/argonaut/argonaut_2.12/6.2.3/argonaut_2.12-6.2.3.pom
+Downloaded https://repo1.maven.org/maven2/org/scala-sbt/util-logging_2.12/1.2.1/util-logging_2.12-1.2.1.pom.sha1
+Downloaded https://repo1.maven.org/maven2/org/typelevel/cats-core_2.12/1.0.1/cats-core_2.12-1.0.1.pom.sha1
+Downloading https://repo1.maven.org/maven2/ch/epfl/scala/zinc-apiinfo_2.12/1.3.0-M4+22-4704d479/zinc-apiinfo_2.12-1.3.0-M4+22-4704d479.pom
+Downloading https://repo1.maven.org/maven2/org/spire-math/jawn-parser_2.12/0.11.1/jawn-parser_2.12-0.11.1.pom.sha1
+Downloaded https://repo1.maven.org/maven2/io/argonaut/argonaut_2.12/6.2.3/argonaut_2.12-6.2.3.pom.sha1
+Downloading https://repo1.maven.org/maven2/ch/epfl/scala/zinc-apiinfo_2.12/1.3.0-M4+22-4704d479/zinc-apiinfo_2.12-1.3.0-M4+22-4704d479.pom.sha1
+Downloaded https://repo1.maven.org/maven2/org/scala-sbt/util-logging_2.12/1.2.1/util-logging_2.12-1.2.1.pom
+Downloading https://repo1.maven.org/maven2/org/scala-sbt/util-cache_2.12/1.0.0/util-cache_2.12-1.0.0.pom
+Downloaded https://repo1.maven.org/maven2/com/eed3si9n/gigahorse-okhttp_2.12/0.3.0/gigahorse-okhttp_2.12-0.3.0.pom
+Downloading https://repo1.maven.org/maven2/org/scala-sbt/util-cache_2.12/1.0.0/util-cache_2.12-1.0.0.pom.sha1
+Downloaded https://repo1.maven.org/maven2/io/argonaut/argonaut_2.12/6.2.3/argonaut_2.12-6.2.3.pom
+Downloading https://repo1.maven.org/maven2/com/chuusai/shapeless_2.12/2.3.3/shapeless_2.12-2.3.3.pom
+Downloaded https://repo1.maven.org/maven2/org/spire-math/jawn-parser_2.12/0.11.1/jawn-parser_2.12-0.11.1.pom.sha1
+Downloading https://repo1.maven.org/maven2/com/chuusai/shapeless_2.12/2.3.3/shapeless_2.12-2.3.3.pom.sha1
+Downloaded https://repo1.maven.org/maven2/ch/epfl/scala/zinc-apiinfo_2.12/1.3.0-M4+22-4704d479/zinc-apiinfo_2.12-1.3.0-M4+22-4704d479.pom
+Downloading https://repo1.maven.org/maven2/org/scala-sbt/util-control_2.12/1.2.1/util-control_2.12-1.2.1.pom
+Downloaded https://repo1.maven.org/maven2/org/scala-sbt/util-cache_2.12/1.0.0/util-cache_2.12-1.0.0.pom
+Downloading https://repo1.maven.org/maven2/org/scala-sbt/util-control_2.12/1.2.1/util-control_2.12-1.2.1.pom.sha1
+Downloaded https://repo1.maven.org/maven2/ch/epfl/scala/zinc-apiinfo_2.12/1.3.0-M4+22-4704d479/zinc-apiinfo_2.12-1.3.0-M4+22-4704d479.pom.sha1
+Downloading https://repo1.maven.org/maven2/org/scala-sbt/util-position_2.12/1.0.0/util-position_2.12-1.0.0.pom
+Downloaded https://repo1.maven.org/maven2/org/scala-sbt/util-cache_2.12/1.0.0/util-cache_2.12-1.0.0.pom.sha1
+Downloading https://repo1.maven.org/maven2/org/scala-sbt/util-position_2.12/1.0.0/util-position_2.12-1.0.0.pom.sha1
+Downloaded https://repo1.maven.org/maven2/com/chuusai/shapeless_2.12/2.3.3/shapeless_2.12-2.3.3.pom
+Downloading https://repo1.maven.org/maven2/com/squareup/okhttp3/okhttp-urlconnection/3.7.0/okhttp-urlconnection-3.7.0.pom.sha1
+Downloaded https://repo1.maven.org/maven2/org/scala-sbt/util-position_2.12/1.0.0/util-position_2.12-1.0.0.pom.sha1
+Downloaded https://repo1.maven.org/maven2/org/scala-sbt/util-control_2.12/1.2.1/util-control_2.12-1.2.1.pom.sha1
+Downloading https://repo1.maven.org/maven2/com/beachape/enumeratum_2.12/1.5.13/enumeratum_2.12-1.5.13.pom.sha1
+Downloading https://repo1.maven.org/maven2/com/beachape/enumeratum_2.12/1.5.13/enumeratum_2.12-1.5.13.pom
+Downloaded https://repo1.maven.org/maven2/com/chuusai/shapeless_2.12/2.3.3/shapeless_2.12-2.3.3.pom.sha1
+Downloading https://repo1.maven.org/maven2/org/scalameta/jsonrpc_2.12/0.2.0/jsonrpc_2.12-0.2.0.pom
+Downloaded https://repo1.maven.org/maven2/org/scala-sbt/util-control_2.12/1.2.1/util-control_2.12-1.2.1.pom
+Downloading https://repo1.maven.org/maven2/org/scalameta/jsonrpc_2.12/0.2.0/jsonrpc_2.12-0.2.0.pom.sha1
+Downloaded https://repo1.maven.org/maven2/org/scala-sbt/util-position_2.12/1.0.0/util-position_2.12-1.0.0.pom
+Downloading https://repo1.maven.org/maven2/ch/epfl/scala/zinc-classpath_2.12/1.3.0-M4+22-4704d479/zinc-classpath_2.12-1.3.0-M4+22-4704d479.pom.sha1
+Downloaded https://repo1.maven.org/maven2/com/squareup/okhttp3/okhttp-urlconnection/3.7.0/okhttp-urlconnection-3.7.0.pom.sha1
+Downloading https://repo1.maven.org/maven2/ch/epfl/scala/zinc-classpath_2.12/1.3.0-M4+22-4704d479/zinc-classpath_2.12-1.3.0-M4+22-4704d479.pom
+Downloaded https://repo1.maven.org/maven2/com/beachape/enumeratum_2.12/1.5.13/enumeratum_2.12-1.5.13.pom.sha1
+Downloading https://repo1.maven.org/maven2/org/scala-sbt/launcher-interface/1.0.0/launcher-interface-1.0.0.pom.sha1
+Downloaded https://repo1.maven.org/maven2/org/scalameta/jsonrpc_2.12/0.2.0/jsonrpc_2.12-0.2.0.pom
+Downloaded https://repo1.maven.org/maven2/com/beachape/enumeratum_2.12/1.5.13/enumeratum_2.12-1.5.13.pom
+Downloaded https://repo1.maven.org/maven2/org/scalameta/jsonrpc_2.12/0.2.0/jsonrpc_2.12-0.2.0.pom.sha1
+Downloading https://repo1.maven.org/maven2/org/scala-sbt/util-relation_2.12/1.2.1/util-relation_2.12-1.2.1.pom
+Downloading https://repo1.maven.org/maven2/io/circe/circe-numbers_2.12/0.9.3/circe-numbers_2.12-0.9.3.pom.sha1
+Downloading https://repo1.maven.org/maven2/org/scala-sbt/util-relation_2.12/1.2.1/util-relation_2.12-1.2.1.pom.sha1
+Downloaded https://repo1.maven.org/maven2/ch/epfl/scala/zinc-classpath_2.12/1.3.0-M4+22-4704d479/zinc-classpath_2.12-1.3.0-M4+22-4704d479.pom.sha1
+Downloading https://repo1.maven.org/maven2/org/scala-sbt/sbinary_2.12/0.4.4/sbinary_2.12-0.4.4.pom.sha1
+Downloaded https://repo1.maven.org/maven2/org/scala-sbt/util-relation_2.12/1.2.1/util-relation_2.12-1.2.1.pom
+Downloading https://repo1.maven.org/maven2/org/scala-lang/modules/scala-parser-combinators_2.12/1.0.5/scala-parser-combinators_2.12-1.0.5.pom
+Downloaded https://repo1.maven.org/maven2/org/scala-sbt/launcher-interface/1.0.0/launcher-interface-1.0.0.pom.sha1
+Downloaded https://repo1.maven.org/maven2/ch/epfl/scala/zinc-classpath_2.12/1.3.0-M4+22-4704d479/zinc-classpath_2.12-1.3.0-M4+22-4704d479.pom
+Downloading https://repo1.maven.org/maven2/org/scala-lang/scala-compiler/2.12.10/
+Downloading https://repo1.maven.org/maven2/org/scala-lang/scala-reflect/2.12.10/
+Downloaded https://repo1.maven.org/maven2/io/circe/circe-numbers_2.12/0.9.3/circe-numbers_2.12-0.9.3.pom.sha1
+Downloading https://repo1.maven.org/maven2/org/scala-lang/modules/scala-parser-combinators_2.12/1.0.5/scala-parser-combinators_2.12-1.0.5.pom.sha1
+Downloaded https://repo1.maven.org/maven2/org/scala-sbt/util-relation_2.12/1.2.1/util-relation_2.12-1.2.1.pom.sha1
+Downloading https://repo1.maven.org/maven2/com/jcraft/jsch/0.1.46/jsch-0.1.46.pom
+Downloaded https://repo1.maven.org/maven2/org/scala-sbt/sbinary_2.12/0.4.4/sbinary_2.12-0.4.4.pom.sha1
+Downloading https://repo1.maven.org/maven2/com/jcraft/jsch/0.1.46/jsch-0.1.46.pom.sha1
+Downloaded https://repo1.maven.org/maven2/org/scala-lang/modules/scala-parser-combinators_2.12/1.0.5/scala-parser-combinators_2.12-1.0.5.pom.sha1
+Downloading https://repo1.maven.org/maven2/com/thesamet/scalapb/scalapb-runtime_2.12/0.8.0-RC1/scalapb-runtime_2.12-0.8.0-RC1.pom.sha1
+Downloaded https://repo1.maven.org/maven2/org/scala-lang/modules/scala-parser-combinators_2.12/1.0.5/scala-parser-combinators_2.12-1.0.5.pom
+Downloading https://repo1.maven.org/maven2/com/thesamet/scalapb/scalapb-runtime_2.12/0.8.0-RC1/scalapb-runtime_2.12-0.8.0-RC1.pom
+Downloaded https://repo1.maven.org/maven2/com/jcraft/jsch/0.1.46/jsch-0.1.46.pom
+Downloading https://repo1.maven.org/maven2/org/scala-sbt/launcher-interface/1.0.0/launcher-interface-1.0.0.pom
+Downloaded https://repo1.maven.org/maven2/org/scala-lang/scala-compiler/2.12.10/
+Downloaded https://repo1.maven.org/maven2/org/scala-lang/scala-reflect/2.12.10/
+Downloading https://repo1.maven.org/maven2/org/scala-lang/modules/scala-xml_2.12/1.2.0/
+Downloading https://repo1.maven.org/maven2/org/scala-sbt/io_2.12/1.2.0/io_2.12-1.2.0.pom
+Downloaded https://repo1.maven.org/maven2/com/jcraft/jsch/0.1.46/jsch-0.1.46.pom.sha1
+Downloading https://repo1.maven.org/maven2/org/scala-sbt/io_2.12/1.2.0/io_2.12-1.2.0.pom.sha1
+Downloaded https://repo1.maven.org/maven2/com/thesamet/scalapb/scalapb-runtime_2.12/0.8.0-RC1/scalapb-runtime_2.12-0.8.0-RC1.pom.sha1
+Downloading https://repo1.maven.org/maven2/ch/epfl/scala/compiler-interface/1.3.0-M4+22-4704d479/compiler-interface-1.3.0-M4+22-4704d479.pom.sha1
+Downloaded https://repo1.maven.org/maven2/com/thesamet/scalapb/scalapb-runtime_2.12/0.8.0-RC1/scalapb-runtime_2.12-0.8.0-RC1.pom
+Downloading https://repo1.maven.org/maven2/ch/epfl/scala/compiler-interface/1.3.0-M4+22-4704d479/compiler-interface-1.3.0-M4+22-4704d479.pom
+Downloaded https://repo1.maven.org/maven2/org/scala-sbt/launcher-interface/1.0.0/launcher-interface-1.0.0.pom
+Downloading https://repo1.maven.org/maven2/com/beachape/enumeratum-circe_2.12/1.5.17/
+Downloaded https://repo1.maven.org/maven2/org/scala-lang/modules/scala-xml_2.12/1.2.0/
+Downloading https://repo1.maven.org/maven2/com/eed3si9n/gigahorse-okhttp_2.12/0.3.0/
+Downloaded https://repo1.maven.org/maven2/org/scala-sbt/io_2.12/1.2.0/io_2.12-1.2.0.pom
+Downloading https://repo1.maven.org/maven2/io/argonaut/argonaut_2.12/6.2.3/
+Downloaded https://repo1.maven.org/maven2/org/scala-sbt/io_2.12/1.2.0/io_2.12-1.2.0.pom.sha1
+Downloading https://repo1.maven.org/maven2/ch/epfl/scala/zinc-apiinfo_2.12/1.3.0-M4+22-4704d479/
+Downloaded https://repo1.maven.org/maven2/ch/epfl/scala/compiler-interface/1.3.0-M4+22-4704d479/compiler-interface-1.3.0-M4+22-4704d479.pom.sha1
+Downloading https://repo1.maven.org/maven2/org/spire-math/jawn-parser_2.12/0.11.1/
+Downloaded https://repo1.maven.org/maven2/com/eed3si9n/gigahorse-okhttp_2.12/0.3.0/
+Downloading https://repo1.maven.org/maven2/org/typelevel/cats-core_2.12/1.0.1/
+Downloaded https://repo1.maven.org/maven2/io/argonaut/argonaut_2.12/6.2.3/
+Downloading https://repo1.maven.org/maven2/org/scala-sbt/util-logging_2.12/1.2.1/
+Downloaded https://repo1.maven.org/maven2/com/beachape/enumeratum-circe_2.12/1.5.17/
+Downloaded https://repo1.maven.org/maven2/ch/epfl/scala/zinc-apiinfo_2.12/1.3.0-M4+22-4704d479/
+Downloaded https://repo1.maven.org/maven2/ch/epfl/scala/compiler-interface/1.3.0-M4+22-4704d479/compiler-interface-1.3.0-M4+22-4704d479.pom
+Downloading https://repo1.maven.org/maven2/org/scalameta/jsonrpc_2.12/0.2.0/
+Downloading https://repo1.maven.org/maven2/org/scala-sbt/util-position_2.12/1.0.0/
+Downloading https://repo1.maven.org/maven2/com/squareup/okhttp3/okhttp-urlconnection/3.7.0/
+Downloaded https://repo1.maven.org/maven2/org/spire-math/jawn-parser_2.12/0.11.1/
+Downloading https://repo1.maven.org/maven2/com/beachape/enumeratum_2.12/1.5.13/
+Downloaded https://repo1.maven.org/maven2/org/scalameta/jsonrpc_2.12/0.2.0/
+Downloading https://repo1.maven.org/maven2/org/scala-sbt/util-control_2.12/1.2.1/
+Downloaded https://repo1.maven.org/maven2/org/scala-sbt/util-logging_2.12/1.2.1/
+Downloading https://repo1.maven.org/maven2/com/chuusai/shapeless_2.12/2.3.3/
+Downloaded https://repo1.maven.org/maven2/org/typelevel/cats-core_2.12/1.0.1/
+Downloading https://repo1.maven.org/maven2/org/scala-sbt/util-cache_2.12/1.0.0/
+Downloaded https://repo1.maven.org/maven2/org/scala-sbt/util-position_2.12/1.0.0/
+Downloading https://repo1.maven.org/maven2/io/circe/circe-numbers_2.12/0.9.3/
+Downloaded https://repo1.maven.org/maven2/com/squareup/okhttp3/okhttp-urlconnection/3.7.0/
+Downloading https://repo1.maven.org/maven2/org/scala-sbt/sbinary_2.12/0.4.4/
+Downloaded https://repo1.maven.org/maven2/com/beachape/enumeratum_2.12/1.5.13/
+Downloading https://repo1.maven.org/maven2/ch/epfl/scala/zinc-classpath_2.12/1.3.0-M4+22-4704d479/
+Downloaded https://repo1.maven.org/maven2/org/scala-sbt/util-control_2.12/1.2.1/
+Downloading https://repo1.maven.org/maven2/org/scala-sbt/util-relation_2.12/1.2.1/
+Downloaded https://repo1.maven.org/maven2/com/chuusai/shapeless_2.12/2.3.3/
+Downloading https://repo1.maven.org/maven2/org/scala-lang/modules/scala-parser-combinators_2.12/1.0.5/
+Downloaded https://repo1.maven.org/maven2/io/circe/circe-numbers_2.12/0.9.3/
+Downloading https://repo1.maven.org/maven2/com/jcraft/jsch/0.1.46/
+Downloaded https://repo1.maven.org/maven2/org/scala-sbt/sbinary_2.12/0.4.4/
+Downloading https://repo1.maven.org/maven2/com/thesamet/scalapb/scalapb-runtime_2.12/0.8.0-RC1/
+Downloaded https://repo1.maven.org/maven2/org/scala-sbt/util-cache_2.12/1.0.0/
+Downloading https://repo1.maven.org/maven2/org/scala-sbt/launcher-interface/1.0.0/
+Downloaded https://repo1.maven.org/maven2/ch/epfl/scala/zinc-classpath_2.12/1.3.0-M4+22-4704d479/
+Downloading https://repo1.maven.org/maven2/org/scala-sbt/io_2.12/1.2.0/
+Downloaded https://repo1.maven.org/maven2/org/scala-sbt/util-relation_2.12/1.2.1/
+Downloading https://repo1.maven.org/maven2/ch/epfl/scala/compiler-interface/1.3.0-M4+22-4704d479/
+Downloaded https://repo1.maven.org/maven2/org/scala-lang/modules/scala-parser-combinators_2.12/1.0.5/
+Downloaded https://repo1.maven.org/maven2/com/jcraft/jsch/0.1.46/
+Downloaded https://repo1.maven.org/maven2/com/thesamet/scalapb/scalapb-runtime_2.12/0.8.0-RC1/
+Downloaded https://repo1.maven.org/maven2/org/scala-sbt/launcher-interface/1.0.0/
+Downloaded https://repo1.maven.org/maven2/ch/epfl/scala/compiler-interface/1.3.0-M4+22-4704d479/
+Downloaded https://repo1.maven.org/maven2/org/scala-sbt/io_2.12/1.2.0/
+Downloading https://repo1.maven.org/maven2/com/squareup/okhttp3/parent/3.7.0/parent-3.7.0.pom.sha1
+Downloading https://repo1.maven.org/maven2/org/sonatype/oss/oss-parent/6/oss-parent-6.pom.sha1
+Downloaded https://repo1.maven.org/maven2/com/squareup/okhttp3/parent/3.7.0/parent-3.7.0.pom.sha1
+Downloaded https://repo1.maven.org/maven2/org/sonatype/oss/oss-parent/6/oss-parent-6.pom.sha1
+Downloading https://repo1.maven.org/maven2/com/squareup/okhttp3/parent/3.7.0/
+Downloading https://repo1.maven.org/maven2/org/sonatype/oss/oss-parent/6/
+Downloaded https://repo1.maven.org/maven2/org/sonatype/oss/oss-parent/6/
+Downloaded https://repo1.maven.org/maven2/com/squareup/okhttp3/parent/3.7.0/
+Downloading https://repo1.maven.org/maven2/com/thesamet/scalapb/lenses_2.12/0.8.0-RC1/lenses_2.12-0.8.0-RC1.pom.sha1
+Downloading https://repo1.maven.org/maven2/com/thesamet/scalapb/lenses_2.12/0.8.0-RC1/lenses_2.12-0.8.0-RC1.pom
+Downloading https://repo1.maven.org/maven2/com/beachape/enumeratum-macros_2.12/1.5.9/enumeratum-macros_2.12-1.5.9.pom
+Downloading https://repo1.maven.org/maven2/com/beachape/enumeratum-macros_2.12/1.5.9/enumeratum-macros_2.12-1.5.9.pom.sha1
+Downloading https://repo1.maven.org/maven2/com/squareup/okhttp3/okhttp/3.7.0/okhttp-3.7.0.pom
+Downloading https://repo1.maven.org/maven2/com/squareup/okhttp3/okhttp/3.7.0/okhttp-3.7.0.pom.sha1
+Downloaded https://repo1.maven.org/maven2/com/thesamet/scalapb/lenses_2.12/0.8.0-RC1/lenses_2.12-0.8.0-RC1.pom
+Downloaded https://repo1.maven.org/maven2/com/thesamet/scalapb/lenses_2.12/0.8.0-RC1/lenses_2.12-0.8.0-RC1.pom.sha1
+Downloading https://repo1.maven.org/maven2/org/scala-sbt/util-interface/1.2.1/util-interface-1.2.1.pom
+Downloading https://repo1.maven.org/maven2/org/scala-sbt/util-interface/1.2.1/util-interface-1.2.1.pom.sha1
+Downloaded https://repo1.maven.org/maven2/com/squareup/okhttp3/okhttp/3.7.0/okhttp-3.7.0.pom
+Downloading https://repo1.maven.org/maven2/com/lihaoyi/fastparse_2.12/1.0.0/fastparse_2.12-1.0.0.pom
+Downloaded https://repo1.maven.org/maven2/com/beachape/enumeratum-macros_2.12/1.5.9/enumeratum-macros_2.12-1.5.9.pom
+Downloading https://repo1.maven.org/maven2/com/swoval/apple-file-events/1.3.2/apple-file-events-1.3.2.pom.sha1
+Downloaded https://repo1.maven.org/maven2/com/beachape/enumeratum-macros_2.12/1.5.9/enumeratum-macros_2.12-1.5.9.pom.sha1
+Downloading https://repo1.maven.org/maven2/com/swoval/apple-file-events/1.3.2/apple-file-events-1.3.2.pom
+Downloaded https://repo1.maven.org/maven2/org/scala-sbt/util-interface/1.2.1/util-interface-1.2.1.pom
+Downloading https://repo1.maven.org/maven2/com/lihaoyi/fastparse_2.12/1.0.0/fastparse_2.12-1.0.0.pom.sha1
+Downloaded https://repo1.maven.org/maven2/org/scala-sbt/util-interface/1.2.1/util-interface-1.2.1.pom.sha1
+Downloading https://repo1.maven.org/maven2/com/lmax/disruptor/3.3.6/disruptor-3.3.6.pom.sha1
+Downloaded https://repo1.maven.org/maven2/com/lihaoyi/fastparse_2.12/1.0.0/fastparse_2.12-1.0.0.pom
+Downloading https://repo1.maven.org/maven2/com/eed3si9n/gigahorse-core_2.12/0.3.0/gigahorse-core_2.12-0.3.0.pom.sha1
+Downloaded https://repo1.maven.org/maven2/com/swoval/apple-file-events/1.3.2/apple-file-events-1.3.2.pom
+Downloading https://repo1.maven.org/maven2/com/eed3si9n/gigahorse-core_2.12/0.3.0/gigahorse-core_2.12-0.3.0.pom
+Downloaded https://repo1.maven.org/maven2/com/swoval/apple-file-events/1.3.2/apple-file-events-1.3.2.pom.sha1
+Downloading https://repo1.maven.org/maven2/com/lmax/disruptor/3.3.6/disruptor-3.3.6.pom
+Downloaded https://repo1.maven.org/maven2/com/squareup/okhttp3/okhttp/3.7.0/okhttp-3.7.0.pom.sha1
+Downloading https://repo1.maven.org/maven2/com/thesamet/scalapb/lenses_2.12/0.8.0-RC1/
+Downloaded https://repo1.maven.org/maven2/com/lihaoyi/fastparse_2.12/1.0.0/fastparse_2.12-1.0.0.pom.sha1
+Downloading https://repo1.maven.org/maven2/org/scala-sbt/util-interface/1.2.1/
+Downloaded https://repo1.maven.org/maven2/com/lmax/disruptor/3.3.6/disruptor-3.3.6.pom.sha1
+Downloading https://repo1.maven.org/maven2/com/beachape/enumeratum-macros_2.12/1.5.9/
+Downloaded https://repo1.maven.org/maven2/com/eed3si9n/gigahorse-core_2.12/0.3.0/gigahorse-core_2.12-0.3.0.pom.sha1
+Downloading https://repo1.maven.org/maven2/com/eed3si9n/sjson-new-scalajson_2.12/0.8.2/sjson-new-scalajson_2.12-0.8.2.pom
+Downloaded https://repo1.maven.org/maven2/com/lmax/disruptor/3.3.6/disruptor-3.3.6.pom
+Downloading https://repo1.maven.org/maven2/com/eed3si9n/sjson-new-scalajson_2.12/0.8.2/sjson-new-scalajson_2.12-0.8.2.pom.sha1
+Downloaded https://repo1.maven.org/maven2/com/eed3si9n/gigahorse-core_2.12/0.3.0/gigahorse-core_2.12-0.3.0.pom
+Downloading https://repo1.maven.org/maven2/com/eed3si9n/sjson-new-murmurhash_2.12/0.8.0/sjson-new-murmurhash_2.12-0.8.0.pom
+Downloaded https://repo1.maven.org/maven2/com/thesamet/scalapb/lenses_2.12/0.8.0-RC1/
+Downloading https://repo1.maven.org/maven2/org/typelevel/machinist_2.12/0.6.2/machinist_2.12-0.6.2.pom.sha1
+Downloaded https://repo1.maven.org/maven2/org/scala-sbt/util-interface/1.2.1/
+Downloading https://repo1.maven.org/maven2/com/eed3si9n/sjson-new-murmurhash_2.12/0.8.0/sjson-new-murmurhash_2.12-0.8.0.pom.sha1
+Downloaded https://repo1.maven.org/maven2/com/eed3si9n/sjson-new-scalajson_2.12/0.8.2/sjson-new-scalajson_2.12-0.8.2.pom.sha1
+Downloading https://repo1.maven.org/maven2/org/typelevel/cats-kernel_2.12/1.0.1/cats-kernel_2.12-1.0.1.pom.sha1
+Downloaded https://repo1.maven.org/maven2/com/eed3si9n/sjson-new-scalajson_2.12/0.8.2/sjson-new-scalajson_2.12-0.8.2.pom
+Downloaded https://repo1.maven.org/maven2/com/eed3si9n/sjson-new-murmurhash_2.12/0.8.0/sjson-new-murmurhash_2.12-0.8.0.pom
+Downloaded https://repo1.maven.org/maven2/com/beachape/enumeratum-macros_2.12/1.5.9/
+Downloading https://repo1.maven.org/maven2/org/apache/logging/log4j/log4j-core/2.8.1/log4j-core-2.8.1.pom
+Downloading https://repo1.maven.org/maven2/org/typelevel/cats-macros_2.12/1.0.1/cats-macros_2.12-1.0.1.pom.sha1
+Downloading https://repo1.maven.org/maven2/org/apache/logging/log4j/log4j-core/2.8.1/log4j-core-2.8.1.pom.sha1
+Downloaded https://repo1.maven.org/maven2/org/typelevel/machinist_2.12/0.6.2/machinist_2.12-0.6.2.pom.sha1
+Downloading https://repo1.maven.org/maven2/org/apache/logging/log4j/log4j-api/2.8.1/log4j-api-2.8.1.pom.sha1
+Downloaded https://repo1.maven.org/maven2/com/eed3si9n/sjson-new-murmurhash_2.12/0.8.0/sjson-new-murmurhash_2.12-0.8.0.pom.sha1
+Downloading https://repo1.maven.org/maven2/com/eed3si9n/sjson-new-core_2.12/0.8.2/sjson-new-core_2.12-0.8.2.pom
+Downloaded https://repo1.maven.org/maven2/org/typelevel/cats-kernel_2.12/1.0.1/cats-kernel_2.12-1.0.1.pom.sha1
+Downloading https://repo1.maven.org/maven2/org/apache/logging/log4j/log4j-api/2.8.1/log4j-api-2.8.1.pom
+Downloaded https://repo1.maven.org/maven2/org/apache/logging/log4j/log4j-core/2.8.1/log4j-core-2.8.1.pom
+Downloading https://repo1.maven.org/maven2/com/eed3si9n/sjson-new-core_2.12/0.8.2/sjson-new-core_2.12-0.8.2.pom.sha1
+Downloaded https://repo1.maven.org/maven2/org/typelevel/cats-macros_2.12/1.0.1/cats-macros_2.12-1.0.1.pom.sha1
+Downloading https://repo1.maven.org/maven2/com/outr/scribe_2.12/2.5.0/scribe_2.12-2.5.0.pom
+Downloaded https://repo1.maven.org/maven2/org/apache/logging/log4j/log4j-api/2.8.1/log4j-api-2.8.1.pom.sha1
+Downloading https://repo1.maven.org/maven2/com/outr/scribe_2.12/2.5.0/scribe_2.12-2.5.0.pom.sha1
+Downloaded https://repo1.maven.org/maven2/com/eed3si9n/sjson-new-core_2.12/0.8.2/sjson-new-core_2.12-0.8.2.pom
+Downloading https://repo1.maven.org/maven2/jline/jline/2.14.4/jline-2.14.4.pom
+Downloaded https://repo1.maven.org/maven2/org/apache/logging/log4j/log4j-api/2.8.1/log4j-api-2.8.1.pom
+Downloading https://repo1.maven.org/maven2/jline/jline/2.14.4/jline-2.14.4.pom.sha1
+Downloaded https://repo1.maven.org/maven2/com/eed3si9n/sjson-new-core_2.12/0.8.2/sjson-new-core_2.12-0.8.2.pom.sha1
+Downloading https://repo1.maven.org/maven2/org/typelevel/cats-core_2.12/1.1.0/cats-core_2.12-1.1.0.pom
+Downloaded https://repo1.maven.org/maven2/com/outr/scribe_2.12/2.5.0/scribe_2.12-2.5.0.pom
+Downloading https://repo1.maven.org/maven2/org/typelevel/cats-core_2.12/1.1.0/cats-core_2.12-1.1.0.pom.sha1
+Downloaded https://repo1.maven.org/maven2/org/apache/logging/log4j/log4j-core/2.8.1/log4j-core-2.8.1.pom.sha1
+Downloading https://repo1.maven.org/maven2/ch/epfl/scala/compiler-bridge_2.12/1.3.0-M4+22-4704d479/compiler-bridge_2.12-1.3.0-M4+22-4704d479.pom
+Downloaded https://repo1.maven.org/maven2/com/outr/scribe_2.12/2.5.0/scribe_2.12-2.5.0.pom.sha1
+Downloading https://repo1.maven.org/maven2/ch/epfl/scala/compiler-bridge_2.12/1.3.0-M4+22-4704d479/compiler-bridge_2.12-1.3.0-M4+22-4704d479.pom.sha1
+Downloaded https://repo1.maven.org/maven2/jline/jline/2.14.4/jline-2.14.4.pom.sha1
+Downloading https://repo1.maven.org/maven2/com/swoval/apple-file-events/1.3.2/
+Downloaded https://repo1.maven.org/maven2/org/typelevel/cats-core_2.12/1.1.0/cats-core_2.12-1.1.0.pom.sha1
+Downloading https://repo1.maven.org/maven2/com/squareup/okhttp3/okhttp/3.7.0/
+Downloaded https://repo1.maven.org/maven2/org/typelevel/cats-core_2.12/1.1.0/cats-core_2.12-1.1.0.pom
+Downloading https://repo1.maven.org/maven2/com/lihaoyi/fastparse_2.12/1.0.0/
+Downloaded https://repo1.maven.org/maven2/ch/epfl/scala/compiler-bridge_2.12/1.3.0-M4+22-4704d479/compiler-bridge_2.12-1.3.0-M4+22-4704d479.pom
+Downloading https://repo1.maven.org/maven2/com/eed3si9n/gigahorse-core_2.12/0.3.0/
+Downloaded https://repo1.maven.org/maven2/ch/epfl/scala/compiler-bridge_2.12/1.3.0-M4+22-4704d479/compiler-bridge_2.12-1.3.0-M4+22-4704d479.pom.sha1
+Downloading https://repo1.maven.org/maven2/com/lmax/disruptor/3.3.6/
+Downloaded https://repo1.maven.org/maven2/jline/jline/2.14.4/jline-2.14.4.pom
+Downloading https://repo1.maven.org/maven2/com/eed3si9n/sjson-new-scalajson_2.12/0.8.2/
+Downloaded https://repo1.maven.org/maven2/com/swoval/apple-file-events/1.3.2/
+Downloading https://repo1.maven.org/maven2/org/typelevel/machinist_2.12/0.6.2/
+Downloaded https://repo1.maven.org/maven2/com/squareup/okhttp3/okhttp/3.7.0/
+Downloading https://repo1.maven.org/maven2/com/eed3si9n/sjson-new-murmurhash_2.12/0.8.0/
+Downloaded https://repo1.maven.org/maven2/com/lihaoyi/fastparse_2.12/1.0.0/
+Downloading https://repo1.maven.org/maven2/org/typelevel/cats-kernel_2.12/1.0.1/
+Downloaded https://repo1.maven.org/maven2/com/eed3si9n/gigahorse-core_2.12/0.3.0/
+Downloading https://repo1.maven.org/maven2/org/typelevel/cats-macros_2.12/1.0.1/
+Downloaded https://repo1.maven.org/maven2/com/lmax/disruptor/3.3.6/
+Downloading https://repo1.maven.org/maven2/org/apache/logging/log4j/log4j-api/2.8.1/
+Downloaded https://repo1.maven.org/maven2/com/eed3si9n/sjson-new-scalajson_2.12/0.8.2/
+Downloading https://repo1.maven.org/maven2/com/eed3si9n/sjson-new-core_2.12/0.8.2/
+Downloaded https://repo1.maven.org/maven2/org/typelevel/machinist_2.12/0.6.2/
+Downloading https://repo1.maven.org/maven2/org/apache/logging/log4j/log4j-core/2.8.1/
+Downloaded https://repo1.maven.org/maven2/com/eed3si9n/sjson-new-murmurhash_2.12/0.8.0/
+Downloading https://repo1.maven.org/maven2/org/typelevel/cats-core_2.12/1.1.0/
+Downloaded https://repo1.maven.org/maven2/org/typelevel/cats-kernel_2.12/1.0.1/
+Downloading https://repo1.maven.org/maven2/com/outr/scribe_2.12/2.5.0/
+Downloaded https://repo1.maven.org/maven2/org/typelevel/cats-macros_2.12/1.0.1/
+Downloading https://repo1.maven.org/maven2/ch/epfl/scala/compiler-bridge_2.12/1.3.0-M4+22-4704d479/
+Downloaded https://repo1.maven.org/maven2/com/eed3si9n/sjson-new-core_2.12/0.8.2/
+Downloading https://repo1.maven.org/maven2/jline/jline/2.14.4/
+Downloaded https://repo1.maven.org/maven2/org/apache/logging/log4j/log4j-core/2.8.1/
+Downloaded https://repo1.maven.org/maven2/org/typelevel/cats-core_2.12/1.1.0/
+Downloaded https://repo1.maven.org/maven2/com/outr/scribe_2.12/2.5.0/
+Downloaded https://repo1.maven.org/maven2/ch/epfl/scala/compiler-bridge_2.12/1.3.0-M4+22-4704d479/
+Downloaded https://repo1.maven.org/maven2/jline/jline/2.14.4/
+Downloaded https://repo1.maven.org/maven2/org/apache/logging/log4j/log4j-api/2.8.1/
+Downloading https://repo1.maven.org/maven2/org/apache/logging/log4j/log4j/2.8.1/log4j-2.8.1.pom.sha1
+Downloading https://repo1.maven.org/maven2/org/apache/logging/log4j/log4j/2.8.1/log4j-2.8.1.pom
+Downloading https://repo1.maven.org/maven2/org/sonatype/oss/oss-parent/9/oss-parent-9.pom.sha1
+Downloaded https://repo1.maven.org/maven2/org/apache/logging/log4j/log4j/2.8.1/log4j-2.8.1.pom.sha1
+Downloaded https://repo1.maven.org/maven2/org/sonatype/oss/oss-parent/9/oss-parent-9.pom.sha1
+Downloading https://repo1.maven.org/maven2/org/sonatype/oss/oss-parent/9/
+Downloaded https://repo1.maven.org/maven2/org/sonatype/oss/oss-parent/9/
+https://repo1.maven.org/maven2/org/apache/logging/log4j/log4j/… (59.16 %, 32245…
+
+Downloaded https://repo1.maven.org/maven2/org/apache/logging/log4j/log4j/2.8.1/log4j-2.8.1.pom
+Downloading https://repo1.maven.org/maven2/org/apache/logging/log4j/log4j/2.8.1/
+Downloaded https://repo1.maven.org/maven2/org/apache/logging/log4j/log4j/2.8.1/
+Downloading https://repo1.maven.org/maven2/org/apache/logging/logging-parent/1/logging-parent-1.pom.sha1
+Downloading https://repo1.maven.org/maven2/org/apache/logging/logging-parent/1/logging-parent-1.pom
+Downloaded https://repo1.maven.org/maven2/org/apache/logging/logging-parent/1/logging-parent-1.pom
+Downloaded https://repo1.maven.org/maven2/org/apache/logging/logging-parent/1/logging-parent-1.pom.sha1
+Downloading https://repo1.maven.org/maven2/org/apache/logging/logging-parent/1/
+Downloaded https://repo1.maven.org/maven2/org/apache/logging/logging-parent/1/
+Downloading https://repo1.maven.org/maven2/org/apache/apache/18/apache-18.pom.sha1
+Downloaded https://repo1.maven.org/maven2/org/apache/apache/18/apache-18.pom.sha1
+Downloading https://repo1.maven.org/maven2/org/apache/apache/18/
+Downloaded https://repo1.maven.org/maven2/org/apache/apache/18/
+Downloading https://repo1.maven.org/maven2/com/outr/scribe-macros_2.12/2.5.0/scribe-macros_2.12-2.5.0.pom
+Downloading https://repo1.maven.org/maven2/com/outr/scribe-macros_2.12/2.5.0/scribe-macros_2.12-2.5.0.pom.sha1
+Downloading https://repo1.maven.org/maven2/com/eed3si9n/shaded-scalajson_2.12/1.0.0-M4/shaded-scalajson_2.12-1.0.0-M4.pom.sha1
+Downloading https://repo1.maven.org/maven2/com/squareup/okio/okio/1.12.0/okio-1.12.0.pom
+Downloading https://repo1.maven.org/maven2/com/squareup/okio/okio/1.12.0/okio-1.12.0.pom.sha1
+Downloading https://repo1.maven.org/maven2/org/typelevel/cats-macros_2.12/1.1.0/cats-macros_2.12-1.1.0.pom
+Downloaded https://repo1.maven.org/maven2/com/eed3si9n/shaded-scalajson_2.12/1.0.0-M4/shaded-scalajson_2.12-1.0.0-M4.pom.sha1
+Downloading https://repo1.maven.org/maven2/org/typelevel/cats-macros_2.12/1.1.0/cats-macros_2.12-1.1.0.pom.sha1
+Downloaded https://repo1.maven.org/maven2/com/outr/scribe-macros_2.12/2.5.0/scribe-macros_2.12-2.5.0.pom
+Downloading https://repo1.maven.org/maven2/com/lihaoyi/fastparse-utils_2.12/1.0.0/fastparse-utils_2.12-1.0.0.pom
+Downloaded https://repo1.maven.org/maven2/com/outr/scribe-macros_2.12/2.5.0/scribe-macros_2.12-2.5.0.pom.sha1
+Downloading https://repo1.maven.org/maven2/com/lihaoyi/fastparse-utils_2.12/1.0.0/fastparse-utils_2.12-1.0.0.pom.sha1
+Downloaded https://repo1.maven.org/maven2/com/squareup/okio/okio/1.12.0/okio-1.12.0.pom
+Downloading https://repo1.maven.org/maven2/com/typesafe/ssl-config-core_2.12/0.2.2/ssl-config-core_2.12-0.2.2.pom
+Downloaded https://repo1.maven.org/maven2/com/squareup/okio/okio/1.12.0/okio-1.12.0.pom.sha1
+Downloading https://repo1.maven.org/maven2/com/typesafe/ssl-config-core_2.12/0.2.2/ssl-config-core_2.12-0.2.2.pom.sha1
+Downloaded https://repo1.maven.org/maven2/org/typelevel/cats-macros_2.12/1.1.0/cats-macros_2.12-1.1.0.pom.sha1
+Downloading https://repo1.maven.org/maven2/org/typelevel/cats-kernel_2.12/1.1.0/cats-kernel_2.12-1.1.0.pom
+Downloaded https://repo1.maven.org/maven2/com/lihaoyi/fastparse-utils_2.12/1.0.0/fastparse-utils_2.12-1.0.0.pom.sha1
+Downloading https://repo1.maven.org/maven2/org/typelevel/cats-kernel_2.12/1.1.0/cats-kernel_2.12-1.1.0.pom.sha1
+Downloaded https://repo1.maven.org/maven2/com/lihaoyi/fastparse-utils_2.12/1.0.0/fastparse-utils_2.12-1.0.0.pom
+Downloading https://repo1.maven.org/maven2/com/outr/perfolation_2.12/1.0.2/perfolation_2.12-1.0.2.pom
+Downloaded https://repo1.maven.org/maven2/com/typesafe/ssl-config-core_2.12/0.2.2/ssl-config-core_2.12-0.2.2.pom
+Downloading https://repo1.maven.org/maven2/com/outr/perfolation_2.12/1.0.2/perfolation_2.12-1.0.2.pom.sha1
+Downloaded https://repo1.maven.org/maven2/com/typesafe/ssl-config-core_2.12/0.2.2/ssl-config-core_2.12-0.2.2.pom.sha1
+Downloading https://repo1.maven.org/maven2/com/eed3si9n/shaded-scalajson_2.12/1.0.0-M4/
+Downloaded https://repo1.maven.org/maven2/org/typelevel/cats-macros_2.12/1.1.0/cats-macros_2.12-1.1.0.pom
+Downloading https://repo1.maven.org/maven2/com/squareup/okio/okio/1.12.0/
+Downloaded https://repo1.maven.org/maven2/org/typelevel/cats-kernel_2.12/1.1.0/cats-kernel_2.12-1.1.0.pom
+Downloading https://repo1.maven.org/maven2/com/outr/scribe-macros_2.12/2.5.0/
+Downloaded https://repo1.maven.org/maven2/com/outr/perfolation_2.12/1.0.2/perfolation_2.12-1.0.2.pom.sha1
+Downloading https://repo1.maven.org/maven2/com/lihaoyi/fastparse-utils_2.12/1.0.0/
+Downloaded https://repo1.maven.org/maven2/com/outr/perfolation_2.12/1.0.2/perfolation_2.12-1.0.2.pom
+Downloading https://repo1.maven.org/maven2/com/typesafe/ssl-config-core_2.12/0.2.2/
+Downloaded https://repo1.maven.org/maven2/com/eed3si9n/shaded-scalajson_2.12/1.0.0-M4/
+Downloaded https://repo1.maven.org/maven2/org/typelevel/cats-kernel_2.12/1.1.0/cats-kernel_2.12-1.1.0.pom.sha1
+Downloading https://repo1.maven.org/maven2/org/typelevel/cats-macros_2.12/1.1.0/
+Downloading https://repo1.maven.org/maven2/com/outr/perfolation_2.12/1.0.2/
+Downloaded https://repo1.maven.org/maven2/com/squareup/okio/okio/1.12.0/
+Downloading https://repo1.maven.org/maven2/org/typelevel/cats-kernel_2.12/1.1.0/
+Downloaded https://repo1.maven.org/maven2/com/outr/scribe-macros_2.12/2.5.0/
+Downloaded https://repo1.maven.org/maven2/com/lihaoyi/fastparse-utils_2.12/1.0.0/
+Downloaded https://repo1.maven.org/maven2/com/typesafe/ssl-config-core_2.12/0.2.2/
+Downloaded https://repo1.maven.org/maven2/com/outr/perfolation_2.12/1.0.2/
+Downloaded https://repo1.maven.org/maven2/org/typelevel/cats-macros_2.12/1.1.0/
+Downloaded https://repo1.maven.org/maven2/org/typelevel/cats-kernel_2.12/1.1.0/
+Downloading https://repo1.maven.org/maven2/com/squareup/okio/okio-parent/1.12.0/okio-parent-1.12.0.pom
+Downloading https://repo1.maven.org/maven2/com/squareup/okio/okio-parent/1.12.0/okio-parent-1.12.0.pom.sha1
+Downloaded https://repo1.maven.org/maven2/com/squareup/okio/okio-parent/1.12.0/okio-parent-1.12.0.pom.sha1
+Downloaded https://repo1.maven.org/maven2/com/squareup/okio/okio-parent/1.12.0/okio-parent-1.12.0.pom
+Downloading https://repo1.maven.org/maven2/com/squareup/okio/okio-parent/1.12.0/
+Downloaded https://repo1.maven.org/maven2/com/squareup/okio/okio-parent/1.12.0/
+Downloading https://repo1.maven.org/maven2/com/outr/perfolation-macros_2.12/1.0.2/perfolation-macros_2.12-1.0.2.pom
+Downloading https://repo1.maven.org/maven2/com/outr/perfolation-macros_2.12/1.0.2/perfolation-macros_2.12-1.0.2.pom.sha1
+Downloading https://repo1.maven.org/maven2/com/typesafe/config/1.2.0/config-1.2.0.pom
+Downloading https://repo1.maven.org/maven2/com/typesafe/config/1.2.0/config-1.2.0.pom.sha1
+Downloaded https://repo1.maven.org/maven2/com/outr/perfolation-macros_2.12/1.0.2/perfolation-macros_2.12-1.0.2.pom.sha1
+Downloaded https://repo1.maven.org/maven2/com/typesafe/config/1.2.0/config-1.2.0.pom
+Downloaded https://repo1.maven.org/maven2/com/outr/perfolation-macros_2.12/1.0.2/perfolation-macros_2.12-1.0.2.pom
+Downloaded https://repo1.maven.org/maven2/com/typesafe/config/1.2.0/config-1.2.0.pom.sha1
+Downloading https://repo1.maven.org/maven2/com/outr/perfolation-macros_2.12/1.0.2/
+Downloading https://repo1.maven.org/maven2/com/typesafe/config/1.2.0/
+Downloaded https://repo1.maven.org/maven2/com/outr/perfolation-macros_2.12/1.0.2/
+Downloaded https://repo1.maven.org/maven2/com/typesafe/config/1.2.0/
+WARN  no build target: /home/vishnu/Downloads/play-sample/app/controllers/dataController.scala
+The server is listening for incoming connections at local:///tmp/bsp5623097130371554910/-lfc338a39oc8.socket...
+Accepted incoming BSP client connection at local:///tmp/bsp5623097130371554910/-lfc338a39oc8.socket
+INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /home/vishnu/snap/code/common/.cache/metals/bsp.trace.json
+request received: build/initialize
+INFO  time: connected to build server in 1m10s
+BSP initialization handshake complete.
+INFO  time: imported build in 0.32s
+WARN  Could not find java sources in None. Java symbols will not be available.
+INFO  time: indexed workspace in 4.29s
+Downloading https://repo1.maven.org/maven2/org/scalameta/mtags_2.13.0/0.7.6/mtags_2.13.0-0.7.6.pom
+Downloading https://repo1.maven.org/maven2/org/scalameta/mtags_2.13.0/0.7.6/mtags_2.13.0-0.7.6.pom.sha1
+Downloaded https://repo1.maven.org/maven2/org/scalameta/mtags_2.13.0/0.7.6/mtags_2.13.0-0.7.6.pom.sha1
+Downloaded https://repo1.maven.org/maven2/org/scalameta/mtags_2.13.0/0.7.6/mtags_2.13.0-0.7.6.pom
+Downloading https://repo1.maven.org/maven2/org/scalameta/mtags_2.13.0/0.7.6/
+INFO  compiling root (15 scala sources and 1 java source)
+Downloaded https://repo1.maven.org/maven2/org/scalameta/mtags_2.13.0/0.7.6/
+INFO  compiling root (15 scala sources and 1 java source)
+INFO  Non-compiled module 'compiler-bridge_2.13' for Scala 2.13.0. Compiling...
+INFO    Compilation completed in 13.37s.
+ERROR IO error while decoding /home/vishnu/Downloads/play-sample/app/controllers/dataController.scala with UTF-8: /home/vishnu/Downloads/play-sample/app/controllers/dataController.scala (No such file or directory)
+Please try specifying another one using the -encoding option
+INFO  time: compiled root in 14s
+ERROR Failed to compile 'root'
+INFO  compiling root (15 scala sources and 1 java source)
+INFO  time: compiled root in 0.16s
+ERROR Failed to compile 'root'
+ERROR Failed to compile 'root','root-test'
+Dec 03, 2019 6:22:48 PM scala.meta.internal.pc.CompletionProvider scala$meta$internal$pc$CompletionProvider$$loadSymbolFromClassfile
+WARNING: no such symbol: Classfile(org/apache/http/,Consts.class)
+Dec 03, 2019 6:22:48 PM scala.meta.internal.pc.CompletionProvider scala$meta$internal$pc$CompletionProvider$$loadSymbolFromClassfile
+WARNING: no such symbol: Classfile(play/shaded/ahc/org/asynchttpclient/config/,AsyncHttpClientConfigHelper$Config.class)
+Dec 03, 2019 6:22:50 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 224
+Dec 03, 2019 6:23:20 PM scala.meta.internal.pc.CompletionProvider scala$meta$internal$pc$CompletionProvider$$loadSymbolFromClassfile
+WARNING: no such symbol: Classfile(org/junit/,Assert.class)
+Dec 03, 2019 6:23:20 PM scala.meta.internal.pc.CompletionProvider scala$meta$internal$pc$CompletionProvider$$loadSymbolFromClassfile
+WARNING: no such symbol: Classfile(org/junit/,Assume.class)
+Dec 03, 2019 6:23:20 PM scala.meta.internal.pc.CompletionProvider scala$meta$internal$pc$CompletionProvider$$loadSymbolFromClassfile
+WARNING: no such symbol: Classfile(org/apache/http/util/,Asserts.class)
+Dec 03, 2019 6:23:20 PM scala.meta.internal.pc.CompletionProvider scala$meta$internal$pc$CompletionProvider$$loadSymbolFromClassfile
+WARNING: no such symbol: Classfile(net/bytebuddy/implementation/bytecode/assign/,Assigner.class)
+Dec 03, 2019 6:23:20 PM scala.meta.internal.pc.CompletionProvider scala$meta$internal$pc$CompletionProvider$$loadSymbolFromClassfile
+WARNING: no such symbol: Classfile(org/scalatest/compatible/,Assertion.class)
+Dec 03, 2019 6:23:20 PM scala.meta.internal.pc.CompletionProvider scala$meta$internal$pc$CompletionProvider$$loadSymbolFromClassfile
+WARNING: no such symbol: Classfile(play/shaded/ahc/org/asynchttpclient/util/,Assertions.class)
+Dec 03, 2019 6:23:20 PM scala.meta.internal.pc.CompletionProvider scala$meta$internal$pc$CompletionProvider$$loadSymbolFromClassfile
+WARNING: no such symbol: Classfile(net/sourceforge/htmlunit/corejs/javascript/ast/,Assignment.class)
+Dec 03, 2019 6:23:20 PM scala.meta.internal.pc.CompletionProvider scala$meta$internal$pc$CompletionProvider$$loadSymbolFromClassfile
+WARNING: no such symbol: Classfile(org/junit/experimental/theories/internal/,Assignments.class)
+Dec 03, 2019 6:23:20 PM scala.meta.internal.pc.CompletionProvider scala$meta$internal$pc$CompletionProvider$$loadSymbolFromClassfile
+WARNING: no such symbol: Classfile(org/hamcrest/,MatcherAssert.class)
+Dec 03, 2019 6:23:20 PM scala.meta.internal.pc.CompletionProvider scala$meta$internal$pc$CompletionProvider$$loadSymbolFromClassfile
+WARNING: no such symbol: Classfile(org/scalatestplus/scalacheck/,CheckerAsserting.class)
+Dec 03, 2019 6:23:20 PM scala.meta.internal.pc.CompletionProvider scala$meta$internal$pc$CompletionProvider$$loadSymbolFromClassfile
+WARNING: no such symbol: Classfile(org/scalatestplus/scalacheck/,CheckerAsserting$.class)
+Dec 03, 2019 6:23:20 PM scala.meta.internal.pc.CompletionProvider scala$meta$internal$pc$CompletionProvider$$loadSymbolFromClassfile
+WARNING: no such symbol: Classfile(org/scalatest/junit/,AssertionsForJUnit.class)
+Dec 03, 2019 6:23:20 PM scala.meta.internal.pc.CompletionProvider scala$meta$internal$pc$CompletionProvider$$loadSymbolFromClassfile
+WARNING: no such symbol: Classfile(org/scalatestplus/junit/,AssertionsForJUnit.class)
+Dec 03, 2019 6:23:20 PM scala.meta.internal.pc.CompletionProvider scala$meta$internal$pc$CompletionProvider$$loadSymbolFromClassfile
+WARNING: no such symbol: Classfile(org/scalatestplus/junit/,AssertionsForJUnit$.class)
+Dec 03, 2019 6:23:20 PM scala.meta.internal.pc.CompletionProvider scala$meta$internal$pc$CompletionProvider$$loadSymbolFromClassfile
+WARNING: no such symbol: Classfile(org/scalatest/junit/,AssertionsForJUnit$.class)
+INFO  compiling root (15 scala sources and 1 java source)
+INFO  time: compiled root in 1.56s
+ERROR Failed to compile 'root'
+INFO  compiling root (15 scala sources and 1 java source)
+INFO  time: compiled root in 1.13s
+ERROR Failed to compile 'root'
+Dec 03, 2019 6:24:36 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: null
+java.lang.NullPointerException
+	at scala.meta.internal.pc.HoverProvider.hover(HoverProvider.scala:37)
+
+Dec 03, 2019 6:24:37 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: null
+java.lang.NullPointerException
+	at scala.meta.internal.pc.HoverProvider.hover(HoverProvider.scala:37)
+
+Dec 03, 2019 6:24:38 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: null
+java.lang.NullPointerException
+	at scala.meta.internal.pc.HoverProvider.hover(HoverProvider.scala:37)
+
+Dec 03, 2019 6:24:51 PM scala.meta.internal.pc.CompletionProvider scala$meta$internal$pc$CompletionProvider$$loadSymbolFromClassfile
+WARNING: no such symbol: Classfile(okio/,Sink.class)
+Dec 03, 2019 6:24:51 PM scala.meta.internal.pc.CompletionProvider scala$meta$internal$pc$CompletionProvider$$loadSymbolFromClassfile
+WARNING: no such symbol: Classfile(okio/,GzipSink.class)
+INFO  compiling root (15 scala sources and 1 java source)
+INFO  time: compiled root in 0.89s
+ERROR Failed to compile 'root'
+INFO  compiling root (15 scala sources and 1 java source)
+INFO  time: compiled root in 1.07s
+ERROR Failed to compile 'root'
+INFO  compiling root (15 scala sources and 1 java source)
+INFO  time: compiled root in 0.29s
+ERROR Failed to compile 'root'
+INFO  compiling root (15 scala sources and 1 java source)
+INFO  time: compiled root in 1.14s
+ERROR Failed to compile 'root'
+Dec 03, 2019 6:24:58 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: null
+java.lang.NullPointerException
+	at scala.meta.internal.pc.HoverProvider.hover(HoverProvider.scala:37)
+
+Dec 03, 2019 6:25:00 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: null
+java.lang.NullPointerException
+	at scala.meta.internal.pc.HoverProvider.hover(HoverProvider.scala:37)
+
+Dec 03, 2019 6:25:04 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: null
+java.lang.NullPointerException
+	at scala.meta.internal.pc.HoverProvider.hover(HoverProvider.scala:37)
+
+Dec 03, 2019 6:25:05 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: null
+java.lang.NullPointerException
+	at scala.meta.internal.pc.HoverProvider.hover(HoverProvider.scala:37)
+
+ERROR code navigation does not work for the file '/home/vishnu/Downloads/play-sample/app/controllers/DataController.scala' because the SemanticDB file '/home/vishnu/Downloads/play-sample/.bloop/root/scala-2.13/bloop-bsp-clients-classes/classes-Metals-a3C2M01lRymJ_ensVLL4yw==/META-INF/semanticdb/app/controllers/DataController.scala.semanticdb' doesn't exist. There can be many reasons for this error. 
+ERROR code navigation does not work for the file '/home/vishnu/Downloads/play-sample/app/controllers/DataController.scala' because the SemanticDB file '/home/vishnu/Downloads/play-sample/.bloop/root/scala-2.13/bloop-bsp-clients-classes/classes-Metals-a3C2M01lRymJ_ensVLL4yw==/META-INF/semanticdb/app/controllers/DataController.scala.semanticdb' doesn't exist. There can be many reasons for this error. 
+Dec 03, 2019 6:25:06 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: null
+java.lang.NullPointerException
+	at scala.meta.internal.pc.HoverProvider.hover(HoverProvider.scala:37)
+
+Dec 03, 2019 6:25:06 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: null
+java.lang.NullPointerException
+	at scala.meta.internal.pc.HoverProvider.hover(HoverProvider.scala:37)
+
+Dec 03, 2019 6:25:14 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: null
+java.lang.NullPointerException
+	at scala.meta.internal.pc.HoverProvider.hover(HoverProvider.scala:37)
+
+Dec 03, 2019 6:25:15 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: null
+java.lang.NullPointerException
+	at scala.meta.internal.pc.HoverProvider.hover(HoverProvider.scala:37)
+
+Dec 03, 2019 6:25:22 PM scala.meta.internal.pc.CompletionProvider scala$meta$internal$pc$CompletionProvider$$loadSymbolFromClassfile
+WARNING: no such symbol: Classfile(org/fluentlenium/core/inject/,NoInject.class)
+Dec 03, 2019 6:25:22 PM scala.meta.internal.pc.CompletionProvider scala$meta$internal$pc$CompletionProvider$$loadSymbolFromClassfile
+WARNING: no such symbol: Classfile(org/fluentlenium/core/inject/,FluentInjector.class)
+Dec 03, 2019 6:25:22 PM scala.meta.internal.pc.CompletionProvider scala$meta$internal$pc$CompletionProvider$$loadSymbolFromClassfile
+WARNING: no such symbol: Classfile(org/fluentlenium/core/inject/,NoInject.class)
+Dec 03, 2019 6:25:22 PM scala.meta.internal.pc.CompletionProvider scala$meta$internal$pc$CompletionProvider$$loadSymbolFromClassfile
+WARNING: no such symbol: Classfile(org/fluentlenium/core/inject/,FluentInjector.class)
+INFO  compiling root (15 scala sources and 1 java source)
+INFO  time: compiled root in 10s
+Dec 03, 2019 6:26:43 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 476
+Dec 03, 2019 6:26:43 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 478
+INFO  compiling root (1 scala source)
+INFO  time: compiled root in 0.3s
+ERROR Failed to compile 'root'
+INFO  compiling root (1 scala source)
+INFO  time: compiled root in 0.2s
+ERROR Failed to compile 'root'
+INFO  compiling root (1 scala source)
+INFO  time: compiled root in 0.2s
+ERROR Failed to compile 'root'
+INFO  compiling root (1 scala source)
+INFO  time: compiled root in 0.11s
+ERROR Failed to compile 'root'
+INFO  compiling root (1 scala source)
+INFO  time: compiled root in 0.18s
+ERROR Failed to compile 'root'
+INFO  compiling root (1 scala source)
+INFO  time: compiled root in 0.1s
+ERROR Failed to compile 'root'
+INFO  /home/vishnu/Downloads/play-sample/app/controllers/DataController.scala:18:15: stale scalac error: value name is not a member of Map[String,Seq[String]]
+did you mean take?
+  val json = (request.queryString.name);
+              ^^^^^^^^^^^^^^^^^^^^^^^^
+INFO  /home/vishnu/Downloads/play-sample/app/controllers/DataController.scala:18:15: stale scalac error: value name is not a member of Map[String,Seq[String]]
+did you mean take?
+  val json = (request.queryString.name);
+              ^^^^^^^^^^^^^^^^^^^^^^^^
+INFO  compiling root (1 scala source)
+INFO  time: compiled root in 0.17s
+ERROR Failed to compile 'root'
+INFO  compiling root (1 scala source)
+INFO  time: compiled root in 95ms
+ERROR Failed to compile 'root'
+INFO  compiling root (1 scala source)
+INFO  time: compiled root in 1.58s
+INFO  compiling root (1 scala source)
+INFO  time: compiled root in 0.15s
+ERROR Failed to compile 'root'
+INFO  compiling root (1 scala source)
+INFO  time: compiled root in 0.1s
+ERROR Failed to compile 'root'
+INFO  /home/vishnu/Downloads/play-sample/app/controllers/DataController.scala:18:15: stale scalac error: method queryString of type Map[String,Seq[String]] does not take type parameters.
+  val json = (request.queryString["name"]);
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+INFO  /home/vishnu/Downloads/play-sample/app/controllers/DataController.scala:18:15: stale scalac error: method queryString of type Map[String,Seq[String]] does not take type parameters.
+  val json = (request.queryString["name"]);
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+INFO  /home/vishnu/Downloads/play-sample/app/controllers/DataController.scala:18:15: stale scalac error: method queryString of type Map[String,Seq[String]] does not take type parameters.
+  val json = (request.queryString["name"]);
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+INFO  /home/vishnu/Downloads/play-sample/app/controllers/DataController.scala:18:15: stale scalac error: method queryString of type Map[String,Seq[String]] does not take type parameters.
+  val json = (request.queryString["name"]);
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Dec 03, 2019 6:29:26 PM scala.meta.internal.pc.CompletionProvider expected$1
+WARNING: String index out of range: -1
+INFO  compiling root (1 scala source)
+INFO  time: compiled root in 0.14s
+ERROR Failed to compile 'root'
+INFO  compiling root (1 scala source)
+INFO  time: compiled root in 0.1s
+ERROR Failed to compile 'root'
+INFO  compiling root (1 scala source)
+INFO  time: compiled root in 91ms
+ERROR Failed to compile 'root'
+INFO  compiling root (1 scala source)
+INFO  time: compiled root in 37ms
+ERROR Failed to compile 'root'
+INFO  compiling root (1 scala source)
+INFO  time: compiled root in 0.11s
+ERROR Failed to compile 'root'
+INFO  compiling root (1 scala source)
+INFO  time: compiled root in 0.16s
+ERROR Failed to compile 'root'
+INFO  compiling root (1 scala source)
+INFO  time: compiled root in 96ms
+ERROR Failed to compile 'root'
+INFO  compiling root (1 scala source)
+INFO  time: compiled root in 0.16s
+ERROR Failed to compile 'root'
+INFO  compiling root (1 scala source)
+INFO  time: compiled root in 63ms
+ERROR Failed to compile 'root'
+Dec 03, 2019 6:31:51 PM scala.meta.internal.pc.CompletionProvider scala$meta$internal$pc$CompletionProvider$$loadSymbolFromClassfile
+WARNING: no such symbol: Classfile(org/apache/commons/text/lookup/,StringLookup.class)
+Dec 03, 2019 6:31:51 PM scala.meta.internal.pc.CompletionProvider scala$meta$internal$pc$CompletionProvider$$loadSymbolFromClassfile
+WARNING: no such symbol: Classfile(org/apache/commons/text/lookup/,MapStringLookup.class)
+Dec 03, 2019 6:31:51 PM scala.meta.internal.pc.CompletionProvider scala$meta$internal$pc$CompletionProvider$$loadSymbolFromClassfile
+WARNING: no such symbol: Classfile(org/apache/commons/text/lookup/,DateStringLookup.class)
+Dec 03, 2019 6:31:51 PM scala.meta.internal.pc.CompletionProvider scala$meta$internal$pc$CompletionProvider$$loadSymbolFromClassfile
+WARNING: no such symbol: Classfile(org/apache/commons/text/lookup/,NullStringLookup.class)
+Dec 03, 2019 6:31:51 PM scala.meta.internal.pc.CompletionProvider scala$meta$internal$pc$CompletionProvider$$loadSymbolFromClassfile
+WARNING: no such symbol: Classfile(org/apache/commons/text/lookup/,LocalHostStringLookup.class)
+Dec 03, 2019 6:31:51 PM scala.meta.internal.pc.CompletionProvider scala$meta$internal$pc$CompletionProvider$$loadSymbolFromClassfile
+WARNING: no such symbol: Classfile(org/apache/commons/text/lookup/,InterpolatorStringLookup.class)
+Dec 03, 2019 6:31:51 PM scala.meta.internal.pc.CompletionProvider scala$meta$internal$pc$CompletionProvider$$loadSymbolFromClassfile
+WARNING: no such symbol: Classfile(org/apache/commons/text/lookup/,JavaPlatformStringLookup.class)
+Dec 03, 2019 6:31:51 PM scala.meta.internal.pc.CompletionProvider scala$meta$internal$pc$CompletionProvider$$loadSymbolFromClassfile
+WARNING: no such symbol: Classfile(org/apache/commons/text/lookup/,SystemPropertyStringLookup.class)
+Dec 03, 2019 6:31:51 PM scala.meta.internal.pc.CompletionProvider scala$meta$internal$pc$CompletionProvider$$loadSymbolFromClassfile
+WARNING: no such symbol: Classfile(org/apache/commons/text/lookup/,ResourceBundleStringLookup.class)
+Dec 03, 2019 6:31:51 PM scala.meta.internal.pc.CompletionProvider scala$meta$internal$pc$CompletionProvider$$loadSymbolFromClassfile
+WARNING: no such symbol: Classfile(org/apache/commons/text/lookup/,EnvironmentVariableStringLookup.class)
+INFO  compiling root (1 scala source)
+INFO  time: compiled root in 0.18s
+ERROR Failed to compile 'root'
+INFO  compiling root (1 scala source)
+INFO  time: compiled root in 92ms
+ERROR Failed to compile 'root'
+Dec 03, 2019 6:32:14 PM scala.meta.internal.pc.CompletionProvider scala$meta$internal$pc$CompletionProvider$$loadSymbolFromClassfile
+WARNING: no such symbol: Classfile(org/scalatest/matchers/,MatcherProducers$Composifier.class)
+Dec 03, 2019 6:32:14 PM scala.meta.internal.pc.CompletionProvider scala$meta$internal$pc$CompletionProvider$$loadSymbolFromClassfile
+WARNING: no such symbol: Classfile(org/scalatest/matchers/,TypeMatcherHelper.class)
+Dec 03, 2019 6:32:14 PM scala.meta.internal.pc.CompletionProvider scala$meta$internal$pc$CompletionProvider$$loadSymbolFromClassfile
+WARNING: no such symbol: Classfile(org/scalatest/matchers/,TypeMatcherHelper$.class)
+Dec 03, 2019 6:32:14 PM scala.meta.internal.pc.CompletionProvider scala$meta$internal$pc$CompletionProvider$$loadSymbolFromClassfile
+WARNING: no such symbol: Classfile(org/scalatest/matchers/,MatchPatternHelper.class)
+Dec 03, 2019 6:32:14 PM scala.meta.internal.pc.CompletionProvider scala$meta$internal$pc$CompletionProvider$$loadSymbolFromClassfile
+WARNING: no such symbol: Classfile(org/scalatest/matchers/,MatchPatternHelper$.class)
+Dec 03, 2019 6:32:15 PM scala.meta.internal.pc.CompletionProvider scala$meta$internal$pc$CompletionProvider$$loadSymbolFromClassfile
+WARNING: no such symbol: Classfile(org/scalatest/matchers/,MatcherProducers$Composifier.class)
+Dec 03, 2019 6:32:15 PM scala.meta.internal.pc.CompletionProvider scala$meta$internal$pc$CompletionProvider$$loadSymbolFromClassfile
+WARNING: no such symbol: Classfile(org/scalatest/matchers/,TypeMatcherHelper.class)
+Dec 03, 2019 6:32:15 PM scala.meta.internal.pc.CompletionProvider scala$meta$internal$pc$CompletionProvider$$loadSymbolFromClassfile
+WARNING: no such symbol: Classfile(org/scalatest/matchers/,TypeMatcherHelper$.class)
+Dec 03, 2019 6:32:15 PM scala.meta.internal.pc.CompletionProvider scala$meta$internal$pc$CompletionProvider$$loadSymbolFromClassfile
+WARNING: no such symbol: Classfile(org/scalatest/matchers/,MatchPatternHelper.class)
+Dec 03, 2019 6:32:15 PM scala.meta.internal.pc.CompletionProvider scala$meta$internal$pc$CompletionProvider$$loadSymbolFromClassfile
+WARNING: no such symbol: Classfile(org/scalatest/matchers/,MatchPatternHelper$.class)
+Dec 03, 2019 6:32:21 PM scala.meta.internal.pc.CompletionProvider scala$meta$internal$pc$CompletionProvider$$loadSymbolFromClassfile
+WARNING: no such symbol: Classfile(org/scalatest/matchers/,MatcherProducers$Composifier.class)
+Dec 03, 2019 6:32:21 PM scala.meta.internal.pc.CompletionProvider scala$meta$internal$pc$CompletionProvider$$loadSymbolFromClassfile
+WARNING: no such symbol: Classfile(org/scalatest/matchers/,TypeMatcherHelper.class)
+Dec 03, 2019 6:32:21 PM scala.meta.internal.pc.CompletionProvider scala$meta$internal$pc$CompletionProvider$$loadSymbolFromClassfile
+WARNING: no such symbol: Classfile(org/scalatest/matchers/,TypeMatcherHelper$.class)
+Dec 03, 2019 6:32:21 PM scala.meta.internal.pc.CompletionProvider scala$meta$internal$pc$CompletionProvider$$loadSymbolFromClassfile
+WARNING: no such symbol: Classfile(org/scalatest/matchers/,MatchPatternHelper.class)
+Dec 03, 2019 6:32:21 PM scala.meta.internal.pc.CompletionProvider scala$meta$internal$pc$CompletionProvider$$loadSymbolFromClassfile
+WARNING: no such symbol: Classfile(org/scalatest/matchers/,MatchPatternHelper$.class)
+Dec 03, 2019 6:32:44 PM scala.meta.internal.pc.CompletionProvider scala$meta$internal$pc$CompletionProvider$$loadSymbolFromClassfile
+WARNING: no such symbol: Classfile(scala/collection/script/,NoLo.class)
+Dec 03, 2019 6:32:44 PM scala.meta.internal.pc.CompletionProvider scala$meta$internal$pc$CompletionProvider$$loadSymbolFromClassfile
+WARNING: no such symbol: Classfile(scala/collection/script/,NoLo$.class)
+Dec 03, 2019 6:33:07 PM scala.meta.internal.pc.CompletionProvider scala$meta$internal$pc$CompletionProvider$$loadSymbolFromClassfile
+WARNING: no such symbol: Classfile(scala/collection/script/,NoLo.class)
+Dec 03, 2019 6:33:07 PM scala.meta.internal.pc.CompletionProvider scala$meta$internal$pc$CompletionProvider$$loadSymbolFromClassfile
+WARNING: no such symbol: Classfile(scala/collection/script/,NoLo$.class)
+INFO  compiling root (1 scala source)
+INFO  time: compiled root in 0.13s
+ERROR Failed to compile 'root'
+INFO  compiling root (1 scala source)
+INFO  time: compiled root in 87ms
+ERROR Failed to compile 'root'
+INFO  compiling root (1 scala source)
+INFO  time: compiled root in 0.11s
+ERROR Failed to compile 'root'
+INFO  compiling root (1 scala source)
+INFO  time: compiled root in 81ms
+ERROR Failed to compile 'root'
+Dec 03, 2019 6:33:31 PM scala.meta.internal.pc.CompletionProvider scala$meta$internal$pc$CompletionProvider$$loadSymbolFromClassfile
+WARNING: no such symbol: Classfile(org/apache/xpath/operations/,String.class)
+Dec 03, 2019 6:33:33 PM scala.meta.internal.pc.CompletionProvider scala$meta$internal$pc$CompletionProvider$$loadSymbolFromClassfile
+WARNING: no such symbol: Classfile(org/apache/xerces/impl/xpath/regex/,Op.class)
+Dec 03, 2019 6:33:33 PM scala.meta.internal.pc.CompletionProvider scala$meta$internal$pc$CompletionProvider$$loadSymbolFromClassfile
+WARNING: no such symbol: Classfile(org/apache/xerces/impl/xpath/regex/,Op$CharOp.class)
+Dec 03, 2019 6:33:33 PM scala.meta.internal.pc.CompletionProvider scala$meta$internal$pc$CompletionProvider$$loadSymbolFromClassfile
+WARNING: no such symbol: Classfile(org/apache/xerces/impl/xpath/regex/,Op$ChildOp.class)
+Dec 03, 2019 6:33:33 PM scala.meta.internal.pc.CompletionProvider scala$meta$internal$pc$CompletionProvider$$loadSymbolFromClassfile
+WARNING: no such symbol: Classfile(org/apache/xerces/impl/xpath/regex/,Op$RangeOp.class)
+Dec 03, 2019 6:33:33 PM scala.meta.internal.pc.CompletionProvider scala$meta$internal$pc$CompletionProvider$$loadSymbolFromClassfile
+WARNING: no such symbol: Classfile(org/apache/xerces/impl/xpath/regex/,Op$UnionOp.class)
+Dec 03, 2019 6:33:33 PM scala.meta.internal.pc.CompletionProvider scala$meta$internal$pc$CompletionProvider$$loadSymbolFromClassfile
+WARNING: no such symbol: Classfile(org/apache/xerces/impl/xpath/regex/,Op$StringOp.class)
+Dec 03, 2019 6:33:33 PM scala.meta.internal.pc.CompletionProvider scala$meta$internal$pc$CompletionProvider$$loadSymbolFromClassfile
+WARNING: no such symbol: Classfile(org/apache/xerces/impl/xpath/regex/,Op$ModifierOp.class)
+Dec 03, 2019 6:33:33 PM scala.meta.internal.pc.CompletionProvider scala$meta$internal$pc$CompletionProvider$$loadSymbolFromClassfile
+WARNING: no such symbol: Classfile(org/apache/xerces/impl/xpath/regex/,Op$ConditionOp.class)
+Dec 03, 2019 6:33:34 PM scala.meta.internal.pc.CompletionProvider scala$meta$internal$pc$CompletionProvider$$loadSymbolFromClassfile
+WARNING: no such symbol: Classfile(org/apache/xalan/xsltc/cmdline/getopt/,GetOpt.class)
+Dec 03, 2019 6:33:34 PM scala.meta.internal.pc.CompletionProvider scala$meta$internal$pc$CompletionProvider$$loadSymbolFromClassfile
+WARNING: no such symbol: Classfile(org/apache/xalan/xsltc/cmdline/getopt/,GetOpt$Option.class)
+Dec 03, 2019 6:33:34 PM scala.meta.internal.pc.CompletionProvider scala$meta$internal$pc$CompletionProvider$$loadSymbolFromClassfile
+WARNING: no such symbol: Classfile(org/openqa/selenium/safari/,SafariOptions$Option.class)
+Dec 03, 2019 6:33:34 PM scala.meta.internal.pc.CompletionProvider scala$meta$internal$pc$CompletionProvider$$loadSymbolFromClassfile
+WARNING: no such symbol: Classfile(okio/,Options.class)
+Dec 03, 2019 6:33:34 PM scala.meta.internal.pc.CompletionProvider scala$meta$internal$pc$CompletionProvider$$loadSymbolFromClassfile
+WARNING: no such symbol: Classfile(net/sourceforge/htmlunit/corejs/javascript/optimizer/,Optimizer.class)
+Dec 03, 2019 6:33:34 PM scala.meta.internal.pc.CompletionProvider scala$meta$internal$pc$CompletionProvider$$loadSymbolFromClassfile
+WARNING: no such symbol: Classfile(net/sourceforge/htmlunit/corejs/javascript/optimizer/,OptRuntime.class)
+Dec 03, 2019 6:33:40 PM scala.meta.internal.pc.CompletionProvider scala$meta$internal$pc$CompletionProvider$$loadSymbolFromClassfile
+WARNING: no such symbol: Classfile(org/apache/xpath/operations/,String.class)
+Dec 03, 2019 6:33:40 PM scala.meta.internal.pc.CompletionProvider scala$meta$internal$pc$CompletionProvider$$loadSymbolFromClassfile
+WARNING: no such symbol: Classfile(org/apache/xpath/operations/,String.class)
+Dec 03, 2019 6:33:40 PM scala.meta.internal.pc.CompletionProvider scala$meta$internal$pc$CompletionProvider$$loadSymbolFromClassfile
+WARNING: no such symbol: Classfile(org/apache/xpath/operations/,String.class)
+Dec 03, 2019 6:33:40 PM scala.meta.internal.pc.CompletionProvider scala$meta$internal$pc$CompletionProvider$$loadSymbolFromClassfile
+WARNING: no such symbol: Classfile(org/apache/xpath/objects/,XString.class)
+Dec 03, 2019 6:33:40 PM scala.meta.internal.pc.CompletionProvider scala$meta$internal$pc$CompletionProvider$$loadSymbolFromClassfile
+WARNING: no such symbol: Classfile(org/joda/convert/,ToString.class)
+Dec 03, 2019 6:33:40 PM scala.meta.internal.pc.CompletionProvider scala$meta$internal$pc$CompletionProvider$$loadSymbolFromClassfile
+WARNING: no such symbol: Classfile(org/apache/xerces/impl/xpath/regex/,Op$StringOp.class)
+Dec 03, 2019 6:33:40 PM scala.meta.internal.pc.CompletionProvider scala$meta$internal$pc$CompletionProvider$$loadSymbolFromClassfile
+WARNING: no such symbol: Classfile(org/apache/xpath/operations/,String.class)
+Dec 03, 2019 6:33:40 PM scala.meta.internal.pc.CompletionProvider scala$meta$internal$pc$CompletionProvider$$loadSymbolFromClassfile
+WARNING: no such symbol: Classfile(org/apache/xpath/objects/,XString.class)
+Dec 03, 2019 6:33:40 PM scala.meta.internal.pc.CompletionProvider scala$meta$internal$pc$CompletionProvider$$loadSymbolFromClassfile
+WARNING: no such symbol: Classfile(org/joda/convert/,ToString.class)
+Dec 03, 2019 6:33:40 PM scala.meta.internal.pc.CompletionProvider scala$meta$internal$pc$CompletionProvider$$loadSymbolFromClassfile
+WARNING: no such symbol: Classfile(org/apache/xerces/impl/xpath/regex/,Op$StringOp.class)
+Dec 03, 2019 6:33:46 PM scala.meta.internal.pc.CompletionProvider scala$meta$internal$pc$CompletionProvider$$loadSymbolFromClassfile
+WARNING: no such symbol: Classfile(org/apache/commons/text/lookup/,StringLookup.class)
+Dec 03, 2019 6:33:46 PM scala.meta.internal.pc.CompletionProvider scala$meta$internal$pc$CompletionProvider$$loadSymbolFromClassfile
+WARNING: no such symbol: Classfile(org/apache/commons/text/lookup/,MapStringLookup.class)
+Dec 03, 2019 6:33:46 PM scala.meta.internal.pc.CompletionProvider scala$meta$internal$pc$CompletionProvider$$loadSymbolFromClassfile
+WARNING: no such symbol: Classfile(org/apache/commons/text/lookup/,DateStringLookup.class)
+Dec 03, 2019 6:33:46 PM scala.meta.internal.pc.CompletionProvider scala$meta$internal$pc$CompletionProvider$$loadSymbolFromClassfile
+WARNING: no such symbol: Classfile(org/apache/commons/text/lookup/,NullStringLookup.class)
+Dec 03, 2019 6:33:46 PM scala.meta.internal.pc.CompletionProvider scala$meta$internal$pc$CompletionProvider$$loadSymbolFromClassfile
+WARNING: no such symbol: Classfile(org/apache/commons/text/lookup/,LocalHostStringLookup.class)
+Dec 03, 2019 6:33:46 PM scala.meta.internal.pc.CompletionProvider scala$meta$internal$pc$CompletionProvider$$loadSymbolFromClassfile
+WARNING: no such symbol: Classfile(org/apache/commons/text/lookup/,InterpolatorStringLookup.class)
+Dec 03, 2019 6:33:46 PM scala.meta.internal.pc.CompletionProvider scala$meta$internal$pc$CompletionProvider$$loadSymbolFromClassfile
+WARNING: no such symbol: Classfile(org/apache/commons/text/lookup/,JavaPlatformStringLookup.class)
+Dec 03, 2019 6:33:46 PM scala.meta.internal.pc.CompletionProvider scala$meta$internal$pc$CompletionProvider$$loadSymbolFromClassfile
+WARNING: no such symbol: Classfile(org/apache/commons/text/lookup/,SystemPropertyStringLookup.class)
+Dec 03, 2019 6:33:46 PM scala.meta.internal.pc.CompletionProvider scala$meta$internal$pc$CompletionProvider$$loadSymbolFromClassfile
+WARNING: no such symbol: Classfile(org/apache/commons/text/lookup/,ResourceBundleStringLookup.class)
+Dec 03, 2019 6:33:46 PM scala.meta.internal.pc.CompletionProvider scala$meta$internal$pc$CompletionProvider$$loadSymbolFromClassfile
+WARNING: no such symbol: Classfile(org/apache/commons/text/lookup/,EnvironmentVariableStringLookup.class)
+INFO  /home/vishnu/Downloads/play-sample/app/controllers/DataController.scala:20:3: stale scalac error: type mismatch;
+ found   : Unit
+ required: play.api.mvc.Result
+  println(option);
+  ^^^^^^^^^^^^^^^
+INFO  /home/vishnu/Downloads/play-sample/app/controllers/DataController.scala:20:3: stale scalac error: type mismatch;
+ found   : Unit
+ required: play.api.mvc.Result
+  println(option);
+  ^^^^^^^^^^^^^^^
+INFO  /home/vishnu/Downloads/play-sample/app/controllers/DataController.scala:20:3: stale scalac error: type mismatch;
+ found   : Unit
+ required: play.api.mvc.Result
+  println(option);
+  ^^^^^^^^^^^^^^^
+INFO  /home/vishnu/Downloads/play-sample/app/controllers/DataController.scala:20:3: stale scalac error: type mismatch;
+ found   : Unit
+ required: play.api.mvc.Result
+  println(option);
+  ^^^^^^^^^^^^^^^
+INFO  /home/vishnu/Downloads/play-sample/app/controllers/DataController.scala:20:3: stale scalac error: type mismatch;
+ found   : Unit
+ required: play.api.mvc.Result
+  println(option);
+  ^^^^^^^^^^^^^^^
+INFO  /home/vishnu/Downloads/play-sample/app/controllers/DataController.scala:20:3: stale scalac error: type mismatch;
+ found   : Unit
+ required: play.api.mvc.Result
+  println(option);
+  ^^^^^^^^^^^^^^^
+INFO  compiling root (1 scala source)
+INFO  time: compiled root in 0.11s
+ERROR Failed to compile 'root'
+INFO  compiling root (1 scala source)
+INFO  time: compiled root in 70ms
+ERROR Failed to compile 'root'
+INFO  compiling root (1 scala source)
+INFO  time: compiled root in 0.1s
+ERROR Failed to compile 'root'
+INFO  compiling root (1 scala source)
+INFO  time: compiled root in 85ms
+ERROR Failed to compile 'root'
+INFO  compiling root (1 scala source)
+INFO  time: compiled root in 68ms
+ERROR Failed to compile 'root'
+INFO  compiling root (1 scala source)
+INFO  time: compiled root in 1.18s
+Dec 03, 2019 6:36:06 PM scala.meta.internal.pc.CompletionProvider scala$meta$internal$pc$CompletionProvider$$loadSymbolFromClassfile
+WARNING: no such symbol: Classfile(scala/collection/script/,NoLo.class)
+Dec 03, 2019 6:36:06 PM scala.meta.internal.pc.CompletionProvider scala$meta$internal$pc$CompletionProvider$$loadSymbolFromClassfile
+WARNING: no such symbol: Classfile(scala/collection/script/,NoLo$.class)
+INFO  compiling root (1 scala source)
+INFO  time: compiled root in 0.18s
+ERROR Failed to compile 'root'
+INFO  compiling root (1 scala source)
+INFO  time: compiled root in 80ms
+ERROR Failed to compile 'root'
+INFO  compiling root (1 scala source)
+INFO  time: compiled root in 1.1s
+INFO  compiling root (1 scala source)
+INFO  time: compiled root in 0.13s
+ERROR Failed to compile 'root'
+INFO  compiling root (1 scala source)
+INFO  time: compiled root in 57ms
+ERROR Failed to compile 'root'
+INFO  /home/vishnu/Downloads/play-sample/app/controllers/DataController.scala:19:6: stale scalac error: value optionA of type Option[String] does not take type parameters.
+  Ok(optionA[0]);
+     ^^^^^^^^^^
+INFO  /home/vishnu/Downloads/play-sample/app/controllers/DataController.scala:19:6: stale scalac error: value optionA of type Option[String] does not take type parameters.
+  Ok(optionA[0]);
+     ^^^^^^^^^^
+INFO  compiling root (1 scala source)
+INFO  time: compiled root in 0.12s
+ERROR Failed to compile 'root'
+INFO  compiling root (1 scala source)
+INFO  time: compiled root in 88ms
+ERROR Failed to compile 'root'
+INFO  compiling root (1 scala source)
+INFO  time: compiled root in 0.19s
+ERROR Failed to compile 'root'
+INFO  compiling root (1 scala source)
+INFO  time: compiled root in 83ms
+ERROR Failed to compile 'root'
+INFO  compiling root (1 scala source)
+INFO  time: compiled root in 0.12s
+ERROR Failed to compile 'root'
+INFO  compiling root (1 scala source)
+INFO  time: compiled root in 76ms
+ERROR Failed to compile 'root'
+INFO  compiling root (1 scala source)
+INFO  time: compiled root in 0.12s
+ERROR Failed to compile 'root'
+INFO  compiling root (1 scala source)
+INFO  time: compiled root in 73ms
+ERROR Failed to compile 'root'
+INFO  /home/vishnu/Downloads/play-sample/app/controllers/DataController.scala:19:6: stale scalac error: not enough arguments for method apply: (i: Int)Char in class StringOps.
+Unspecified value parameter i.
+  Ok(optionA.get());
+     ^^^^^^^^^^^^^
+INFO  /home/vishnu/Downloads/play-sample/app/controllers/DataController.scala:19:6: stale scalac error: not enough arguments for method apply: (i: Int)Char in class StringOps.
+Unspecified value parameter i.
+  Ok(optionA.get());
+     ^^^^^^^^^^^^^
+INFO  /home/vishnu/Downloads/play-sample/app/controllers/DataController.scala:19:6: stale scalac error: not enough arguments for method apply: (i: Int)Char in class StringOps.
+Unspecified value parameter i.
+  Ok(optionA.get());
+     ^^^^^^^^^^^^^
+INFO  /home/vishnu/Downloads/play-sample/app/controllers/DataController.scala:19:6: stale scalac error: not enough arguments for method apply: (i: Int)Char in class StringOps.
+Unspecified value parameter i.
+  Ok(optionA.get());
+     ^^^^^^^^^^^^^
+INFO  /home/vishnu/Downloads/play-sample/app/controllers/DataController.scala:19:6: stale scalac error: not enough arguments for method apply: (i: Int)Char in class StringOps.
+Unspecified value parameter i.
+  Ok(optionA.get());
+     ^^^^^^^^^^^^^
+INFO  /home/vishnu/Downloads/play-sample/app/controllers/DataController.scala:19:6: stale scalac error: not enough arguments for method apply: (i: Int)Char in class StringOps.
+Unspecified value parameter i.
+  Ok(optionA.get());
+     ^^^^^^^^^^^^^
+INFO  /home/vishnu/Downloads/play-sample/app/controllers/DataController.scala:19:6: stale scalac error: not enough arguments for method apply: (i: Int)Char in class StringOps.
+Unspecified value parameter i.
+  Ok(optionA.get());
+     ^^^^^^^^^^^^^
+INFO  /home/vishnu/Downloads/play-sample/app/controllers/DataController.scala:19:6: stale scalac error: not enough arguments for method apply: (i: Int)Char in class StringOps.
+Unspecified value parameter i.
+  Ok(optionA.get());
+     ^^^^^^^^^^^^^
+INFO  compiling root (1 scala source)
+INFO  time: compiled root in 0.85s
+Dec 03, 2019 6:41:16 PM scala.meta.internal.pc.CompletionProvider scala$meta$internal$pc$CompletionProvider$$loadSymbolFromClassfile
+WARNING: no such symbol: Classfile(org/apache/commons/text/lookup/,StringLookup.class)
+Dec 03, 2019 6:41:16 PM scala.meta.internal.pc.CompletionProvider scala$meta$internal$pc$CompletionProvider$$loadSymbolFromClassfile
+WARNING: no such symbol: Classfile(org/apache/commons/text/lookup/,MapStringLookup.class)
+Dec 03, 2019 6:41:16 PM scala.meta.internal.pc.CompletionProvider scala$meta$internal$pc$CompletionProvider$$loadSymbolFromClassfile
+WARNING: no such symbol: Classfile(org/apache/commons/text/lookup/,DateStringLookup.class)
+Dec 03, 2019 6:41:16 PM scala.meta.internal.pc.CompletionProvider scala$meta$internal$pc$CompletionProvider$$loadSymbolFromClassfile
+WARNING: no such symbol: Classfile(org/apache/commons/text/lookup/,NullStringLookup.class)
+Dec 03, 2019 6:41:16 PM scala.meta.internal.pc.CompletionProvider scala$meta$internal$pc$CompletionProvider$$loadSymbolFromClassfile
+WARNING: no such symbol: Classfile(org/apache/commons/text/lookup/,LocalHostStringLookup.class)
+Dec 03, 2019 6:41:16 PM scala.meta.internal.pc.CompletionProvider scala$meta$internal$pc$CompletionProvider$$loadSymbolFromClassfile
+WARNING: no such symbol: Classfile(org/apache/commons/text/lookup/,InterpolatorStringLookup.class)
+Dec 03, 2019 6:41:16 PM scala.meta.internal.pc.CompletionProvider scala$meta$internal$pc$CompletionProvider$$loadSymbolFromClassfile
+WARNING: no such symbol: Classfile(org/apache/commons/text/lookup/,JavaPlatformStringLookup.class)
+Dec 03, 2019 6:41:16 PM scala.meta.internal.pc.CompletionProvider scala$meta$internal$pc$CompletionProvider$$loadSymbolFromClassfile
+WARNING: no such symbol: Classfile(org/apache/commons/text/lookup/,SystemPropertyStringLookup.class)
+Dec 03, 2019 6:41:16 PM scala.meta.internal.pc.CompletionProvider scala$meta$internal$pc$CompletionProvider$$loadSymbolFromClassfile
+WARNING: no such symbol: Classfile(org/apache/commons/text/lookup/,ResourceBundleStringLookup.class)
+Dec 03, 2019 6:41:16 PM scala.meta.internal.pc.CompletionProvider scala$meta$internal$pc$CompletionProvider$$loadSymbolFromClassfile
+WARNING: no such symbol: Classfile(org/apache/commons/text/lookup/,EnvironmentVariableStringLookup.class)
+Dec 03, 2019 6:41:21 PM scala.meta.internal.pc.CompletionProvider scala$meta$internal$pc$CompletionProvider$$loadSymbolFromClassfile
+WARNING: no such symbol: Classfile(scala/collection/script/,NoLo.class)
+Dec 03, 2019 6:41:21 PM scala.meta.internal.pc.CompletionProvider scala$meta$internal$pc$CompletionProvider$$loadSymbolFromClassfile
+WARNING: no such symbol: Classfile(scala/collection/script/,NoLo$.class)
+INFO  compiling root (1 scala source)
+INFO  time: compiled root in 0.12s
+ERROR Failed to compile 'root'
+INFO  compiling root (1 scala source)
+INFO  time: compiled root in 77ms
+ERROR Failed to compile 'root'
+INFO  compiling root (1 scala source)
+INFO  time: compiled root in 0.78s
+INFO  compiling root (1 scala source)
+INFO  time: compiled root in 0.78s
+INFO  compiling root (1 scala source)
+INFO  time: compiled root in 1.06s
+INFO  compiling root (1 scala source)
+INFO  time: compiled root in 0.81s
+Dec 03, 2019 6:43:29 PM scala.meta.internal.pc.CompletionProvider scala$meta$internal$pc$CompletionProvider$$loadSymbolFromClassfile
+WARNING: no such symbol: Classfile(scala/collection/script/,NoLo.class)
+Dec 03, 2019 6:43:29 PM scala.meta.internal.pc.CompletionProvider scala$meta$internal$pc$CompletionProvider$$loadSymbolFromClassfile
+WARNING: no such symbol: Classfile(scala/collection/script/,NoLo$.class)
+Dec 03, 2019 6:43:45 PM scala.meta.internal.pc.CompletionProvider scala$meta$internal$pc$CompletionProvider$$loadSymbolFromClassfile
+WARNING: no such symbol: Classfile(scala/collection/script/,NoLo.class)
+Dec 03, 2019 6:43:45 PM scala.meta.internal.pc.CompletionProvider scala$meta$internal$pc$CompletionProvider$$loadSymbolFromClassfile
+WARNING: no such symbol: Classfile(scala/collection/script/,NoLo$.class)
+Dec 03, 2019 6:45:13 PM scala.meta.internal.pc.CompletionProvider scala$meta$internal$pc$CompletionProvider$$loadSymbolFromClassfile
+WARNING: no such symbol: Classfile(org/apache/commons/text/lookup/,StringLookup.class)
+Dec 03, 2019 6:45:13 PM scala.meta.internal.pc.CompletionProvider scala$meta$internal$pc$CompletionProvider$$loadSymbolFromClassfile
+WARNING: no such symbol: Classfile(org/apache/commons/text/lookup/,MapStringLookup.class)
+Dec 03, 2019 6:45:13 PM scala.meta.internal.pc.CompletionProvider scala$meta$internal$pc$CompletionProvider$$loadSymbolFromClassfile
+WARNING: no such symbol: Classfile(org/apache/commons/text/lookup/,DateStringLookup.class)
+Dec 03, 2019 6:45:13 PM scala.meta.internal.pc.CompletionProvider scala$meta$internal$pc$CompletionProvider$$loadSymbolFromClassfile
+WARNING: no such symbol: Classfile(org/apache/commons/text/lookup/,NullStringLookup.class)
+Dec 03, 2019 6:45:13 PM scala.meta.internal.pc.CompletionProvider scala$meta$internal$pc$CompletionProvider$$loadSymbolFromClassfile
+WARNING: no such symbol: Classfile(org/apache/commons/text/lookup/,LocalHostStringLookup.class)
+Dec 03, 2019 6:45:13 PM scala.meta.internal.pc.CompletionProvider scala$meta$internal$pc$CompletionProvider$$loadSymbolFromClassfile
+WARNING: no such symbol: Classfile(org/apache/commons/text/lookup/,InterpolatorStringLookup.class)
+Dec 03, 2019 6:45:13 PM scala.meta.internal.pc.CompletionProvider scala$meta$internal$pc$CompletionProvider$$loadSymbolFromClassfile
+WARNING: no such symbol: Classfile(org/apache/commons/text/lookup/,JavaPlatformStringLookup.class)
+Dec 03, 2019 6:45:13 PM scala.meta.internal.pc.CompletionProvider scala$meta$internal$pc$CompletionProvider$$loadSymbolFromClassfile
+WARNING: no such symbol: Classfile(org/apache/commons/text/lookup/,SystemPropertyStringLookup.class)
+Dec 03, 2019 6:45:13 PM scala.meta.internal.pc.CompletionProvider scala$meta$internal$pc$CompletionProvider$$loadSymbolFromClassfile
+WARNING: no such symbol: Classfile(org/apache/commons/text/lookup/,ResourceBundleStringLookup.class)
+Dec 03, 2019 6:45:13 PM scala.meta.internal.pc.CompletionProvider scala$meta$internal$pc$CompletionProvider$$loadSymbolFromClassfile
+WARNING: no such symbol: Classfile(org/apache/commons/text/lookup/,EnvironmentVariableStringLookup.class)
+Dec 03, 2019 6:45:23 PM scala.meta.internal.pc.CompletionProvider scala$meta$internal$pc$CompletionProvider$$loadSymbolFromClassfile
+WARNING: no such symbol: Classfile(org/apache/xerces/impl/,Version.class)
+Dec 03, 2019 6:45:23 PM scala.meta.internal.pc.CompletionProvider scala$meta$internal$pc$CompletionProvider$$loadSymbolFromClassfile
+WARNING: no such symbol: Classfile(io/netty/channel/socket/nio/,NioChannelOption.class)
+Dec 03, 2019 6:45:23 PM scala.meta.internal.pc.CompletionProvider scala$meta$internal$pc$CompletionProvider$$loadSymbolFromClassfile
+WARNING: no such symbol: Classfile(org/apache/xerces/impl/,Constants$ArrayEnumeration.class)
+Dec 03, 2019 6:45:38 PM scala.meta.internal.pc.CompletionProvider scala$meta$internal$pc$CompletionProvider$$loadSymbolFromClassfile
+WARNING: no such symbol: Classfile(scala/collection/script/,NoLo.class)
+Dec 03, 2019 6:45:38 PM scala.meta.internal.pc.CompletionProvider scala$meta$internal$pc$CompletionProvider$$loadSymbolFromClassfile
+WARNING: no such symbol: Classfile(scala/collection/script/,NoLo$.class)
+Dec 03, 2019 6:45:56 PM scala.meta.internal.pc.CompletionProvider scala$meta$internal$pc$CompletionProvider$$loadSymbolFromClassfile
+WARNING: no such symbol: Classfile(scala/collection/script/,NoLo.class)
+Dec 03, 2019 6:45:56 PM scala.meta.internal.pc.CompletionProvider scala$meta$internal$pc$CompletionProvider$$loadSymbolFromClassfile
+WARNING: no such symbol: Classfile(scala/collection/script/,NoLo$.class)
+INFO  compiling root (1 scala source)
+INFO  time: compiled root in 0.92s
+ERROR Failed to compile 'root'
+INFO  compiling root (1 scala source)
+INFO  time: compiled root in 0.14s
+ERROR Failed to compile 'root'
+INFO  compiling root (1 scala source)
+INFO  time: compiled root in 0.22s
+ERROR Failed to compile 'root'
+INFO  compiling root (1 scala source)
+INFO  time: compiled root in 77ms
+ERROR Failed to compile 'root'
+Dec 03, 2019 6:46:32 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1600
+INFO  compiling root (1 scala source)
+INFO  time: compiled root in 93ms
+ERROR Failed to compile 'root'
+INFO  compiling root (1 scala source)
+INFO  time: compiled root in 23ms
+ERROR Failed to compile 'root'
+INFO  compiling root (1 scala source)
+INFO  time: compiled root in 1.64s
+INFO  compiling root (1 scala source)
+INFO  time: compiled root in 1.03s
+INFO  compiling root (1 scala source)
+INFO  time: compiled root in 1.59s
+INFO  compiling root (1 scala source)
+INFO  time: compiled root in 0.85s
+INFO  compiling root (4 scala sources and 1 java source)
+INFO  time: compiled root in 2.12s
+INFO  compiling root (1 scala source)
+INFO  time: compiled root in 0.2s
+ERROR Failed to compile 'root'
+INFO  compiling root (1 scala source)
+INFO  time: compiled root in 93ms
+ERROR Failed to compile 'root'
+INFO  compiling root (1 scala source)
+INFO  time: compiled root in 0.85s
+INFO  compiling root (1 scala source)
+INFO  time: compiled root in 0.77s
+Dec 03, 2019 6:49:39 PM scala.meta.internal.pc.CompletionProvider scala$meta$internal$pc$CompletionProvider$$loadSymbolFromClassfile
+WARNING: no such symbol: Classfile(org/apache/xml/serializer/utils/,Utils.class)
+Dec 03, 2019 6:49:39 PM scala.meta.internal.pc.CompletionProvider scala$meta$internal$pc$CompletionProvider$$loadSymbolFromClassfile
+WARNING: no such symbol: Classfile(org/apache/xml/serializer/utils/,Messages.class)
+Dec 03, 2019 6:49:39 PM scala.meta.internal.pc.CompletionProvider scala$meta$internal$pc$CompletionProvider$$loadSymbolFromClassfile
+WARNING: no such symbol: Classfile(io/netty/handler/codec/rtsp/,RtspVersions.class)
+Dec 03, 2019 6:49:39 PM scala.meta.internal.pc.CompletionProvider scala$meta$internal$pc$CompletionProvider$$loadSymbolFromClassfile
+WARNING: no such symbol: Classfile(org/scalatest/events/,MotionToSuppress.class)
+Dec 03, 2019 6:49:39 PM scala.meta.internal.pc.CompletionProvider scala$meta$internal$pc$CompletionProvider$$loadSymbolFromClassfile
+WARNING: no such symbol: Classfile(org/scalatest/events/,MotionToSuppress$.class)
+Dec 03, 2019 6:49:39 PM scala.meta.internal.pc.CompletionProvider scala$meta$internal$pc$CompletionProvider$$loadSymbolFromClassfile
+WARNING: no such symbol: Classfile(org/apache/xml/serializer/utils/,SerializerMessages.class)
+Dec 03, 2019 6:49:39 PM scala.meta.internal.pc.CompletionProvider scala$meta$internal$pc$CompletionProvider$$loadSymbolFromClassfile
+WARNING: no such symbol: Classfile(org/apache/xml/serializer/utils/,AttList.class)
+Dec 03, 2019 6:49:41 PM scala.meta.internal.pc.CompletionProvider scala$meta$internal$pc$CompletionProvider$$loadSymbolFromClassfile
+WARNING: no such symbol: Classfile(scala/collection/script/,Start.class)
+Dec 03, 2019 6:49:41 PM scala.meta.internal.pc.CompletionProvider scala$meta$internal$pc$CompletionProvider$$loadSymbolFromClassfile
+WARNING: no such symbol: Classfile(scala/collection/script/,Start$.class)
+Dec 03, 2019 6:49:41 PM scala.meta.internal.pc.CompletionProvider scala$meta$internal$pc$CompletionProvider$$loadSymbolFromClassfile
+WARNING: no such symbol: Classfile(io/netty/handler/codec/spdy/,SpdyFrameDecoder$State.class)
+Dec 03, 2019 6:49:41 PM scala.meta.internal.pc.CompletionProvider scala$meta$internal$pc$CompletionProvider$$loadSymbolFromClassfile
+WARNING: no such symbol: Classfile(io/netty/handler/codec/spdy/,SpdyHeaderBlockRawDecoder$State.class)
+Dec 03, 2019 6:49:41 PM scala.meta.internal.pc.CompletionProvider scala$meta$internal$pc$CompletionProvider$$loadSymbolFromClassfile
+WARNING: no such symbol: Classfile(org/apache/commons/lang3/time/,StopWatch$State.class)
+Dec 03, 2019 6:49:41 PM scala.meta.internal.pc.CompletionProvider scala$meta$internal$pc$CompletionProvider$$loadSymbolFromClassfile
+WARNING: no such symbol: Classfile(play/shaded/ahc/io/netty/handler/codec/socks/,SocksAuthRequestDecoder$State.class)
+Dec 03, 2019 6:49:41 PM scala.meta.internal.pc.CompletionProvider scala$meta$internal$pc$CompletionProvider$$loadSymbolFromClassfile
+WARNING: no such symbol: Classfile(play/shaded/ahc/io/netty/handler/codec/socks/,SocksAuthResponseDecoder$State.class)
+Dec 03, 2019 6:49:41 PM scala.meta.internal.pc.CompletionProvider scala$meta$internal$pc$CompletionProvider$$loadSymbolFromClassfile
+WARNING: no such symbol: Classfile(play/shaded/ahc/io/netty/handler/codec/socks/,SocksCmdRequestDecoder$State.class)
+Dec 03, 2019 6:49:41 PM scala.meta.internal.pc.CompletionProvider scala$meta$internal$pc$CompletionProvider$$loadSymbolFromClassfile
+WARNING: no such symbol: Classfile(play/shaded/ahc/io/netty/handler/codec/socks/,SocksCmdResponseDecoder$State.class)
+Dec 03, 2019 6:49:41 PM scala.meta.internal.pc.CompletionProvider scala$meta$internal$pc$CompletionProvider$$loadSymbolFromClassfile
+WARNING: no such symbol: Classfile(play/shaded/ahc/io/netty/handler/codec/socks/,SocksInitRequestDecoder$State.class)
+Dec 03, 2019 6:49:41 PM scala.meta.internal.pc.CompletionProvider scala$meta$internal$pc$CompletionProvider$$loadSymbolFromClassfile
+WARNING: no such symbol: Classfile(play/shaded/ahc/io/netty/handler/codec/socks/,SocksInitResponseDecoder$State.class)
+Dec 03, 2019 6:49:41 PM scala.meta.internal.pc.CompletionProvider scala$meta$internal$pc$CompletionProvider$$loadSymbolFromClassfile
+WARNING: no such symbol: Classfile(play/shaded/ahc/io/netty/handler/codec/socksx/v4/,Socks4ClientDecoder$State.class)
+Dec 03, 2019 6:49:41 PM scala.meta.internal.pc.CompletionProvider scala$meta$internal$pc$CompletionProvider$$loadSymbolFromClassfile
+WARNING: no such symbol: Classfile(play/shaded/ahc/io/netty/handler/codec/socksx/v4/,Socks4ServerDecoder$State.class)
+Dec 03, 2019 6:49:41 PM scala.meta.internal.pc.CompletionProvider scala$meta$internal$pc$CompletionProvider$$loadSymbolFromClassfile
+WARNING: no such symbol: Classfile(play/shaded/ahc/io/netty/handler/codec/socksx/v5/,Socks5CommandRequestDecoder$State.class)
+Dec 03, 2019 6:49:41 PM scala.meta.internal.pc.CompletionProvider scala$meta$internal$pc$CompletionProvider$$loadSymbolFromClassfile
+WARNING: no such symbol: Classfile(play/shaded/ahc/io/netty/handler/codec/socksx/v5/,Socks5CommandResponseDecoder$State.class)
+Dec 03, 2019 6:49:41 PM scala.meta.internal.pc.CompletionProvider scala$meta$internal$pc$CompletionProvider$$loadSymbolFromClassfile
+WARNING: no such symbol: Classfile(play/shaded/ahc/io/netty/handler/codec/socksx/v5/,Socks5InitialRequestDecoder$State.class)
+Dec 03, 2019 6:49:41 PM scala.meta.internal.pc.CompletionProvider scala$meta$internal$pc$CompletionProvider$$loadSymbolFromClassfile
+WARNING: no such symbol: Classfile(play/shaded/ahc/io/netty/handler/codec/socksx/v5/,Socks5InitialResponseDecoder$State.class)
+Dec 03, 2019 6:49:41 PM scala.meta.internal.pc.CompletionProvider scala$meta$internal$pc$CompletionProvider$$loadSymbolFromClassfile
+WARNING: no such symbol: Classfile(play/shaded/ahc/io/netty/handler/codec/socksx/v5/,Socks5PasswordAuthRequestDecoder$State.class)
+Dec 03, 2019 6:49:41 PM scala.meta.internal.pc.CompletionProvider scala$meta$internal$pc$CompletionProvider$$loadSymbolFromClassfile
+WARNING: no such symbol: Classfile(play/shaded/ahc/io/netty/handler/codec/socksx/v5/,Socks5PasswordAuthResponseDecoder$State.class)
+Dec 03, 2019 6:49:41 PM scala.meta.internal.pc.CompletionProvider scala$meta$internal$pc$CompletionProvider$$loadSymbolFromClassfile
+WARNING: no such symbol: Classfile(org/apache/http/impl/auth/,GGSSchemeBase$State.class)
+Dec 03, 2019 6:49:41 PM scala.meta.internal.pc.CompletionProvider scala$meta$internal$pc$CompletionProvider$$loadSymbolFromClassfile
+WARNING: no such symbol: Classfile(io/netty/handler/codec/http/websocketx/,WebSocket08FrameDecoder$State.class)
+Dec 03, 2019 6:49:41 PM scala.meta.internal.pc.CompletionProvider scala$meta$internal$pc$CompletionProvider$$loadSymbolFromClassfile
+WARNING: no such symbol: Classfile(org/apache/http/impl/auth/,NTLMScheme$State.class)
+Dec 03, 2019 6:49:41 PM scala.meta.internal.pc.CompletionProvider scala$meta$internal$pc$CompletionProvider$$loadSymbolFromClassfile
+WARNING: no such symbol: Classfile(com/typesafe/netty/,HandlerSubscriber$State.class)
+Dec 03, 2019 6:49:41 PM scala.meta.internal.pc.CompletionProvider scala$meta$internal$pc$CompletionProvider$$loadSymbolFromClassfile
+WARNING: no such symbol: Classfile(org/eclipse/jetty/http/,QuotedCSV$State.class)
+Dec 03, 2019 6:49:41 PM scala.meta.internal.pc.CompletionProvider scala$meta$internal$pc$CompletionProvider$$loadSymbolFromClassfile
+WARNING: no such symbol: Classfile(org/eclipse/jetty/websocket/common/,Parser$State.class)
+Dec 03, 2019 6:49:41 PM scala.meta.internal.pc.CompletionProvider scala$meta$internal$pc$CompletionProvider$$loadSymbolFromClassfile
+WARNING: no such symbol: Classfile(play/shaded/ahc/com/typesafe/netty/,HandlerSubscriber$State.class)
+Dec 03, 2019 6:49:41 PM scala.meta.internal.pc.CompletionProvider scala$meta$internal$pc$CompletionProvider$$loadSymbolFromClassfile
+WARNING: no such symbol: Classfile(io/netty/handler/codec/spdy/,SpdyFrameDecoder$State.class)
+Dec 03, 2019 6:49:41 PM scala.meta.internal.pc.CompletionProvider scala$meta$internal$pc$CompletionProvider$$loadSymbolFromClassfile
+WARNING: no such symbol: Classfile(io/netty/handler/codec/spdy/,SpdyHeaderBlockRawDecoder$State.class)
+Dec 03, 2019 6:49:41 PM scala.meta.internal.pc.CompletionProvider scala$meta$internal$pc$CompletionProvider$$loadSymbolFromClassfile
+WARNING: no such symbol: Classfile(org/apache/commons/lang3/time/,StopWatch$State.class)
+Dec 03, 2019 6:49:41 PM scala.meta.internal.pc.CompletionProvider scala$meta$internal$pc$CompletionProvider$$loadSymbolFromClassfile
+WARNING: no such symbol: Classfile(play/shaded/ahc/io/netty/handler/codec/socks/,SocksAuthRequestDecoder$State.class)
+Dec 03, 2019 6:49:41 PM scala.meta.internal.pc.CompletionProvider scala$meta$internal$pc$CompletionProvider$$loadSymbolFromClassfile
+WARNING: no such symbol: Classfile(play/shaded/ahc/io/netty/handler/codec/socks/,SocksAuthResponseDecoder$State.class)
+Dec 03, 2019 6:49:41 PM scala.meta.internal.pc.CompletionProvider scala$meta$internal$pc$CompletionProvider$$loadSymbolFromClassfile
+WARNING: no such symbol: Classfile(play/shaded/ahc/io/netty/handler/codec/socks/,SocksCmdRequestDecoder$State.class)
+Dec 03, 2019 6:49:41 PM scala.meta.internal.pc.CompletionProvider scala$meta$internal$pc$CompletionProvider$$loadSymbolFromClassfile
+WARNING: no such symbol: Classfile(play/shaded/ahc/io/netty/handler/codec/socks/,SocksCmdResponseDecoder$State.class)
+Dec 03, 2019 6:49:41 PM scala.meta.internal.pc.CompletionProvider scala$meta$internal$pc$CompletionProvider$$loadSymbolFromClassfile
+WARNING: no such symbol: Classfile(play/shaded/ahc/io/netty/handler/codec/socks/,SocksInitRequestDecoder$State.class)
+Dec 03, 2019 6:49:41 PM scala.meta.internal.pc.CompletionProvider scala$meta$internal$pc$CompletionProvider$$loadSymbolFromClassfile
+WARNING: no such symbol: Classfile(play/shaded/ahc/io/netty/handler/codec/socks/,SocksInitResponseDecoder$State.class)
+Dec 03, 2019 6:49:41 PM scala.meta.internal.pc.CompletionProvider scala$meta$internal$pc$CompletionProvider$$loadSymbolFromClassfile
+WARNING: no such symbol: Classfile(play/shaded/ahc/io/netty/handler/codec/socksx/v4/,Socks4ClientDecoder$State.class)
+Dec 03, 2019 6:49:41 PM scala.meta.internal.pc.CompletionProvider scala$meta$internal$pc$CompletionProvider$$loadSymbolFromClassfile
+WARNING: no such symbol: Classfile(play/shaded/ahc/io/netty/handler/codec/socksx/v4/,Socks4ServerDecoder$State.class)
+Dec 03, 2019 6:49:41 PM scala.meta.internal.pc.CompletionProvider scala$meta$internal$pc$CompletionProvider$$loadSymbolFromClassfile
+WARNING: no such symbol: Classfile(play/shaded/ahc/io/netty/handler/codec/socksx/v5/,Socks5CommandRequestDecoder$State.class)
+Dec 03, 2019 6:49:41 PM scala.meta.internal.pc.CompletionProvider scala$meta$internal$pc$CompletionProvider$$loadSymbolFromClassfile
+WARNING: no such symbol: Classfile(play/shaded/ahc/io/netty/handler/codec/socksx/v5/,Socks5CommandResponseDecoder$State.class)
+Dec 03, 2019 6:49:41 PM scala.meta.internal.pc.CompletionProvider scala$meta$internal$pc$CompletionProvider$$loadSymbolFromClassfile
+WARNING: no such symbol: Classfile(play/shaded/ahc/io/netty/handler/codec/socksx/v5/,Socks5InitialRequestDecoder$State.class)
+Dec 03, 2019 6:49:41 PM scala.meta.internal.pc.CompletionProvider scala$meta$internal$pc$CompletionProvider$$loadSymbolFromClassfile
+WARNING: no such symbol: Classfile(play/shaded/ahc/io/netty/handler/codec/socksx/v5/,Socks5InitialResponseDecoder$State.class)
+Dec 03, 2019 6:49:41 PM scala.meta.internal.pc.CompletionProvider scala$meta$internal$pc$CompletionProvider$$loadSymbolFromClassfile
+WARNING: no such symbol: Classfile(play/shaded/ahc/io/netty/handler/codec/socksx/v5/,Socks5PasswordAuthRequestDecoder$State.class)
+Dec 03, 2019 6:49:41 PM scala.meta.internal.pc.CompletionProvider scala$meta$internal$pc$CompletionProvider$$loadSymbolFromClassfile
+WARNING: no such symbol: Classfile(play/shaded/ahc/io/netty/handler/codec/socksx/v5/,Socks5PasswordAuthResponseDecoder$State.class)
+Dec 03, 2019 6:49:41 PM scala.meta.internal.pc.CompletionProvider scala$meta$internal$pc$CompletionProvider$$loadSymbolFromClassfile
+WARNING: no such symbol: Classfile(org/apache/http/impl/auth/,GGSSchemeBase$State.class)
+Dec 03, 2019 6:49:41 PM scala.meta.internal.pc.CompletionProvider scala$meta$internal$pc$CompletionProvider$$loadSymbolFromClassfile
+WARNING: no such symbol: Classfile(io/netty/handler/codec/http/websocketx/,WebSocket08FrameDecoder$State.class)
+Dec 03, 2019 6:49:41 PM scala.meta.internal.pc.CompletionProvider scala$meta$internal$pc$CompletionProvider$$loadSymbolFromClassfile
+WARNING: no such symbol: Classfile(org/apache/http/impl/auth/,NTLMScheme$State.class)
+Dec 03, 2019 6:49:41 PM scala.meta.internal.pc.CompletionProvider scala$meta$internal$pc$CompletionProvider$$loadSymbolFromClassfile
+WARNING: no such symbol: Classfile(com/typesafe/netty/,HandlerSubscriber$State.class)
+Dec 03, 2019 6:49:41 PM scala.meta.internal.pc.CompletionProvider scala$meta$internal$pc$CompletionProvider$$loadSymbolFromClassfile
+WARNING: no such symbol: Classfile(org/eclipse/jetty/http/,QuotedCSV$State.class)
+Dec 03, 2019 6:49:41 PM scala.meta.internal.pc.CompletionProvider scala$meta$internal$pc$CompletionProvider$$loadSymbolFromClassfile
+WARNING: no such symbol: Classfile(org/eclipse/jetty/websocket/common/,Parser$State.class)
+Dec 03, 2019 6:49:41 PM scala.meta.internal.pc.CompletionProvider scala$meta$internal$pc$CompletionProvider$$loadSymbolFromClassfile
+WARNING: no such symbol: Classfile(play/shaded/ahc/com/typesafe/netty/,HandlerSubscriber$State.class)
+Dec 03, 2019 6:49:41 PM scala.meta.internal.pc.CompletionProvider scala$meta$internal$pc$CompletionProvider$$loadSymbolFromClassfile
+WARNING: no such symbol: Classfile(org/eclipse/jetty/http/,HttpURI$State.class)
+Dec 03, 2019 6:49:41 PM scala.meta.internal.pc.CompletionProvider scala$meta$internal$pc$CompletionProvider$$loadSymbolFromClassfile
+WARNING: no such symbol: Classfile(org/eclipse/jetty/http/,HttpParser$State.class)
+Dec 03, 2019 6:49:41 PM scala.meta.internal.pc.CompletionProvider scala$meta$internal$pc$CompletionProvider$$loadSymbolFromClassfile
+WARNING: no such symbol: Classfile(org/eclipse/jetty/websocket/common/io/,AbstractWebSocketConnection$Stats.class)
+Dec 03, 2019 6:49:41 PM scala.meta.internal.pc.CompletionProvider scala$meta$internal$pc$CompletionProvider$$loadSymbolFromClassfile
+WARNING: no such symbol: Classfile(io/netty/channel/local/,LocalChannel$State.class)
+Dec 03, 2019 6:49:41 PM scala.meta.internal.pc.CompletionProvider scala$meta$internal$pc$CompletionProvider$$loadSymbolFromClassfile
+WARNING: no such symbol: Classfile(play/shaded/ahc/org/asynchttpclient/,AsyncHandler$State.class)
+Dec 03, 2019 6:49:41 PM scala.meta.internal.pc.CompletionProvider scala$meta$internal$pc$CompletionProvider$$loadSymbolFromClassfile
+WARNING: no such symbol: Classfile(io/netty/handler/codec/compression/,Bzip2Decoder$State.class)
+Dec 03, 2019 6:49:41 PM scala.meta.internal.pc.CompletionProvider scala$meta$internal$pc$CompletionProvider$$loadSymbolFromClassfile
+WARNING: no such symbol: Classfile(io/netty/handler/codec/compression/,Bzip2Encoder$State.class)
+Dec 03, 2019 6:49:41 PM scala.meta.internal.pc.CompletionProvider scala$meta$internal$pc$CompletionProvider$$loadSymbolFromClassfile
+WARNING: no such symbol: Classfile(play/shaded/ahc/io/netty/channel/local/,LocalChannel$State.class)
+Dec 03, 2019 6:49:41 PM scala.meta.internal.pc.CompletionProvider scala$meta$internal$pc$CompletionProvider$$loadSymbolFromClassfile
+WARNING: no such symbol: Classfile(org/eclipse/jetty/http/,HttpGenerator$State.class)
+Dec 03, 2019 6:49:41 PM scala.meta.internal.pc.CompletionProvider scala$meta$internal$pc$CompletionProvider$$loadSymbolFromClassfile
+WARNING: no such symbol: Classfile(org/eclipse/jetty/util/thread/strategy/,EatWhatYouKill$State.class)
+Dec 03, 2019 6:49:41 PM scala.meta.internal.pc.CompletionProvider scala$meta$internal$pc$CompletionProvider$$loadSymbolFromClassfile
+WARNING: no such symbol: Classfile(org/eclipse/jetty/util/thread/strategy/,ProduceConsume$State.class)
+Dec 03, 2019 6:49:41 PM scala.meta.internal.pc.CompletionProvider scala$meta$internal$pc$CompletionProvider$$loadSymbolFromClassfile
+WARNING: no such symbol: Classfile(org/eclipse/jetty/http/,MultiPartParser$State.class)
+Dec 03, 2019 6:49:41 PM scala.meta.internal.pc.CompletionProvider scala$meta$internal$pc$CompletionProvider$$loadSymbolFromClassfile
+WARNING: no such symbol: Classfile(play/shaded/ahc/io/netty/channel/embedded/,EmbeddedChannel$State.class)
+Dec 03, 2019 6:49:41 PM scala.meta.internal.pc.CompletionProvider scala$meta$internal$pc$CompletionProvider$$loadSymbolFromClassfile
+WARNING: no such symbol: Classfile(com/typesafe/netty/,HandlerPublisher$State.class)
+Dec 03, 2019 6:49:41 PM scala.meta.internal.pc.CompletionProvider scala$meta$internal$pc$CompletionProvider$$loadSymbolFromClassfile
+WARNING: no such symbol: Classfile(play/shaded/ahc/com/typesafe/netty/,HandlerPublisher$State.class)
+Dec 03, 2019 6:49:41 PM scala.meta.internal.pc.CompletionProvider scala$meta$internal$pc$CompletionProvider$$loadSymbolFromClassfile
+WARNING: no such symbol: Classfile(org/eclipse/jetty/http/,GZIPContentDecoder$State.class)
+Dec 03, 2019 6:49:41 PM scala.meta.internal.pc.CompletionProvider scala$meta$internal$pc$CompletionProvider$$loadSymbolFromClassfile
+WARNING: no such symbol: Classfile(org/eclipse/jetty/util/,CompletableCallback$State.class)
+Dec 03, 2019 6:49:41 PM scala.meta.internal.pc.CompletionProvider scala$meta$internal$pc$CompletionProvider$$loadSymbolFromClassfile
+WARNING: no such symbol: Classfile(org/eclipse/jetty/util/thread/strategy/,ProduceExecuteConsume$State.class)
+Dec 03, 2019 6:49:41 PM scala.meta.internal.pc.CompletionProvider scala$meta$internal$pc$CompletionProvider$$loadSymbolFromClassfile
+WARNING: no such symbol: Classfile(org/eclipse/jetty/websocket/common/io/http/,HttpResponseHeaderParser$State.class)
+Dec 03, 2019 6:49:41 PM scala.meta.internal.pc.CompletionProvider scala$meta$internal$pc$CompletionProvider$$loadSymbolFromClassfile
+WARNING: no such symbol: Classfile(org/eclipse/jetty/websocket/api/util/,QuoteUtil$DeQuotingStringIterator$State.class)
+Dec 03, 2019 6:49:41 PM scala.meta.internal.pc.CompletionProvider scala$meta$internal$pc$CompletionProvider$$loadSymbolFromClassfile
+WARNING: no such symbol: Classfile(net/bytebuddy/description/annotation/,AnnotationValue$Loaded$State.class)
+Dec 03, 2019 6:49:41 PM scala.meta.internal.pc.CompletionProvider scala$meta$internal$pc$CompletionProvider$$loadSymbolFromClassfile
+WARNING: no such symbol: Classfile(sbt/testing/,Status.class)
+INFO  compiling root (1 scala source)
+INFO  time: compiled root in 0.81s
+INFO  compiling root (1 scala source)
+INFO  time: compiled root in 0.26s
+INFO  compiling root (1 scala source)
+INFO  time: compiled root in 0.78s
+INFO  compiling root (1 scala source)
+INFO  time: compiled root in 0.77s
+INFO  compiling root (1 scala source)
+INFO  time: compiled root in 0.71s
+INFO  compiling root (1 scala source)
+INFO  time: compiled root in 1.24s
+INFO  compiling root (1 scala source)
+INFO  time: compiled root in 0.76s
+INFO  compiling root (1 scala source)
+INFO  time: compiled root in 0.17s
+ERROR Failed to compile 'root'
+INFO  compiling root (1 scala source)
+INFO  time: compiled root in 0.26s
+INFO  compiling root (1 scala source)
+INFO  time: compiled root in 0.21s
+ERROR Failed to compile 'root'
+INFO  compiling root (1 scala source)
+INFO  time: compiled root in 0.8s
+INFO  compiling root (1 scala source)
+INFO  time: compiled root in 0.16s
+ERROR Failed to compile 'root'
+INFO  compiling root (1 scala source)
+INFO  time: compiled root in 0.29s
+INFO  compiling root (1 scala source)
+INFO  time: compiled root in 0.17s
+ERROR Failed to compile 'root'
+INFO  compiling root (1 scala source)
+INFO  time: compiled root in 0.77s
+INFO  compiling root (1 scala source)
+INFO  time: compiled root in 0.12s
+ERROR Failed to compile 'root'
+INFO  compiling root (1 scala source)
+INFO  time: compiled root in 62ms
+ERROR Failed to compile 'root'
+Dec 03, 2019 7:06:04 PM scala.meta.internal.pc.CompletionProvider scala$meta$internal$pc$CompletionProvider$$loadSymbolFromClassfile
+WARNING: no such symbol: Classfile(org/openqa/selenium/json/,Json.class)
+Dec 03, 2019 7:06:04 PM scala.meta.internal.pc.CompletionProvider scala$meta$internal$pc$CompletionProvider$$loadSymbolFromClassfile
+WARNING: no such symbol: Classfile(org/openqa/selenium/json/,JsonType.class)
+Dec 03, 2019 7:06:04 PM scala.meta.internal.pc.CompletionProvider scala$meta$internal$pc$CompletionProvider$$loadSymbolFromClassfile
+WARNING: no such symbol: Classfile(org/openqa/selenium/json/,JsonInput.class)
+INFO  compiling root (1 scala source)
+INFO  time: compiled root in 0.14s
+ERROR Failed to compile 'root'
+INFO  compiling root (1 scala source)
+INFO  time: compiled root in 89ms
+ERROR Failed to compile 'root'
+INFO  compiling root (1 scala source)
+INFO  time: compiled root in 0.89s
+INFO  compiling root (4 scala sources and 1 java source)
+INFO  time: compiled root in 2.02s
+INFO  compiling root (1 scala source)
+INFO  time: compiled root in 0.26s
+INFO  compiling root (1 scala source)
+INFO  time: compiled root in 0.12s
+ERROR Failed to compile 'root'
+INFO  compiling root (1 scala source)
+INFO  time: compiled root in 83ms
+ERROR Failed to compile 'root'
+INFO  compiling root (1 scala source)
+INFO  time: compiled root in 0.77s
+Dec 03, 2019 7:10:24 PM scala.meta.internal.pc.CompletionProvider scala$meta$internal$pc$CompletionProvider$$loadSymbolFromClassfile
+WARNING: no such symbol: Classfile(org/eclipse/jetty/util/annotation/,Name.class)
+Dec 03, 2019 7:10:24 PM scala.meta.internal.pc.CompletionProvider scala$meta$internal$pc$CompletionProvider$$loadSymbolFromClassfile
+WARNING: no such symbol: Classfile(com/gargoylesoftware/htmlunit/javascript/regexp/,RegExpJsToJavaConverter$Tape.class)
+Dec 03, 2019 7:10:24 PM scala.meta.internal.pc.CompletionProvider scala$meta$internal$pc$CompletionProvider$$loadSymbolFromClassfile
+WARNING: no such symbol: Classfile(org/eclipse/jetty/http/,MimeTypes$Type.class)
+Dec 03, 2019 7:10:24 PM scala.meta.internal.pc.CompletionProvider scala$meta$internal$pc$CompletionProvider$$loadSymbolFromClassfile
+WARNING: no such symbol: Classfile(org/apache/commons/lang3/arch/,Processor$Type.class)
+Dec 03, 2019 7:10:24 PM scala.meta.internal.pc.CompletionProvider scala$meta$internal$pc$CompletionProvider$$loadSymbolFromClassfile
+WARNING: no such symbol: Classfile(org/eclipse/jetty/http/,HttpTokens$Type.class)
+Dec 03, 2019 7:10:24 PM scala.meta.internal.pc.CompletionProvider scala$meta$internal$pc$CompletionProvider$$loadSymbolFromClassfile
+WARNING: no such symbol: Classfile(org/eclipse/jetty/http/,HttpStatus$Code.class)
+Dec 03, 2019 7:10:24 PM scala.meta.internal.pc.CompletionProvider scala$meta$internal$pc$CompletionProvider$$loadSymbolFromClassfile
+WARNING: no such symbol: Classfile(org/eclipse/jetty/util/thread/strategy/,EatWhatYouKill$Mode.class)
+Dec 03, 2019 7:10:24 PM scala.meta.internal.pc.CompletionProvider scala$meta$internal$pc$CompletionProvider$$loadSymbolFromClassfile
+WARNING: no such symbol: Classfile(org/eclipse/jetty/http/,QuotedCSV$State.class)
+Dec 03, 2019 7:10:24 PM scala.meta.internal.pc.CompletionProvider scala$meta$internal$pc$CompletionProvider$$loadSymbolFromClassfile
+WARNING: no such symbol: Classfile(org/eclipse/jetty/util/,CompletableCallback$State.class)
+Dec 03, 2019 7:10:24 PM scala.meta.internal.pc.CompletionProvider scala$meta$internal$pc$CompletionProvider$$loadSymbolFromClassfile
+WARNING: no such symbol: Classfile(org/apache/http/impl/auth/,GGSSchemeBase$State.class)
+Dec 03, 2019 7:10:24 PM scala.meta.internal.pc.CompletionProvider scala$meta$internal$pc$CompletionProvider$$loadSymbolFromClassfile
+WARNING: no such symbol: Classfile(org/eclipse/jetty/util/thread/strategy/,ProduceConsume$State.class)
+Dec 03, 2019 7:10:24 PM scala.meta.internal.pc.CompletionProvider scala$meta$internal$pc$CompletionProvider$$loadSymbolFromClassfile
+WARNING: no such symbol: Classfile(org/eclipse/jetty/util/thread/strategy/,ProduceExecuteConsume$State.class)
+Dec 03, 2019 7:10:24 PM scala.meta.internal.pc.CompletionProvider scala$meta$internal$pc$CompletionProvider$$loadSymbolFromClassfile
+WARNING: no such symbol: Classfile(org/eclipse/jetty/http/,HttpParser$State.class)
+Dec 03, 2019 7:10:24 PM scala.meta.internal.pc.CompletionProvider scala$meta$internal$pc$CompletionProvider$$loadSymbolFromClassfile
+WARNING: no such symbol: Classfile(org/eclipse/jetty/http/,HttpURI$State.class)
+Dec 03, 2019 7:10:24 PM scala.meta.internal.pc.CompletionProvider scala$meta$internal$pc$CompletionProvider$$loadSymbolFromClassfile
+WARNING: no such symbol: Classfile(org/eclipse/jetty/http/,MultiPartParser$State.class)
+Dec 03, 2019 7:10:24 PM scala.meta.internal.pc.CompletionProvider scala$meta$internal$pc$CompletionProvider$$loadSymbolFromClassfile
+WARNING: no such symbol: Classfile(org/eclipse/jetty/util/thread/strategy/,EatWhatYouKill$State.class)
+Dec 03, 2019 7:11:24 PM scala.meta.internal.pc.CompletionProvider scala$meta$internal$pc$CompletionProvider$$loadSymbolFromClassfile
+WARNING: no such symbol: Classfile(org/apache/commons/text/lookup/,StringLookup.class)
+Dec 03, 2019 7:11:24 PM scala.meta.internal.pc.CompletionProvider scala$meta$internal$pc$CompletionProvider$$loadSymbolFromClassfile
+WARNING: no such symbol: Classfile(org/apache/commons/text/lookup/,MapStringLookup.class)
+Dec 03, 2019 7:11:24 PM scala.meta.internal.pc.CompletionProvider scala$meta$internal$pc$CompletionProvider$$loadSymbolFromClassfile
+WARNING: no such symbol: Classfile(org/apache/commons/text/lookup/,DateStringLookup.class)
+Dec 03, 2019 7:11:24 PM scala.meta.internal.pc.CompletionProvider scala$meta$internal$pc$CompletionProvider$$loadSymbolFromClassfile
+WARNING: no such symbol: Classfile(org/apache/commons/text/lookup/,NullStringLookup.class)
+Dec 03, 2019 7:11:24 PM scala.meta.internal.pc.CompletionProvider scala$meta$internal$pc$CompletionProvider$$loadSymbolFromClassfile
+WARNING: no such symbol: Classfile(org/apache/commons/text/lookup/,LocalHostStringLookup.class)
+Dec 03, 2019 7:11:24 PM scala.meta.internal.pc.CompletionProvider scala$meta$internal$pc$CompletionProvider$$loadSymbolFromClassfile
+WARNING: no such symbol: Classfile(org/apache/commons/text/lookup/,InterpolatorStringLookup.class)
+Dec 03, 2019 7:11:24 PM scala.meta.internal.pc.CompletionProvider scala$meta$internal$pc$CompletionProvider$$loadSymbolFromClassfile
+WARNING: no such symbol: Classfile(org/apache/commons/text/lookup/,JavaPlatformStringLookup.class)
+Dec 03, 2019 7:11:24 PM scala.meta.internal.pc.CompletionProvider scala$meta$internal$pc$CompletionProvider$$loadSymbolFromClassfile
+WARNING: no such symbol: Classfile(org/apache/commons/text/lookup/,SystemPropertyStringLookup.class)
+Dec 03, 2019 7:11:24 PM scala.meta.internal.pc.CompletionProvider scala$meta$internal$pc$CompletionProvider$$loadSymbolFromClassfile
+WARNING: no such symbol: Classfile(org/apache/commons/text/lookup/,ResourceBundleStringLookup.class)
+Dec 03, 2019 7:11:24 PM scala.meta.internal.pc.CompletionProvider scala$meta$internal$pc$CompletionProvider$$loadSymbolFromClassfile
+WARNING: no such symbol: Classfile(org/apache/commons/text/lookup/,EnvironmentVariableStringLookup.class)
+Dec 03, 2019 7:11:28 PM scala.meta.internal.pc.CompletionProvider scala$meta$internal$pc$CompletionProvider$$loadSymbolFromClassfile
+WARNING: no such symbol: Classfile(org/eclipse/jetty/util/annotation/,Name.class)
+Dec 03, 2019 7:11:28 PM scala.meta.internal.pc.CompletionProvider scala$meta$internal$pc$CompletionProvider$$loadSymbolFromClassfile
+WARNING: no such symbol: Classfile(com/gargoylesoftware/htmlunit/javascript/regexp/,RegExpJsToJavaConverter$Tape.class)
+Dec 03, 2019 7:11:28 PM scala.meta.internal.pc.CompletionProvider scala$meta$internal$pc$CompletionProvider$$loadSymbolFromClassfile
+WARNING: no such symbol: Classfile(org/eclipse/jetty/http/,MimeTypes$Type.class)
+Dec 03, 2019 7:11:28 PM scala.meta.internal.pc.CompletionProvider scala$meta$internal$pc$CompletionProvider$$loadSymbolFromClassfile
+WARNING: no such symbol: Classfile(org/apache/commons/lang3/arch/,Processor$Type.class)
+Dec 03, 2019 7:11:28 PM scala.meta.internal.pc.CompletionProvider scala$meta$internal$pc$CompletionProvider$$loadSymbolFromClassfile
+WARNING: no such symbol: Classfile(org/eclipse/jetty/http/,HttpTokens$Type.class)
+Dec 03, 2019 7:11:28 PM scala.meta.internal.pc.CompletionProvider scala$meta$internal$pc$CompletionProvider$$loadSymbolFromClassfile
+WARNING: no such symbol: Classfile(org/eclipse/jetty/http/,HttpStatus$Code.class)
+Dec 03, 2019 7:11:28 PM scala.meta.internal.pc.CompletionProvider scala$meta$internal$pc$CompletionProvider$$loadSymbolFromClassfile
+WARNING: no such symbol: Classfile(org/eclipse/jetty/util/thread/strategy/,EatWhatYouKill$Mode.class)
+Dec 03, 2019 7:11:28 PM scala.meta.internal.pc.CompletionProvider scala$meta$internal$pc$CompletionProvider$$loadSymbolFromClassfile
+WARNING: no such symbol: Classfile(org/eclipse/jetty/http/,QuotedCSV$State.class)
+Dec 03, 2019 7:11:28 PM scala.meta.internal.pc.CompletionProvider scala$meta$internal$pc$CompletionProvider$$loadSymbolFromClassfile
+WARNING: no such symbol: Classfile(org/eclipse/jetty/util/,CompletableCallback$State.class)
+Dec 03, 2019 7:11:28 PM scala.meta.internal.pc.CompletionProvider scala$meta$internal$pc$CompletionProvider$$loadSymbolFromClassfile
+WARNING: no such symbol: Classfile(org/apache/http/impl/auth/,GGSSchemeBase$State.class)
+Dec 03, 2019 7:11:28 PM scala.meta.internal.pc.CompletionProvider scala$meta$internal$pc$CompletionProvider$$loadSymbolFromClassfile
+WARNING: no such symbol: Classfile(org/eclipse/jetty/util/thread/strategy/,ProduceConsume$State.class)
+Dec 03, 2019 7:11:28 PM scala.meta.internal.pc.CompletionProvider scala$meta$internal$pc$CompletionProvider$$loadSymbolFromClassfile
+WARNING: no such symbol: Classfile(org/eclipse/jetty/util/thread/strategy/,ProduceExecuteConsume$State.class)
+Dec 03, 2019 7:11:28 PM scala.meta.internal.pc.CompletionProvider scala$meta$internal$pc$CompletionProvider$$loadSymbolFromClassfile
+WARNING: no such symbol: Classfile(org/eclipse/jetty/http/,HttpParser$State.class)
+Dec 03, 2019 7:11:28 PM scala.meta.internal.pc.CompletionProvider scala$meta$internal$pc$CompletionProvider$$loadSymbolFromClassfile
+WARNING: no such symbol: Classfile(org/eclipse/jetty/http/,HttpURI$State.class)
+Dec 03, 2019 7:11:28 PM scala.meta.internal.pc.CompletionProvider scala$meta$internal$pc$CompletionProvider$$loadSymbolFromClassfile
+WARNING: no such symbol: Classfile(org/eclipse/jetty/http/,MultiPartParser$State.class)
+Dec 03, 2019 7:11:28 PM scala.meta.internal.pc.CompletionProvider scala$meta$internal$pc$CompletionProvider$$loadSymbolFromClassfile
+WARNING: no such symbol: Classfile(org/eclipse/jetty/util/thread/strategy/,EatWhatYouKill$State.class)
+INFO  compiling root (1 scala source)
+INFO  time: compiled root in 0.88s
+INFO  compiling root (1 scala source)
+INFO  time: compiled root in 0.26s
+INFO  compiling root (1 scala source)
+INFO  time: compiled root in 0.8s
+INFO  compiling root (1 scala source)
+INFO  time: compiled root in 0.14s
+ERROR Failed to compile 'root'
+INFO  compiling root (1 scala source)
+INFO  time: compiled root in 64ms
+ERROR Failed to compile 'root'
+INFO  compiling root (1 scala source)
+INFO  time: compiled root in 0.77s
+INFO  compiling root (1 scala source)
+INFO  time: compiled root in 0.84s
+INFO  compiling root (1 scala source)
+INFO  time: compiled root in 0.77s
+Dec 03, 2019 7:13:01 PM scala.meta.internal.pc.CompletionProvider scala$meta$internal$pc$CompletionProvider$$loadSymbolFromClassfile
+WARNING: no such symbol: Classfile(org/eclipse/jetty/util/annotation/,Name.class)
+Dec 03, 2019 7:13:01 PM scala.meta.internal.pc.CompletionProvider scala$meta$internal$pc$CompletionProvider$$loadSymbolFromClassfile
+WARNING: no such symbol: Classfile(com/gargoylesoftware/htmlunit/javascript/regexp/,RegExpJsToJavaConverter$Tape.class)
+Dec 03, 2019 7:13:01 PM scala.meta.internal.pc.CompletionProvider scala$meta$internal$pc$CompletionProvider$$loadSymbolFromClassfile
+WARNING: no such symbol: Classfile(org/eclipse/jetty/http/,MimeTypes$Type.class)
+Dec 03, 2019 7:13:01 PM scala.meta.internal.pc.CompletionProvider scala$meta$internal$pc$CompletionProvider$$loadSymbolFromClassfile
+WARNING: no such symbol: Classfile(org/apache/commons/lang3/arch/,Processor$Type.class)
+Dec 03, 2019 7:13:01 PM scala.meta.internal.pc.CompletionProvider scala$meta$internal$pc$CompletionProvider$$loadSymbolFromClassfile
+WARNING: no such symbol: Classfile(org/eclipse/jetty/http/,HttpTokens$Type.class)
+Dec 03, 2019 7:13:01 PM scala.meta.internal.pc.CompletionProvider scala$meta$internal$pc$CompletionProvider$$loadSymbolFromClassfile
+WARNING: no such symbol: Classfile(org/eclipse/jetty/http/,HttpStatus$Code.class)
+Dec 03, 2019 7:13:01 PM scala.meta.internal.pc.CompletionProvider scala$meta$internal$pc$CompletionProvider$$loadSymbolFromClassfile
+WARNING: no such symbol: Classfile(org/eclipse/jetty/util/thread/strategy/,EatWhatYouKill$Mode.class)
+Dec 03, 2019 7:13:01 PM scala.meta.internal.pc.CompletionProvider scala$meta$internal$pc$CompletionProvider$$loadSymbolFromClassfile
+WARNING: no such symbol: Classfile(org/eclipse/jetty/http/,QuotedCSV$State.class)
+Dec 03, 2019 7:13:01 PM scala.meta.internal.pc.CompletionProvider scala$meta$internal$pc$CompletionProvider$$loadSymbolFromClassfile
+WARNING: no such symbol: Classfile(org/eclipse/jetty/util/,CompletableCallback$State.class)
+Dec 03, 2019 7:13:01 PM scala.meta.internal.pc.CompletionProvider scala$meta$internal$pc$CompletionProvider$$loadSymbolFromClassfile
+WARNING: no such symbol: Classfile(org/apache/http/impl/auth/,GGSSchemeBase$State.class)
+Dec 03, 2019 7:13:01 PM scala.meta.internal.pc.CompletionProvider scala$meta$internal$pc$CompletionProvider$$loadSymbolFromClassfile
+WARNING: no such symbol: Classfile(org/eclipse/jetty/util/thread/strategy/,ProduceConsume$State.class)
+Dec 03, 2019 7:13:01 PM scala.meta.internal.pc.CompletionProvider scala$meta$internal$pc$CompletionProvider$$loadSymbolFromClassfile
+WARNING: no such symbol: Classfile(org/eclipse/jetty/util/thread/strategy/,ProduceExecuteConsume$State.class)
+Dec 03, 2019 7:13:01 PM scala.meta.internal.pc.CompletionProvider scala$meta$internal$pc$CompletionProvider$$loadSymbolFromClassfile
+WARNING: no such symbol: Classfile(org/eclipse/jetty/http/,HttpParser$State.class)
+Dec 03, 2019 7:13:01 PM scala.meta.internal.pc.CompletionProvider scala$meta$internal$pc$CompletionProvider$$loadSymbolFromClassfile
+WARNING: no such symbol: Classfile(org/eclipse/jetty/http/,HttpURI$State.class)
+Dec 03, 2019 7:13:01 PM scala.meta.internal.pc.CompletionProvider scala$meta$internal$pc$CompletionProvider$$loadSymbolFromClassfile
+WARNING: no such symbol: Classfile(org/eclipse/jetty/http/,MultiPartParser$State.class)
+Dec 03, 2019 7:13:01 PM scala.meta.internal.pc.CompletionProvider scala$meta$internal$pc$CompletionProvider$$loadSymbolFromClassfile
+WARNING: no such symbol: Classfile(org/eclipse/jetty/util/thread/strategy/,EatWhatYouKill$State.class)
+INFO  compiling root (1 scala source)
+INFO  time: compiled root in 1.41s
+Dec 03, 2019 7:14:13 PM scala.meta.internal.pc.CompletionProvider scala$meta$internal$pc$CompletionProvider$$loadSymbolFromClassfile
+WARNING: no such symbol: Classfile(org/apache/commons/text/lookup/,StringLookup.class)
+Dec 03, 2019 7:14:13 PM scala.meta.internal.pc.CompletionProvider scala$meta$internal$pc$CompletionProvider$$loadSymbolFromClassfile
+WARNING: no such symbol: Classfile(org/apache/commons/text/lookup/,MapStringLookup.class)
+Dec 03, 2019 7:14:13 PM scala.meta.internal.pc.CompletionProvider scala$meta$internal$pc$CompletionProvider$$loadSymbolFromClassfile
+WARNING: no such symbol: Classfile(org/apache/commons/text/lookup/,DateStringLookup.class)
+Dec 03, 2019 7:14:13 PM scala.meta.internal.pc.CompletionProvider scala$meta$internal$pc$CompletionProvider$$loadSymbolFromClassfile
+WARNING: no such symbol: Classfile(org/apache/commons/text/lookup/,NullStringLookup.class)
+Dec 03, 2019 7:14:13 PM scala.meta.internal.pc.CompletionProvider scala$meta$internal$pc$CompletionProvider$$loadSymbolFromClassfile
+WARNING: no such symbol: Classfile(org/apache/commons/text/lookup/,LocalHostStringLookup.class)
+Dec 03, 2019 7:14:13 PM scala.meta.internal.pc.CompletionProvider scala$meta$internal$pc$CompletionProvider$$loadSymbolFromClassfile
+WARNING: no such symbol: Classfile(org/apache/commons/text/lookup/,InterpolatorStringLookup.class)
+Dec 03, 2019 7:14:13 PM scala.meta.internal.pc.CompletionProvider scala$meta$internal$pc$CompletionProvider$$loadSymbolFromClassfile
+WARNING: no such symbol: Classfile(org/apache/commons/text/lookup/,JavaPlatformStringLookup.class)
+Dec 03, 2019 7:14:13 PM scala.meta.internal.pc.CompletionProvider scala$meta$internal$pc$CompletionProvider$$loadSymbolFromClassfile
+WARNING: no such symbol: Classfile(org/apache/commons/text/lookup/,SystemPropertyStringLookup.class)
+Dec 03, 2019 7:14:13 PM scala.meta.internal.pc.CompletionProvider scala$meta$internal$pc$CompletionProvider$$loadSymbolFromClassfile
+WARNING: no such symbol: Classfile(org/apache/commons/text/lookup/,ResourceBundleStringLookup.class)
+Dec 03, 2019 7:14:13 PM scala.meta.internal.pc.CompletionProvider scala$meta$internal$pc$CompletionProvider$$loadSymbolFromClassfile
+WARNING: no such symbol: Classfile(org/apache/commons/text/lookup/,EnvironmentVariableStringLookup.class)
+Dec 03, 2019 7:14:16 PM scala.meta.internal.pc.CompletionProvider scala$meta$internal$pc$CompletionProvider$$loadSymbolFromClassfile
+WARNING: no such symbol: Classfile(org/scalatest/matchers/,MatcherProducers$Composifier.class)
+Dec 03, 2019 7:14:16 PM scala.meta.internal.pc.CompletionProvider scala$meta$internal$pc$CompletionProvider$$loadSymbolFromClassfile
+WARNING: no such symbol: Classfile(org/scalatest/matchers/,TypeMatcherHelper.class)
+Dec 03, 2019 7:14:16 PM scala.meta.internal.pc.CompletionProvider scala$meta$internal$pc$CompletionProvider$$loadSymbolFromClassfile
+WARNING: no such symbol: Classfile(org/scalatest/matchers/,TypeMatcherHelper$.class)
+Dec 03, 2019 7:14:16 PM scala.meta.internal.pc.CompletionProvider scala$meta$internal$pc$CompletionProvider$$loadSymbolFromClassfile
+WARNING: no such symbol: Classfile(org/scalatest/matchers/,MatchPatternHelper.class)
+Dec 03, 2019 7:14:16 PM scala.meta.internal.pc.CompletionProvider scala$meta$internal$pc$CompletionProvider$$loadSymbolFromClassfile
+WARNING: no such symbol: Classfile(org/scalatest/matchers/,MatchPatternHelper$.class)
+INFO  compiling root (1 scala source)
+INFO  time: compiled root in 0.74s
+INFO  compiling root (1 scala source)
+INFO  time: compiled root in 0.77s
+INFO  compiling root (1 scala source)
+INFO  time: compiled root in 0.71s
+INFO  compiling root (1 scala source)
+INFO  time: compiled root in 0.2s
+INFO  compiling root (1 scala source)
+INFO  time: compiled root in 0.8s
+INFO  compiling root (1 scala source)
+INFO  time: compiled root in 0.8s
+INFO  compiling root (1 scala source)
+INFO  time: compiled root in 0.77s
+INFO  compiling root (1 scala source)
+INFO  time: compiled root in 0.82s
+INFO  compiling root (1 scala source)
+INFO  time: compiled root in 0.86s
+INFO  compiling root (1 scala source)
+INFO  time: compiled root in 0.93s
+INFO  compiling root (1 scala source)
+INFO  time: compiled root in 0.79s
+INFO  compiling root (1 scala source)
+INFO  time: compiled root in 0.86s
+INFO  compiling root (1 scala source)
+INFO  time: compiled root in 0.87s
+INFO  compiling root (1 scala source)
+INFO  time: compiled root in 0.84s
+INFO  compiling root (1 scala source)
+INFO  time: compiled root in 0.75s
+Dec 03, 2019 7:26:27 PM scala.meta.internal.pc.CompletionProvider scala$meta$internal$pc$CompletionProvider$$loadSymbolFromClassfile
+WARNING: no such symbol: Classfile(org/openqa/selenium/json/,JsonOutput.class)
+Dec 03, 2019 7:26:27 PM scala.meta.internal.pc.CompletionProvider scala$meta$internal$pc$CompletionProvider$$loadSymbolFromClassfile
+WARNING: no such symbol: Classfile(org/openqa/selenium/json/,JsonOutput$JsonObject.class)
+Dec 03, 2019 7:26:27 PM scala.meta.internal.pc.CompletionProvider scala$meta$internal$pc$CompletionProvider$$loadSymbolFromClassfile
+WARNING: no such symbol: Classfile(io/netty/handler/codec/json/,JsonObjectDecoder.class)
+Dec 03, 2019 7:26:40 PM scala.meta.internal.pc.CompletionProvider scala$meta$internal$pc$CompletionProvider$$loadSymbolFromClassfile
+WARNING: no such symbol: Classfile(org/openqa/selenium/json/,Json.class)
+Dec 03, 2019 7:26:40 PM scala.meta.internal.pc.CompletionProvider scala$meta$internal$pc$CompletionProvider$$loadSymbolFromClassfile
+WARNING: no such symbol: Classfile(org/openqa/selenium/json/,JsonType.class)
+Dec 03, 2019 7:26:40 PM scala.meta.internal.pc.CompletionProvider scala$meta$internal$pc$CompletionProvider$$loadSymbolFromClassfile
+WARNING: no such symbol: Classfile(org/openqa/selenium/json/,JsonInput.class)
+Dec 03, 2019 7:26:41 PM scala.meta.internal.pc.CompletionProvider scala$meta$internal$pc$CompletionProvider$$loadSymbolFromClassfile
+WARNING: no such symbol: Classfile(org/openqa/selenium/json/,Json.class)
+Dec 03, 2019 7:26:41 PM scala.meta.internal.pc.CompletionProvider scala$meta$internal$pc$CompletionProvider$$loadSymbolFromClassfile
+WARNING: no such symbol: Classfile(org/openqa/selenium/json/,JsonType.class)
+Dec 03, 2019 7:26:41 PM scala.meta.internal.pc.CompletionProvider scala$meta$internal$pc$CompletionProvider$$loadSymbolFromClassfile
+WARNING: no such symbol: Classfile(org/openqa/selenium/json/,JsonInput.class)
+INFO  compiling root (1 scala source)
+INFO  time: compiled root in 0.89s
+INFO  compiling root (1 scala source)
+INFO  time: compiled root in 0.97s
+Dec 03, 2019 7:27:30 PM scala.meta.internal.pc.CompletionProvider scala$meta$internal$pc$CompletionProvider$$loadSymbolFromClassfile
+WARNING: no such symbol: Classfile(org/apache/commons/text/lookup/,StringLookup.class)
+Dec 03, 2019 7:27:30 PM scala.meta.internal.pc.CompletionProvider scala$meta$internal$pc$CompletionProvider$$loadSymbolFromClassfile
+WARNING: no such symbol: Classfile(org/apache/commons/text/lookup/,MapStringLookup.class)
+Dec 03, 2019 7:27:30 PM scala.meta.internal.pc.CompletionProvider scala$meta$internal$pc$CompletionProvider$$loadSymbolFromClassfile
+WARNING: no such symbol: Classfile(org/apache/commons/text/lookup/,DateStringLookup.class)
+Dec 03, 2019 7:27:30 PM scala.meta.internal.pc.CompletionProvider scala$meta$internal$pc$CompletionProvider$$loadSymbolFromClassfile
+WARNING: no such symbol: Classfile(org/apache/commons/text/lookup/,NullStringLookup.class)
+Dec 03, 2019 7:27:30 PM scala.meta.internal.pc.CompletionProvider scala$meta$internal$pc$CompletionProvider$$loadSymbolFromClassfile
+WARNING: no such symbol: Classfile(org/apache/commons/text/lookup/,LocalHostStringLookup.class)
+Dec 03, 2019 7:27:30 PM scala.meta.internal.pc.CompletionProvider scala$meta$internal$pc$CompletionProvider$$loadSymbolFromClassfile
+WARNING: no such symbol: Classfile(org/apache/commons/text/lookup/,InterpolatorStringLookup.class)
+Dec 03, 2019 7:27:30 PM scala.meta.internal.pc.CompletionProvider scala$meta$internal$pc$CompletionProvider$$loadSymbolFromClassfile
+WARNING: no such symbol: Classfile(org/apache/commons/text/lookup/,JavaPlatformStringLookup.class)
+Dec 03, 2019 7:27:30 PM scala.meta.internal.pc.CompletionProvider scala$meta$internal$pc$CompletionProvider$$loadSymbolFromClassfile
+WARNING: no such symbol: Classfile(org/apache/commons/text/lookup/,SystemPropertyStringLookup.class)
+Dec 03, 2019 7:27:30 PM scala.meta.internal.pc.CompletionProvider scala$meta$internal$pc$CompletionProvider$$loadSymbolFromClassfile
+WARNING: no such symbol: Classfile(org/apache/commons/text/lookup/,ResourceBundleStringLookup.class)
+Dec 03, 2019 7:27:30 PM scala.meta.internal.pc.CompletionProvider scala$meta$internal$pc$CompletionProvider$$loadSymbolFromClassfile
+WARNING: no such symbol: Classfile(org/apache/commons/text/lookup/,EnvironmentVariableStringLookup.class)
+INFO  compiling root (1 scala source)
+INFO  time: compiled root in 0.92s
+INFO  compiling root (1 scala source)
+INFO  time: compiled root in 0.28s
+INFO  compiling root (1 scala source)
+INFO  time: compiled root in 0.15s
+ERROR Failed to compile 'root'
+INFO  compiling root (1 scala source)
+INFO  time: compiled root in 99ms
+ERROR Failed to compile 'root'
+INFO  compiling root (1 scala source)
+INFO  time: compiled root in 0.9s
+                                                                                              

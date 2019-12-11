@@ -1,0 +1,14 @@
+[0m[[0m[0mdebug[0m] [0m[0mAcquiring lock on file /home/vishnu/Downloads/play-sample/project/target/.sbt-compilation-infos/root-compile/.sbt-idea-lock ...[0m
+[0m[[0m[31merror[0m] [0m[0m/home/vishnu/Downloads/play-sample/app/Mongo/MongoData.scala:9:66: type mismatch;[0m
+[0m[[0m[31merror[0m] [0m[0m found   : Unit[0m
+[0m[[0m[31merror[0m] [0m[0m required: org.mongodb.scala.Completed[0m
+[0m[[0m[31merror[0m] [0m[0m      override def onNext(result: Completed): Completed = println(s"onNext: $result")[0m
+[0m[[0m[31merror[0m] [0m[0m                                                                 ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/vishnu/Downloads/play-sample/app/Mongo/MongoData.scala:16:26: not found: value document[0m
+[0m[[0m[31merror[0m] [0m[0m    collection.insertOne(document).subscribe(observer = new Observer[Completed] {[0m
+[0m[[0m[31merror[0m] [0m[0m                         ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/vishnu/Downloads/play-sample/app/Mongo/MongoData.scala:16:46: not found: value observer[0m
+[0m[[0m[31merror[0m] [0m[0m    collection.insertOne(document).subscribe(observer = new Observer[Completed] {[0m
+[0m[[0m[31merror[0m] [0m[0m                                             ^[0m
+[0m[[0m[31merror[0m] [0m[0mthree errors found[0m
+[0m[[0m[0mdebug[0m] [0m[0mReleasing lock on file /home/vishnu/Downloads/play-sample/project/target/.sbt-compilation-infos/root-compile/.sbt-idea-lock.[0m
